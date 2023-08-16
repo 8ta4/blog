@@ -1,4 +1,4 @@
-I'm here to personally assist you in automating your Chrome installation and configuration. If your configuration is hosted online, I can even contribute some pull requests for you.
+I'm here to personally assist you in automating your Chrome extension installation and configuration. If your configuration is hosted online, I can even contribute some pull requests for you.
 
 I've developed a new tool called [extension](https://github.com/8ta4/extension). This handy tool automates the installation and configuration of Chrome extensions on macOS.
 
