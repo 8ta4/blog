@@ -1,4 +1,4 @@
-I'm in the middle of designing a Chrome extension that I've tentatively named `quest`. The big idea? To totally change the way we digest technical content by turning it into a Q&A journey. Think "Choose Your Own Adventure" book, but with questions instead of goblins and wizards. It's still early days, and I haven't started coding yet. But I do have a design rationale, which you can check out right [here](https://github.com/8ta4/quest/blob/main/docs/RATIONALE.md).
+I'm in the middle of designing a Chrome extension that I've tentatively named `quest`. The big idea? To totally change the way we digest technical content by turning it into a Q&A journey. Think "Choose Your Own Adventure" book, but with questions instead of goblins and wizards. It's still early days, and I haven't started coding yet. But I do have a design rationale, which you can check out right [here](https://github.com/8ta4/quest/blob/cbdb11ceb1caf1a3b195e08491fbe34b3d4c72bd/docs/RATIONALE.md).
 
 `quest` has some cool features:
 
