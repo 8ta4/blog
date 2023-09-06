@@ -1,4 +1,4 @@
-I'm on the hunt for a tool that can record and transcribe my voice 24/7. For years, scientists worked tirelessly to give humans the gift of eternal memory. Now, every time I forget my anniversary, it's clearly on purpose.
+I'm on the hunt for a tool that can record and transcribe my voice 24/7 to vocalize and capture every thought. For years, scientists worked tirelessly to give humans the gift of eternal memory. Now, every time I forget my anniversary, it's clearly on purpose.
 
 ## How I'll Use It
 
