@@ -1,4 +1,12 @@
-I'm on the hunt for a tool that can record and transcribe my voice 24/7.
+I'm on the hunt for a tool that can record and transcribe my voice 24/7. For years, scientists worked tirelessly to give humans the gift of eternal memory. Now, every time I forget my anniversary, it's clearly on purpose.
+
+## How I'll Use It
+
+Here are some ways I plan to use the transcriptions:
+
+- **Drafting Content:** Mainly, I'll use it to draft messages, emails, social posts, documents - you name it!
+- **LLM Feedback:** Another idea is to feed my daily thoughts into a Language Model (LLM) for insights and practical suggestions.
+- **Auto-Completion:** In the long run, I'd love for the LLM to look at my past transcripts and auto-complete what I'm about to say.
 
 ## What I'm Looking For
 
@@ -18,13 +26,5 @@ Here's what I need in this tool:
 - **Hardware:** Something stationary would work best. Maybe an old mobile phone or a Raspberry Pi. If there's wearable tech that can last all day and gives clearer recordings and more accurate transcriptions, I'm all for it!
 - **Voice Recognition:** Ideally, it should only pick up my voice and ignore everyone else's. But if that's not possible, I can make sure no one else is around when I'm using it.
 - **Offline Use:** An offline mode would be a nice bonus. But since I'll mostly be using this at home, it's not a deal-breaker.
-
-## How I'll Use It
-
-Here are some ways I plan to use the transcriptions:
-
-- **Drafting Content:** Mainly, I'll use it to draft messages, emails, social posts, documents - you name it!
-- **LLM Feedback:** Another cool idea is to feed my daily thoughts into a Language Model (LLM) for insights and practical suggestions.
-- **Auto-Completion:** In the long run, I'd love for the LLM to look at my past transcripts and auto-complete what I'm about to say.
 
 I know there are some privacy concerns with this kind of tool. But since it'll be in my home, I'm not too worried about invading anyone else's privacy.
