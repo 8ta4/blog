@@ -1,30 +1,30 @@
-I am seeking a tool that can record and transcribe my voice 24/7, replacing traditional dictation methods. Ideally, it should start and stop recording automatically.
+I'm on the hunt for a tool that can record and transcribe my voice 24/7.
 
-## Requirements
+## What I'm Looking For
 
-The tool should meet the following requirements:
+Here's what I need in this tool:
 
-- **Accuracy:** The tool should be highly accurate, ideally state-of-the-art or near human level.
-- **Low Latency:** The tool should have low latency, ideally less than 1 second.
-- **Noise Resistance:** The tool should work in noisy environments.
-- **Budget:** I expect the cost to be less than $100/month as a productivity tool. However, I am willing to be flexible if the cost is justified by increased productivity.
-- **Storage:** I would like to keep transcriptions indefinitely and recordings if affordable. Silent parts of recordings are not necessary. Automatic local availability through Dropbox or another syncing service is preferred.
-- **Security:** If cloud storage is included, strong security measures including encryption are essential.
-- **Segmentation:** The tool should segment my transcript so that I can easily copy relevant segments. If I switch topics while speaking, the transcript should be segmented accordingly.
-- **Integration:** Integration with macOS, Neovim, and Alacritty for drafting text would be ideal. A Neovim plugin or macOS clipboard integration would be appreciated.
-- **Format:** A raw text file with timestamps would be versatile. One primary format is sufficient, but more options are welcome.
-- **Local Transcription:** Local transcription is preferred, but cloud-based solutions are acceptable if they offer better accuracy, latency, or maintenance.
-- **Accessibility:** I should be able to access the transcriptions using my computer, but my computer should not be the recording device.
-- **Hardware:** A stationary device would be ideal. An old mobile phone or Raspberry Pi would work well. Wearable tech is acceptable if the battery lasts at least a day and it improves recording clarity and transcription accuracy.
-- **Voice Recognition:** The tool should recognize and transcribe only my voice, ignoring others. If this is not possible, I can ensure no other voices are present.
-- **Offline Use:** An offline mode would be nice to have, but it is not essential as I will primarily use this tool at home.
+- **Accuracy:** It should catch every word I say, almost as good as a human would.
+- **Speed:** It should be quick on its feet - ideally, less than a second's delay.
+- **Noise Resistance:** A little background noise shouldn't throw it off.
+- **Budget:** I'm hoping to keep it under $100/month. But hey, if it boosts my productivity, I might be willing to stretch that a bit.
+- **Storage:** I'd love to keep the transcriptions forever, and the recordings too if it doesn't cost an arm and a leg. No need for the silent bits though. If it could sync up with Dropbox or something similar, that would be super convenient.
+- **Security:** If it uses cloud storage, top-notch security measures like encryption are a must.
+- **Segmentation:** It would be great if it could break up my transcript into manageable chunks. That way, if I switch topics mid-sentence, each topic gets its own segment.
+- **Integration:** It would be awesome if it could work with macOS, Neovim, and Alacritty for drafting text. Something like a Neovim plugin or macOS clipboard integration would be really handy.
+- **Format:** A simple text file with timestamps would do the trick. But hey, the more options, the merrier!
+- **Local Transcription:** I'd prefer if it could transcribe locally, but I'm open to cloud-based solutions if they're more accurate or easier to maintain.
+- **Accessibility:** I should be able to access the transcriptions from my computer. But my computer should not be the recording device.
+- **Hardware:** Something stationary would work best. Maybe an old mobile phone or a Raspberry Pi. If there's wearable tech that can last all day and gives clearer recordings and more accurate transcriptions, I'm all for it!
+- **Voice Recognition:** Ideally, it should only pick up my voice and ignore everyone else's. But if that's not possible, I can make sure no one else is around when I'm using it.
+- **Offline Use:** An offline mode would be a nice bonus. But since I'll mostly be using this at home, it's not a deal-breaker.
 
-## Use Cases
+## How I'll Use It
 
-The transcriptions will be used for various purposes:
+Here are some ways I plan to use the transcriptions:
 
-- **Drafting Content:** The primary purpose is to draft messages, emails, social posts, documents, etc.
-- **LLM Feedback:** Another potential use case is to feed my daily thoughts into a Language Model (LLM) for insights and practical suggestions.
-- **Auto-Completion:** In the long term, I would like the LLM to query my past transcripts to predict and auto-complete what I'm going to say.
+- **Drafting Content:** Mainly, I'll use it to draft messages, emails, social posts, documents - you name it!
+- **LLM Feedback:** Another cool idea is to feed my daily thoughts into a Language Model (LLM) for insights and practical suggestions.
+- **Auto-Completion:** In the long run, I'd love for the LLM to look at my past transcripts and auto-complete what I'm about to say.
 
-While I am aware of the privacy implications of such a tool, it will be located in my home, minimizing concerns about others' privacy.
+I know there are some privacy concerns with this kind of tool. But since it'll be in my home, I'm not too worried about invading anyone else's privacy.
