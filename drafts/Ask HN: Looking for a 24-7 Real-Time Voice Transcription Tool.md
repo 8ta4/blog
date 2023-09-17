@@ -5,6 +5,7 @@ I've looked into a few options, but none of them seem to provide the non-stop, r
 - Siri/Google Assistant: They're great for short dictations, but they don't offer continuous transcription.
 - Otter.ai: This tool provides real-time transcription for meetings and interviews, but using it 24/7 could get expensive.
 - Rev Voice Recorder: It lacks real-time capabilities and needs to be manually activated.
+- The NSA: I won't be able to pass their security clearance because of that "classified" recording of my ex in bed... snoring like a freight train all night.
 
 Before I decide to build or modify a tool myself, I thought I'd ask here:
 
