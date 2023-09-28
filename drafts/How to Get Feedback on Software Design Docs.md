@@ -1,6 +1,6 @@
 I'm working on a voice transcription tool and I wrote a software design document. It's all text, no diagrams. It covers the technical architecture and functionality.
 
-- Where can I share it to get some helpful feedback?
+- Where can I share it to get some constructive feedback?
 
 - How can I avoid sounding like I'm just promoting my work?
 
