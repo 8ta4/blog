@@ -9,4 +9,6 @@ What I want is a site that has these features:
 - Every quote has a source (book title and page number, or article link with text highlight)
 - Users can vote on answers
 
+I'm going to post a question on this site: "How do I pronounce Shia LaBeouf's last name?" I bet the answer will be "Just Do It."
+
 Is there such a site out there? 
