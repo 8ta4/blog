@@ -1,5 +1,5 @@
-Looking for Math and CS Books with Q&A Style Beyond the Basics
+Don't you hate it when CS and math textbooks drop a bomb like P vs NP and then say "the proof is left as an exercise for the reader"?
 
-I love math and CS books that ask me questions and then answer them. Like the Schemer series ("The Little Schemer", "The Seasoned Schemer" etc.), "Quick Calculus", "Engineering Mathematics", "Advanced Engineering Mathematics", and "Abstract Algebra: A Student-Friendly Approach". These books are great because they let you learn at your own pace, give you instant feedback, and make you feel like a Jedi master. But what if you want to go beyond the basics and explore more advanced topics? Where can you find books that use this awesome teaching method?
+But hey, not all textbooks are like that. I love books that teach me CS and math through a Q&A dialogue, like the ones by the Schemers ("The Little Schemer", "The Seasoned Schemer" etc.), "Quick Calculus", "Abstract Algebra: A Student-Friendly Approach", and Stroud's "Engineering Mathematics" and "Advanced Engineering Mathematics". These books are great because they let you learn at your own pace, give you instant feedback, and make you feel like a Jedi master. 
 
-If you have any suggestions for books that use this Q&A style for higher-level math and CS, please share them with me.
+But here's the catch - I'm looking for more. I want to dive into advanced topics with this same Q&A style. Where can you find books that use this awesome teaching method?
