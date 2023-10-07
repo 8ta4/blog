@@ -14,6 +14,6 @@ What I want is a site that has these features:
 
 - Users can vote on answers
 
-I'm going to post a question on this site: "How do I pronounce Shia LaBeouf's last name?" I bet the answer will be "Just Do It."
+If I post a question, "How do I pronounce Shia LaBeouf's last name?" the answer will be "Just Do It."
 
-Is there such a site out there? 
+Is there such a site out there?
