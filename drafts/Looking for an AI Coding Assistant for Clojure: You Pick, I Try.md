@@ -6,4 +6,4 @@ Your suggestions are not just welcome, they're going to be put to the test. Live
 
 Just one little snag though. Docker and local GPU are off-limits.
 
-I have used Phind for many projects, but now I'm curious to see what else is out there.
+I have used Phind for many projects while live streaming my coding adventures in Haskell, PureScript, and Bash, but now I'm curious to see what else is out there.
