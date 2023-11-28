@@ -14,4 +14,9 @@ I'm sure there's a better option out there.
 
 Aside from the microphone hunt, I'm also exploring speaker verification. u/rdesh26 [recommended the pre-trained ECAPA-TDNN model from SpeechBrain](https://old.reddit.com/r/speechrecognition/comments/17j1w4r/speaker_recognition_model/kac6rq1/), which looks promising. However, this isn't a replacement for a high-quality microphone.
 
-I've also created a proof of concept [here](https://github.com/8ta4/say). It's still very buggy. My hope is that by sharing this early-stage concept, it might spark collaborative improvements. Whether it's refining this tool or exploring a completely new approach, I'd love to team up if you're working on something similar or have insights to share.
+I've also created a proof of concept [here](https://github.com/8ta4/say). I have two branches:
+
+- Main Branch: You can try this software, but it's very buggy.
+- Develop Bransh: Your feedback will help me improve this software.
+
+My hope is that by sharing this early-stage concept, it might spark collaborative improvements. Whether it's refining this tool or exploring a completely new approach, I'd love to team up if you're working on something similar or have insights to share.
