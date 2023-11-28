@@ -17,6 +17,6 @@ Aside from the microphone hunt, I'm also exploring speaker verification. u/rdesh
 I've also created a proof of concept [here](https://github.com/8ta4/say). I have two branches:
 
 - [Main Branch](https://github.com/8ta4/say): You can try this software, but it's very buggy.
-- [Develop Bransh](https://github.com/8ta4/say/tree/c1df6ef494c9e87886115822d25386cd5b0ea3bf): This branch is my next rewrite and it's not working yet. Your feedback on this branch will help me improve this software.
+- [Develop Branch](https://github.com/8ta4/say/tree/c1df6ef494c9e87886115822d25386cd5b0ea3bf): This branch is my next rewrite and it's not working yet. Your feedback on this branch will help me improve this software.
 
 My hope is that by sharing this early-stage concept, it might spark collaborative improvements. Whether it's refining this tool or exploring a completely new approach, I'd love to team up if you're working on something similar or have insights to share.
