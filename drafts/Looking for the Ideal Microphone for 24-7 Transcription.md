@@ -4,9 +4,9 @@ The biggest hurdle so far has been finding the right microphone. I have two main
 
 I've put more than a dozen microphones to the test, and the [Poly Voyager 5200](https://www.poly.com/us/en/products/headsets/voyager/voyager-5200) came out on top. However, it's not without its flaws:
 
-1. **Battery Life**: It only lasts for 7 hours.
 1. **Noise**: It doesn't perform well in noisy environments.
 1. **Connectivity**: There are occasional connectivity issues.
+1. **Battery Life**: It only lasts for 7 hours.
 1. **Charging Port**: It uses an outdated USB mini port instead of USB-C.
 
 Despite these issues, the Poly Voyager 5200 is the best I've found so far. But I'm sure there's a better option out there.
