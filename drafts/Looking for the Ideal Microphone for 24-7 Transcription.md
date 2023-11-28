@@ -12,8 +12,6 @@ I've put more than a dozen microphones to the test, and the [Poly Voyager 5200](
 1. **Battery Life**: It only [lasts for 7 hours](https://www.poly.com/us/en/products/headsets/voyager/voyager-5200#:~:text=Talk%2Fstandby%20time-,up%20to%20seven%20hr).
 1. **Charging Port**: It [uses an old Micro USB](https://www.poly.com/us/en/products/headsets/voyager/voyager-5200#2specifications) instead of USB-C.
 
-I'm sure there's a better option out there.
-
 Aside from the microphone hunt, I'm also exploring speaker verification. u/rdesh26 [recommended the pre-trained ECAPA-TDNN model from SpeechBrain](https://old.reddit.com/r/speechrecognition/comments/17j1w4r/speaker_recognition_model/kac6rq1/), which looks promising. However, this isn't a replacement for a high-quality microphone.
 
 I've also created a proof of concept. I have two branches:
