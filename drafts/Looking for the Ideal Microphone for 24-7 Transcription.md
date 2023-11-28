@@ -8,7 +8,7 @@ I've put more than a dozen microphones to the test, and the [Poly Voyager 5200](
 1. **Excessive Noise Cancellation**: It sometimes cancels out my voice when I'm in a small enclosed space.
 1. **Connectivity**: There are occasional connectivity issues.
 1. **Battery Life**: It only [lasts for 7 hours](https://www.poly.com/us/en/products/headsets/voyager/voyager-5200#:~:text=Talk%2Fstandby%20time-,up%20to%20seven%20hr).
-1. **Charging Port**: It [uses an old Micro USB](https://www.poly.com/us/en/products/headsets/voyager/voyager-5200#:~:text=Updateable%20firmware-,charge%20connector,-Micro%20USB%20connection) instead of USB-C.
+1. **Charging Port**: It [uses an old Micro USB](https://www.poly.com/us/en/products/headsets/voyager/voyager-5200#2specifications) instead of USB-C.
 
 I'm sure there's a better option out there.
 
