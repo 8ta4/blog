@@ -6,17 +6,17 @@ At first, I spent a lot on Shure's fancy noise-cancelling mic. My partner said, 
 
 Currently, I'm leaning towards Shokz's OpenComm 2. But it's not quite there yet. Here's why:
 
-1. **Noise Cancellation**: It's not great at blocking out background noise, especially loud announcements. The Poly Voyager 5200 had this issue too.
+1. **Noise Cancellation**: It's not great at blocking out background noise, especially loud announcements. The Poly Voyager 5200 did better. I tested them with some noise at arm's length. Voyager barely picked it up, but OpenComm 2 did.
 1. **Voice Chat**: Discord voice chat doesn't work at all.
 1. **Multiple Device Connectivity**: The ability to connect multiple devices and transmit audio signals simultaneously would be a game-changer. Sadly, OpenComm 2 doesn't support this.
 1. **Reconnection**: It doesn't automatically reconnect to my Mac when it comes back into range.
-1. **Wind Noise**: Poly Voyager 5200 handled wind noise better. I don't want to add a windscreen because that would complicate things.
+1. **Wind Noise**: Poly Voyager 5200 handled wind noise better. I tested them by holding them near an air conditioner. The Voyager didn't pick up much wind noise, but the OpenComm 2 did, sometimes as loud as my voice. I don’t want to use a windscreen, because that's too much hassle.
 1. **Mic Muting**: The mic doesn't auto-mute when I move the boom up.
 1. **Comfort**: It's mostly comfortable, but it starts to bother me after wearing it for a while.
-1. **Charging**: It automatically turns off when plugged in, and this feature seems to be non-configurable.
-1. **Charging Cable**: I get the proprietary charging port for waterproofing, but using outdated USB-A instead of USB-C is a bummer.
+1. **Charging**: "[The headset will automatically shut down when charging](https://cdn.shopify.com/s/files/1/0857/5574/files/OpenComm2.pdf#page=22)." This feature seems to be non-configurable.
+1. **Charging Cable**: I get the proprietary charging port for waterproofing, but [using outdated USB-A](https://shokz.com/products/opencomm-magnetic-charging-cable) instead of USB-C is a bummer.
 1. **Audio Quality**: I've noticed the sound starts to crackle even at medium volume.
-1. **Playback Button**: Ideally, double-clicking should skip to the next track, and triple-clicking should go back one. But this doesn't work with YouTube or Dropbox.
+1. **Playback Button**: Ideally, [double-clicking should skip to the next track, and triple-clicking should go back one](https://cdn.shopify.com/s/files/1/0857/5574/files/OpenComm2.pdf#page=9). But this doesn't work with YouTube or Dropbox.
 1. **Battery Display**: The headset's battery level is visible when it's connected to my Mac via Bluetooth, but not when using a USB-C dongle. Plus, it's not possible to check the battery level on my iPhone. Ideally, both my Mac and iPhone would display the headset's battery level consistently, just like they do for their own batteries.
 
 So, the search continues for a headset that can do a better job.
