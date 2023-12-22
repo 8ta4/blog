@@ -1,10 +1,10 @@
-A few months ago, I started looking for the perfect headset for I've been working on. The goal? To transcribe everything I say, all day, every day (check out the [goals here](https://github.com/8ta4/say/blob/e6d412d57fa042442e7ab066d88e8bd8ad291d65/DONTREADME.md#goals)).
+A few months ago, I started looking for the perfect headset for a project I've been working on. The goal? To transcribe everything I say, all day, every day (check out the [goals here](https://github.com/8ta4/say/blob/e6d412d57fa042442e7ab066d88e8bd8ad291d65/DONTREADME.md#goals)).
 
-Finding the right microphone has been a challenge. I need something that's comfortable to wear all day and can pick up my voice clearly (see the [headset requirements](https://github.com/8ta4/say/blob/e6d412d57fa042442e7ab066d88e8bd8ad291d65/README.md#usage:~:text=If%20there%20are,saving%20you%20from%3A)).
+Finding the right microphone has been a challenge. I need something comfortable to wear all day and can pick up my voice clearly (see the [headset requirements](https://github.com/8ta4/say/blob/e6d412d57fa042442e7ab066d88e8bd8ad291d65/README.md#usage:~:text=If%20there%20are,saving%20you%20from%3A)).
 
 At first, I spent a lot on Shure's fancy noise-cancelling mic. My partner said, "I'm sure that was a sound investment." I said, "Absolutely, and I'm getting one for you too, to cancel out all the noise you make!"
 
-Currently, I'm leaning towards Shokz's OpenComm 2. But it's not quite there yet. Here's why:
+Currently, I'm leaning toward Shokz's OpenComm 2. But it's not quite there yet. Here's why:
 
 1. **Noise Cancellation**: It's not great at blocking out background noise, especially loud announcements. The Poly Voyager 5200 did better. I tested them with some noise at arm's length. Voyager barely picked it up, but OpenComm 2 did.
 1. **Voice Chat**: Discord voice chat doesn't work at all.
@@ -17,6 +17,6 @@ Currently, I'm leaning towards Shokz's OpenComm 2. But it's not quite there yet.
 1. **Charging Cable**: I get the proprietary charging port for waterproofing, but [using outdated USB-A](https://shokz.com/products/opencomm-magnetic-charging-cable) instead of USB-C is a bummer.
 1. **Audio Quality**: I've noticed the sound starts to crackle even at medium volume.
 1. **Playback Button**: Ideally, [double-clicking should skip to the next track, and triple-clicking should go back one](https://cdn.shopify.com/s/files/1/0857/5574/files/OpenComm2.pdf#page=9). But this doesn't work with YouTube or Dropbox.
-1. **Battery Display**: The headset's battery level is visible when it's connected to my Mac via Bluetooth, but not when using a USB-C dongle. Plus, it's not possible to check the battery level on my iPhone. Ideally, both my Mac and iPhone would display the headset's battery level consistently, just like they do for their own batteries.
+1. **Battery Display**: The headset's battery level is visible when it's connected to my Mac via Bluetooth, but not when using a USB-C dongle. Plus, it's impossible to check my iPhone's battery level. Ideally, both my Mac and iPhone would display the headset's battery level consistently, just like they do for their batteries.
 
 So, I'm still looking for a better headset. Any leads would be appreciated!
