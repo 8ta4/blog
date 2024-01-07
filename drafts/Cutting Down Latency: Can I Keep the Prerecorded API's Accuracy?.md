@@ -1,4 +1,4 @@
-I'm working on an open-source project called `say`, which transcribes voice 24/7.
+I'm working on an open-source project called [`say`](https://github.com/8ta4/say), which transcribes voice 24/7.
 
 How can I slash latency big time but still keep the accuracy of the prerecorded API intact?
 
