@@ -16,4 +16,4 @@ I've brainstormed a few potential solutions:
 - Hybrid API: Deepgram could potentially offer an API that allows for real-time audio streaming to be temporarily stored and then processed using the prerecorded API once the streaming is complete. This could bypass the initial upload delay and maintain high accuracy.
 - On-Premise Hosting: Deepgram has [an enterprise on-premise solution](https://deepgram.com/pricing). But maybe they can offer a cheaper on-premise hosting solution that open-source projects can use. Then I could whip up the hybrid API myself.
 
-I realize that these solutions might require significant development on Deepgram's part. So, I'm open to any suggestions or alternative strategies.
+I realize that these solutions might require significant development on Deepgram's part. So, I'm open to any suggestions.
