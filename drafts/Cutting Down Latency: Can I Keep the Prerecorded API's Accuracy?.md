@@ -11,8 +11,10 @@ The streaming API doesn't quite hit the mark in terms of accuracy. I was dreamin
 
 I suspect that the TCP slow start might be the culprit behind the latency issues with the prerecorded API. For reference, I'm using [Opus](https://github.com/8ta4/say/blob/28276acd622fd2cd8d0f86568534361927ddf363/DONTREADME.md?plain=1#L157) with [a 24kbps bitrate](https://github.com/8ta4/say/blob/28276acd622fd2cd8d0f86568534361927ddf363/DONTREADME.md?plain=1#L165) and [a gigabit connection in the continental US](https://github.com/8ta4/say/blob/28276acd622fd2cd8d0f86568534361927ddf363/DONTREADME.md?plain=1#L251).
 
+I've experimented with a readable stream to send audio data using Deepgram's Node SDK. The idea was to keep the connection alive as more audio gets recorded. But the connection doesn't stick around.
+
 I've brainstormed a few potential solutions:
-- Deepgram's Node SDK and Readable Stream: I've experimented with a readable stream to send audio data using Deepgram's Node SDK. The idea was to keep the connection alive as more audio gets recorded. But the connection doesn't stick around.
+- Deepgram's Node SDK and Readable Stream: Deepgram could improve their Node SDK, so that the connection stays longer when streaming audio data using prerecorded API.
 - Hybrid API: Deepgram could offer an API that allows for real-time audio streaming to be temporarily stored and then processed using the prerecorded API once the streaming is complete. This could bypass the upload delay.
 - On-Premise Hosting: Deepgram has [an enterprise on-premise solution](https://deepgram.com/pricing). But maybe they can offer a cheaper on-premise hosting solution that open-source projects can use. Then I could whip up the hybrid API myself.
 
