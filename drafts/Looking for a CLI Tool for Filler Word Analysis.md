@@ -2,7 +2,7 @@ I'm working on a personal project to improve my spoken language skills. I've cre
 
 My goal now is to reduce the filler words I use.
 
-Here's what I'm looking for in a solution:
+I've been toying with the idea of a separate tool. Is there something like this already out there, or perhaps a better method that speech language pathology gurus would vouch for? If it's already in existence, I could just adopt it and save some development time.
 
 - **Filler Word Analysis**: The tool should tally up common filler words and provide their frequency.
 - **Baseline Comparison**: It should compare my filler word usage with standard linguistic data (like Google's n-gram dataset) to determine if I'm above or below the norm.
