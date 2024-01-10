@@ -1,4 +1,4 @@
-I'm working on a personal project to improve my spoken language skills. I've created a tool that transcribes everything I say 24/7. My transcript revealed that "uh" and "huh" are my most frequent fillers. It was an "uh-huh" moment!
+I'm working on a personal project to improve my spoken language skills. I've created [an open-source tool](https://github.com/8ta4/say) that transcribes everything I say 24/7. My transcript revealed that "uh" and "huh" are my most frequent fillers. It was an "uh-huh" moment!
 
 My goal now is to reduce the filler words I use.
 
