@@ -1,4 +1,8 @@
-I want to transcribe my every word, all day, every day. I've tried a few devices, but none of them work well with water.
+Is there a shower-friendly, noise-canceling microphone out there that can accurately capture my speech while I'm in the shower?
+
+I want to transcribe my every word, all day, every day. I've previously asked for advice on subreddits like r/HeadphoneAdvice and r/speechrecognition, but back then I was hunting for a noise-canceling mic for outdoor use.
+
+I've tried a few devices, but none of them work well with water.
 
 Here's the rundown of my trials:
 
