@@ -12,8 +12,8 @@ Here's the rundown of my trials:
 
 I also gave [Krisp](https://krisp.ai/), a noise-canceling software, a shot, hoping it would boost transcription accuracy. Here's the scoop:
 
-- With the Bose and OpenRun, it didn't really make a difference.
-- For the Voyager 5200, Krisp actually seemed to make the transcription accuracy worse.
+- With the Bose and OpenRun, it didn't help because transcription was still useless.
+- For the Voyager 5200, Krisp actually made the transcription worse.
 
 The real challenge is to find a mic that can:
 - Withstand the shower environment
