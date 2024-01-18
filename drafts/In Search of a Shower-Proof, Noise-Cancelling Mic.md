@@ -6,9 +6,14 @@ I've tried a few devices, but none of them work well with water.
 
 Here's the rundown of my trials:
 
-- Bose Soundlink Micro Bluetooth Speaker: It picks up voice, but the moment you hit the shower, the transcription accuracy nosedives because it doesn't filter out the noise.
-- OpenRun: The mic quality leaves a lot to be desired, especially when it's wet. It has an IP67 rating, but if you soak it in water, the sound quality drops and the transcription becomes gibberish.
-- Poly Voyager 5200: It's not exactly waterproof (IPX4 rating), but I gave it a whirl in a mock shower setup (no direct water contact). The results were encouraging. It managed to separate my voice from the background noise pretty well, hinting that the right waterproof mic could do the trick.
+- [Bose SoundLink Micro Bluetooth Speaker](https://www.bose.com/p/speakers/bose-soundlink-micro-bluetooth-speaker/SLMC-SPEAKERWIRELESS.html): It picks up voice, but the moment you hit the shower, the transcription accuracy nosedives because it doesn't filter out the noise.
+- [OpenRun](https://shokz.com/products/openrun): The mic quality leaves a lot to be desired, especially when it's wet. It has an IP67 rating, but if you soak it in water, the sound quality drops and the transcription becomes gibberish.
+- [Voyager 5200](https://www.poly.com/us/en/products/headsets/voyager/voyager-5200): It's not exactly waterproof (IPX4 rating), but I gave it a whirl in a mock shower setup (no direct water contact). The results were encouraging. It managed to separate my voice from the background noise pretty well, hinting that the right waterproof mic could do the trick.
+
+I also gave [Krisp](https://krisp.ai/), a noise-canceling software, a shot, hoping it would boost transcription accuracy. Here's the scoop:
+
+- With the Bose and OpenRun, it didn't really make a difference.
+- For the Voyager 5200, Krisp actually seemed to make the transcription accuracy worse.
 
 The real challenge is to find a mic that can:
 - Withstand the shower environment
