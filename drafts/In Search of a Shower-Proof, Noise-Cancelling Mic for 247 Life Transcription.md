@@ -1,10 +1,14 @@
 Is there a shower-friendly, noise-canceling microphone out there that can accurately capture my speech while I'm in the shower?
 
-I have [this project](https://github.com/8ta4/say) where I want to transcribe everything I say, 24/7. I've previously asked for advice on subreddits like r/HeadphoneAdvice (https://old.reddit.com/r/HeadphoneAdvice/comments/18pfkgu/looking_for_a_headset_that_can_handle_247/) and r/speechrecognition (https://old.reddit.com/r/speechrecognition/comments/186bk2q/looking_for_the_ideal_microphone_for_247/) before. Back then I was hunting for a noise-canceling mic for outdoor use. But nobody replied. It seems the idea of non-stop transcription didn't quite catch on there. Maybe you folks in the quantified self community will find it more interesting.
+I have [this project](https://github.com/8ta4/say) where I want to transcribe everything I say, 24/7. I want to analyze my speech patterns, word choices, emotions, and more. I want to quantify myself through my voice.
 
-I've tried a few devices, but none of them work well with water.
+But there's a problem: I can't find a good microphone that can handle the shower.
 
-Here's the rundown of my trials:
+I've previously asked for advice on subreddits like r/HeadphoneAdvice (https://old.reddit.com/r/HeadphoneAdvice/comments/18pfkgu/looking_for_a_headset_that_can_handle_247/) and r/speechrecognition (https://old.reddit.com/r/speechrecognition/comments/186bk2q/looking_for_the_ideal_microphone_for_247/) before. Back then I was hunting for a noise-canceling mic for outdoor use. But no one seemed to care. Maybe they just didn't get it.
+
+But you guys get it. You're the quantified self community.
+
+I've tried a few devices, but none of them work well with water. Here's what I've tested so far:
 
 - [Bose SoundLink Micro Bluetooth Speaker](https://www.bose.com/p/speakers/bose-soundlink-micro-bluetooth-speaker/SLMC-SPEAKERWIRELESS.html): It picks up voice, but the moment you hit the shower, the transcription accuracy nosedives because it doesn't filter out the noise.
 - [OpenRun](https://shokz.com/products/openrun): The mic quality leaves a lot to be desired, especially when it's wet. It has an IP67 rating, but if you soak it in water, the sound quality drops and the transcription becomes gibberish.
