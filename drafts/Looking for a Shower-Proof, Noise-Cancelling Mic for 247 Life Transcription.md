@@ -26,3 +26,5 @@ The real challenge is to find a mic that can:
 Then I had this brilliant idea: quit showering. It saves time and money. People leave me alone.
 
 But then I realized I can't stop showering because I got this genius idea in the shower.
+
+So, hit me with your recommendations and stories!
