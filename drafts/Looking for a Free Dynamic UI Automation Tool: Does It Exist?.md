@@ -8,7 +8,9 @@ This is not just about tweaking settings. Generic AI-driven automation would let
 
 Here are my requirements:
 
-- Dynamic UI Adaptation: The tool should be able to interact with software whose UI might change over time due to app or OS updates.
+- Adaptation: The tool should be able to interact with software whose UI might change over time due to app or OS updates.
 - Zero Cost: The tool should be either free, using maybe a venture capital model where the initial user cost is subsidized, or, if the tool runs locally, it should work on a recent Mac's base model.
+
+I've considered some tools like Automator, Apple Script, SikuliX, Selenium, Puppeteer, and Playright. But they all have the same flaw: they can't cope with minor UI changes. I need a tool that can react to UI updates automatically.
 
 Are there any existing tools that meet these requirements?
