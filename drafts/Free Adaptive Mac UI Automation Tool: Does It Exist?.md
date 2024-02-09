@@ -4,7 +4,7 @@ I got this question when a user wanted to [automate Apple Maps settings using pl
 
 I was tempted to say, "Just use Google Maps." But I knew they'd say, "That's not the answer I need." It's a typical XY problem, so I skipped to Z: "Forget Maps. Just get lost."
 
-But then, it hit me. Maybe I'm the one stuck in the XY problem. I was limited by plist management. I wondered if I could try UI automation instead. Imagine being able to automate any setting, not just for Apple Maps but for any app, without relying on plist files or default commands.
+But then, it hit me. Maybe I'm the one stuck in the XY problem. I was limited by plist management. I wondered if I could try UI automation instead. Imagine being able to automate any setting, not just for Apple Maps but for any app, without relying on plist files or `default` commands.
 
 Take, for instance, changing the "Use Large Labels" setting in Apple Maps. A robust tool should be able to adapt to an additional step, a reorganized menu, or even a renamed setting. It should do this without any manual intervention.
 
