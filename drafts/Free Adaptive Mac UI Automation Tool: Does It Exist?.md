@@ -2,7 +2,7 @@ Do you know of any tool that can automate the ever-changing UI of a Mac app and 
 
 This question came to me when I was messing with Apple Maps. [Someone wanted](https://github.com/8ta4/plist/issues/24#issuecomment-1931474720) to automate Apple Maps settings using plist. I thought, "Why bother? Just use Google Maps." But I knew they would say, "That's not the answer I need." It's a typical XY problem, so I skipped to Z: "Forget Maps. Just get lost."
 
-That made me think more about the limitations of plist management. It made me wonder if I could try UI automation instead. Imagine being able to automate any setting, not just for Apple Maps but for any app, without relying on plist files or default commands.
+But then, it hit me. Maybe I'm the one stuck in the XY problem. Plist management has its limits. I wondered if I could try UI automation instead. Imagine being able to automate any setting, not just for Apple Maps but for any app, without relying on plist files or default commands.
 
 Take, for instance, changing the "Use Large Labels" setting in Apple Maps. A robust tool should be able to adapt to an additional step, a reorganized menu, or even a renamed setting. It should do this without any manual intervention.
 
