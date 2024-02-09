@@ -1,6 +1,6 @@
 Do you know of any tool that can automate the ever-changing UI of a Mac app and doesn't cost a dime?
 
-This question came to me when a user wanted to [automate Apple Maps settings using plist](https://github.com/8ta4/plist/issues/24#issuecomment-1931474720). I thought it was a reasonable request, until I hit a roadblock. The setting they wanted to automate was nowhere to be found in plist, so my tool was useless.
+This question came to me when a user wanted to [automate Apple Maps settings using plist](https://github.com/8ta4/plist/issues/24#issuecomment-1931474720). I thought it was a reasonable request until I hit a roadblock. The setting they wanted to automate was nowhere to be found in plist, so my tool was useless.
 
 I was tempted to say, "Just use Google Maps." But I knew they'd say, "That's not the answer I need." It's a typical XY problem, so I skipped to Z: "Forget Maps. Just get lost."
 
