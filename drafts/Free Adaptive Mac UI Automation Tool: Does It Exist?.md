@@ -13,9 +13,9 @@ This is not just about tweaking settings. Generic AI-driven automation would let
 Here are my requirements:
 
 - Adaptability: The tool should be able to handle software whose UI might change over time due to updates.
-- Free: The tool should be free, maybe using a venture capital model where the initial user cost is subsidized, or running locally on my machine.
+- Free: The tool should be free, maybe using a venture capital model where the initial user cost is subsidized, or running on my machine.
 - Minimal Hardware Requirement: The tool should run on a recent base model Mac.
 
 I've considered some tools like [Automator](https://support.apple.com/guide/automator/welcome/mac), [AppleScript](https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html), [SikuliX](https://github.com/RaiMan/SikuliX1), [Selenium](https://github.com/SeleniumHQ/selenium), [Puppeteer](https://github.com/puppeteer/puppeteer), and [Playright](https://github.com/microsoft/playwright). But they all have the same problem: they break when the UI changes.
 
-Are there any existing tools that meet these requirements?
+Are there any tools that meet these requirements?
