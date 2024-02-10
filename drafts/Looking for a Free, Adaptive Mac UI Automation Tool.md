@@ -20,4 +20,4 @@ I've considered some tools like [Automator](https://support.apple.com/guide/auto
 
 Are there any tools that meet these requirements?
 
-[Someone suggested](https://old.reddit.com/r/macapps/comments/1amil94/free_adaptive_mac_ui_automation_tool_does_it_exist/kptp8g2/) in the comments of my original post to seek advice here at r/MacSysAdmin. So, here I am!
+[Someone suggested](https://old.reddit.com/r/macapps/comments/1amil94/free_adaptive_mac_ui_automation_tool_does_it_exist/kptp8g2/) in the comments of my [original post](https://old.reddit.com/r/macapps/comments/1amil94/free_adaptive_mac_ui_automation_tool_does_it_exist/) to seek advice here at r/MacSysAdmin. So, here I am!
