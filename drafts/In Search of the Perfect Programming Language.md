@@ -4,16 +4,17 @@ Here's what I'm looking for in my dream programming language. Is there some geni
 
 **Language**
 
-1. **Customizable Reader**: Lets developers tweak the language's syntax.
+1. **Customizable Reader**: Lets me change the syntax.
 1. **Hygienic Macros**
 1. **First-Class Functions**: Functions can be passed around.
-1. **Impurity**: Gives you the freedom to mix pure and impure code.
+1. **Impurity**: Lets me mix pure and impure code.
 1. **S-Expressions**: Enables structural editing.
 1. **Immutable Data Structures**
+1. **Forward Reference**: Lets me use constants and functions before they are defined.
 1. **Automatic Promise Handling**: If a function returns a promise, the runtime system automatically treats it as a dataflow variable and schedules a continuation, effectively awaiting its resolution.
 1. **Flexible Standard Library**: Allows the standard library to be replaced or customized.
 1. **Automatic Currying**: I'm a fan of currying, which means no variadic functions unless it's for interop.
-1. **Clear Error Messages**
+1. **Clear Error Messages**: Lets me know what went wrong and how to fix it.
 1. **Gradual Typing**: If the system stumbles upon code where it can't infer the type, it doesn't demand annotations.
 1. **Contract System**
 1. **Flexible Evaluation Strategy**: Supports both strict and lazy evaluation.
@@ -27,23 +28,23 @@ Here's what I'm looking for in my dream programming language. Is there some geni
     - **Logical Code Ordering**: Automatically organizes code starting with high-level definitions.
 1. **Auto Complete**
     - **Type-Aware**: Offers suggestions that are type-compatible.
-    - **Automatic Import**: If you select a function that isn't currently imported, the IDE adds the necessary import for you.
-    - **Alias Management**: If an imported module is commonly used with an alias, the IDE suggests the conventional alias.
+    - **Automatic Import**: Imports the things I select automatically, if they are not already imported.
+    - **Alias Management**: Suggests the common aliases for the modules I import.
 1. **Commenting and Uncommenting**
 1. **Static Analysis**
-    - **Type Inference**: Designed to be as comprehensive as possible.
+    - **Type Inference**: Infers the types of everything as much as possible.
     - **Contract Inference**: Automatically deduces preconditions, postconditions, and invariants.
     - **Duplicate Detection**: Identifies duplicate definitions, keys, etc.
     - **Unused Entity Detection**: Finds unused definitions, imports, etc.
     - **Consistency**: Ensures consistent aliasing, naming conventions, etc.
     - **Idiomatic Code Suggestions**
-1. **Generative Testing**:
+1. **Generative Testing**: Identifies pure function composition and conducts generative testing automatically.
 1. **Structural Editing**: Manipulates S-expressions.
 1. **REPL**
-    - **Contextual Code Evaluation**: The REPL supports evaluating the current form where the cursor is located.
-    - **Namespace Respect**: The REPL respects namespaces.
+    - **Contextual Code Evaluation**: Supports evaluating the current form where the cursor is located.
+    - **Namespace Respect**: Lets me evaluate the code in the namespace I want, without switching to it.
     - **Library Integration**:
-    - **Interactive Navigation**: Uses a tree-like structure to display nested data that can be expanded or collapsed, copied, or used.
+    - **Interactive Navigation**: Lets me explore nested data in a tree-like view, and copy or use any part of it.
 1. **Definition Navigation**: Allows for quick navigation to definitions.
 1. **Refactoring**: Supports renaming namespaces, definitions, function parameters, macro parameters, etc.
 1. **Hot Reloading**
