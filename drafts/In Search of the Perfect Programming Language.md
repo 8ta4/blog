@@ -1,6 +1,6 @@
 Programming languages are all about asking big questions. PureScript asks, “What is purity?” ClojureScript asks, “What is simplicity?” And JavaScript asks, “Wat?”
 
-Here's what I'm looking for in my perfect programming language. Is it in development, by some genius or madman?
+Here's what I'm looking for in my dream programming language. Is there some genius or madman out there cooking this up?
 
 **Language**
 
@@ -29,6 +29,7 @@ Here's what I'm looking for in my perfect programming language. Is it in develop
     - **Type-Aware**: Offers suggestions that are type-compatible.
     - **Automatic Import**: If you select a function that isn't currently imported, the IDE adds the necessary import for you.
     - **Alias Management**: If an imported module is commonly used with an alias, the IDE suggests the conventional alias.
+1. **Commenting and Uncommenting**
 1. **Static Analysis**
     - **Type Inference**: Designed to be as comprehensive as possible.
     - **Contract Inference**: Automatically deduces preconditions, postconditions, and invariants.
