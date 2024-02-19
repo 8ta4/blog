@@ -11,7 +11,8 @@ Here's what I'm looking for in my dream programming language. Is there some geni
 1. **S-Expressions**: Enables structural editing.
 1. **Immutable Data Structures**
 1. **Forward Reference**: Lets me use constants and functions before they are defined.
-1. **Automatic Promise Handling**: If a function returns a promise, the runtime system automatically treats it as a dataflow variable and schedules a continuation, effectively awaiting its resolution.
+1. **Automatic Promise Handling**: If a function returns a promise, the runtime system automatically treats it as a dataflow variable and schedules a continuation, effectively awaiting its resolution, without any special syntax.
+1. **Tail Recursion**: Optimizes both self-recursive and mutually recursive functions seamlessly, without any special syntax.
 1. **Flexible Standard Library**: Allows the standard library to be replaced or customized.
 1. **Automatic Currying**: I'm a fan of currying, which means no variadic functions unless it's for interop.
 1. **Clear Error Messages**: Lets me know what went wrong and how to fix it.
