@@ -22,7 +22,7 @@ I've tried a few popular tools, but they just didn't cut it:
 - Taskwarrior: No multi-line notes and recurring tasks spawn new tasks
 - Emacs Org-mode: Too many keystrokes and occasional performance hiccups
 - Neovim Org-mode: Even more sluggish performance
-- Todo.txt: No Neovim keybinding
+- Todo.txt: No ergonomic keybinding for non-text editing tasks
 
 I've also dabbled with embedding or integrating editors:
 
