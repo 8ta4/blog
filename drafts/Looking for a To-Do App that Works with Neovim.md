@@ -1,4 +1,8 @@
-I'm on the hunt for a to-do management tool that ticks all my boxes. Here's what I'm looking for:
+Has anyone discovered a to-do app that seamlessly integrates Neovim text editing and offers comprehensive task management features?
+
+I wrote this question about finding the perfect to-do app months ago. The first task on my yet-to-be-discovered perfect app should have been, "Remember to post your question about finding the perfect to-do app."
+
+Here's what I'm looking for:
 
 - A Mac app
 - Neovim text editing
