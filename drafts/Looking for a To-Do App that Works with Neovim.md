@@ -17,12 +17,12 @@ Here's what I'm looking for:
 
 I've tried a few popular tools, but they just didn't cut it:
 
-- Todoist: No Neovim keybinding and no local file storage
 - Joplin: No Neovim keybinding
+- Org-mode (Emacs): Too many keystrokes and occasional performance hiccups
+- Org-mode (Neovim): Even more sluggish performance
 - Taskwarrior: No multi-line notes and recurring tasks spawn new tasks
-- Emacs Org-mode: Too many keystrokes and occasional performance hiccups
-- Neovim Org-mode: Even more sluggish performance
 - Todo.txt: No ergonomic keybinding for non-text editing tasks
+- Todoist: No Neovim keybinding and no local file storage
 
 I've also dabbled with embedding or integrating editors:
 
