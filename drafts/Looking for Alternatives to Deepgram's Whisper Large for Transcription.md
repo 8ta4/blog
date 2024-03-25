@@ -2,7 +2,7 @@ Are there any transcription APIs that can quickly transcribe audio recordings in
 
 Requirements:
 
-- Language Support: A service that's strong in multiple languages at least on par with Deepgram's Whisper Large model.
+- Language Support: Strong in multiple languages at least on par with Deepgram's Whisper Large model.
 
 - Speed and Reliability: Looking to transcribe [60-second audio recordings within a second](https://github.com/8ta4/say/blob/ec3f41851f22a5847ebcce4af14565fdede35547/DONTREADME.md#latency) or slightly more.
 
