@@ -17,16 +17,16 @@ Here's what I'm looking for:
 
 I've tried a few popular tools, but they just didn't cut it:
 
-- Joplin: No Neovim keybinding
-- Org-mode (Emacs): Too many keystrokes and occasional performance hiccups
-- Org-mode (Neovim): Even more sluggish performance
-- Taskwarrior: No multi-line notes and recurring tasks spawn new tasks
-- Todo.txt: No ergonomic keybinding for non-text editing tasks
-- Todoist: No Neovim keybinding and no local file storage
+- [Joplin](https://github.com/laurent22/joplin): No Neovim keybinding
+- [Org-mode](https://orgmode.org/) (Emacs): Too many keystrokes and occasional performance hiccups
+- [Org-mode](https://github.com/nvim-orgmode/orgmode) (Neovim): Even more sluggish performance
+- [Taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior): No multi-line notes and recurring tasks spawn new tasks
+- [Todo.txt](https://github.com/todotxt/todo.txt): No ergonomic keybinding for non-text editing tasks
+- [Todoist](https://todoist.com/): No Neovim keybinding and no local file storage
 
 I've also dabbled with embedding or integrating Neovim:
 
-- Firenvim: Textarea doesn't expand as I type, so I have to scroll a lot. Sometimes it messes up the HTML elements. And it keeps the focus after editing, which breaks Vimium navigation.
-- GhostText: It requires me to manually switch to Neovim every time I select a textarea.
+- [Firenvim](https://github.com/glacambre/firenvim): Textarea doesn't expand as I type, so I have to scroll a lot. Sometimes it messes up the HTML elements. And it keeps the focus after editing, which breaks Vimium navigation.
+- [GhostText](https://github.com/fregante/GhostText): It requires me to manually switch to Neovim every time I select a textarea.
 
 If you know of a tool that fits the bill or comes close, I'd love to hear about it! 🙏
