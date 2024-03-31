@@ -22,7 +22,7 @@ For more details on the goals of this project, check out my [project documentati
 
 Now, step number one is where I'm running into the most trouble. To generate a really edgy punchline, you need an uncensored model. And that's where most models fall short.
 
-Dolphin 2.6 Mixtral 8x7b is sweet because it's uncensored and can generate the kind of envelope-pushing humor I need for the punchlines. But in terms of raw language generation ability, it falls a bit short. The punchlines it comes up with are really hit-or-miss.
+Dolphin 2.6 Mixtral 8x7b is sweet because it's uncensored and can generate the kind of envelope-pushing humor I need for the punchlines. But in terms of raw language generation ability, it falls a bit short. The punchlines it comes up with are hit-or-miss.
 
 If there are way too many jokes to evaluate, it starts getting pricey. And the evaluation step isn't foolproof either - there could be some false positives that slip through. So I need to keep the number of punchlines reasonable.
 
