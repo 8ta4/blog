@@ -12,7 +12,7 @@ Punchline: "I think I would have them adopted."
 
 My process looks like this:
 
-1. Come up with an edgy punchline (currently using [Dolphin 2.6 Mixtral 8x7b](https://huggingface.co/cognitivecomputations/dolphin-2.6-mixtral-8x7b))
+1. Come up with an edgy punchline related to a given topic (currently using [Dolphin 2.6 Mixtral 8x7b](https://huggingface.co/cognitivecomputations/dolphin-2.6-mixtral-8x7b))
 
 2. Create an innocent-sounding setup to misdirect the audience (also using Dolphin 2.6 Mixtral 8x7b)
 
@@ -22,7 +22,7 @@ For more details on the goals of this project, check out my [project documentati
 
 Now, step number one is where I'm running into the most trouble. To generate a really edgy punchline, you need an uncensored model. And that's where most models fall short.
 
-Dolphin 2.6 Mixtral 8x7b is sweet because it's uncensored and can generate the kind of envelope-pushing humor I need for the punchlines. But in terms of raw language generation ability, it falls a bit short. The punchlines it comes up with are hit-or-miss.
+Dolphin 2.6 Mixtral 8x7b is sweet because it's uncensored and can generate the kind of envelope-pushing humor I need for the punchlines. But in terms of raw language generation ability, it falls a bit short. The punchlines it generates often lack edge.
 
 If there are way too many jokes to evaluate, it starts getting pricey. And the evaluation step isn't foolproof either - there could be some false positives that slip through. So I need to keep the number of punchlines reasonable.
 
