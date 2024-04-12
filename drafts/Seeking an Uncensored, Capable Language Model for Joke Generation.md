@@ -1,4 +1,4 @@
-Does anyone know of a language model that is uncensored but also has strong text generation capabilities?
+Does anyone know of a language model that is uncensored but also has strong text-generation capabilities?
 
 I'm working on this project to automatically generate jokes using language models.
 
