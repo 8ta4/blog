@@ -1,6 +1,6 @@
 Is there a resource that can help nail down articles and noun forms based on the most frequently spoken words?
 
-Let me tell you why I'm diving deep into articles and noun forms. While working on my always-on transcription tool, I noticed that speaking in standard English reduces errors in transcription. Plus, my tool's hooked up with Grammarly, which calls out my grammatical errors. It's through this integration that I've become more aware of the errors I make. So, I figure if I can nail down my article and noun usage, I'll improve my transcriptions. They say content words matter more than function words, but as a Grammar Nazi, I'll tell you: all words matter.
+Let me tell you why I'm diving deep into articles and noun forms. While working on [my always-on transcription tool](https://github.com/8ta4/say), I noticed that speaking in standard English reduces errors in transcription. Plus, my tool's hooked up with [Grammarly](https://www.grammarly.com/), which calls out my grammatical errors. It's through this integration that I've become more aware of the errors I make. So, I figure if I can nail down my article and noun usage, I'll improve my transcriptions. They say content words matter more than function words, but as a Grammar Nazi, I'll tell you: all words matter.
 
 If there's already a method out there that works, I wanna use it. If not, I might just create my own. And even if a resource doesn't check all the boxes but does some things well, I'm down to see how it could fit into a bigger solution I might put together.
 
@@ -50,7 +50,7 @@ Here's what I am looking for in a resource:
 
 There are tons of resources out there that talk about this stuff, but a lot of them don't have a statistical foundation, which is important for learning it thoroughly. These resources just don't quite cut it for me.
 
-- Oxford Advanced Learner's Dictionary:
+- [Oxford Advanced Learner's Dictionary](https://www.oxfordlearnersdictionaries.com/):
 
   - Fill-in-the-Blank: It's got examples, but not in that fill-in-the-blank style.
 
@@ -62,4 +62,4 @@ There are tons of resources out there that talk about this stuff, but a lot of t
 
   - Licensing: Using their data might be a bit of a legal gray area, even if it's for educational purposes.
 
-- 'A' and 'The' Explained: A Learner's Guide to Definite and Indefinite Articles: It does a great job explaining the general principles of article usage, but it doesn't have that comprehensive list of words covering 95% of spoken language for targeted practice.
+- ['A' and 'The' Explained](https://www.goodreads.com/en/book/show/21237488): A Learner's Guide to Definite and Indefinite Articles: It does a great job explaining the general principles of article usage, but it doesn't have that comprehensive list of words covering 95% of spoken language for targeted practice.
