@@ -32,7 +32,7 @@ Here's what I am looking for in a resource:
 
   - Phrase Over Sentence: Short phrases preferred over full sentences
 
-  - Selective Vocabulary: Basic, commonly understood verbs and nouns that get the point across.
+  - Selective Vocabulary: Basic, commonly understood verbs and nouns that get the point across
 
 - Data Format Example:
 
