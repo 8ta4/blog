@@ -2,7 +2,7 @@ Is there a resource that can help nail down articles and noun forms based on the
 
 Let me tell you why I'm diving deep into articles and noun forms. While working on [my always-on transcription tool](https://github.com/8ta4/say), I noticed that speaking in standard English reduces errors in transcription. Plus, my tool's hooked up with [Grammarly](https://www.grammarly.com/), which calls out my grammatical errors. It's through this integration that I've become more aware of the errors I make. So, I figure if I can nail down my article and noun usage, I'll improve my transcriptions. They say content words matter more than function words, but as a Grammar Nazi, I'll tell you: all words matter.
 
-If there's already a method out there that works, I wanna use it. If not, I might just create my own. And even if a resource doesn't check all the boxes but does some things well, I'm down to see how it could fit into a bigger solution I might put together.
+If there's already a method that works, I want to use it. If not, I might create my own. And even if a resource doesn't check all the boxes but does some things well, I'm down to see how it could fit into a bigger solution I might put together.
 
 Here's what I am looking for in a resource:
 
@@ -26,7 +26,7 @@ Here's what I am looking for in a resource:
 
 - Test:
 
-  - Minimal Use of Determiners: Keep determiners (like "some", "my", "which") to a minimum in the test phrases, since they can mess with assessing if you understand countable and uncountable nouns. But determiners can be included if they're part of set expressions
+  - Minimal Use of Determiners: Keep determiners (like "some", "my", and "which") to a minimum in the test phrases, since they can mess with assessing if you understand countable and uncountable nouns. But determiners can be included if they're part of set expressions
 
   - Minimal Use of Modifiers: Minimize the use of adverbs and adjectives unless part of set expressions
 
@@ -60,6 +60,6 @@ There are tons of resources out there that talk about this stuff, but a lot of t
 
   - Modifiers: A lot of the examples are complex, with extra adjectives or adverbs.
 
-  - Licensing: Using their data might be a bit of a legal gray area, even if it's for educational purposes.
+  - Licensing: Using their data is a legal gray area, even if it's for educational purposes.
 
 - ['A' and 'The' Explained](https://www.goodreads.com/en/book/show/21237488): A Learner's Guide to Definite and Indefinite Articles: It does a great job explaining the general principles of article usage, but it doesn't have that comprehensive list of words covering 95% of spoken language for targeted practice.
