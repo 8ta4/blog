@@ -50,6 +50,8 @@ Here's what I am looking for in a resource:
 
 There are tons of resources out there that talk about this stuff, but a lot of them don't have a statistical foundation, which is important for learning it thoroughly. These resources don't cut it for me.
 
+- ['A' and 'The' Explained](https://www.goodreads.com/en/book/show/21237488): It does a great job explaining the general principles of article usage, but it doesn't have that list of words covering 95% of spoken language.
+
 - [Oxford Advanced Learner's Dictionary](https://www.oxfordlearnersdictionaries.com/):
 
   - Fill-in-the-Blank: It's got examples, but not in that fill-in-the-blank style.
@@ -61,5 +63,3 @@ There are tons of resources out there that talk about this stuff, but a lot of t
   - Modifiers: A lot of the examples are complex, with extra adjectives or adverbs.
 
   - Licensing: Using their data is a gray area, even if it's for educational purposes.
-
-- ['A' and 'The' Explained](https://www.goodreads.com/en/book/show/21237488): It does a great job explaining the general principles of article usage, but it doesn't have that list of words covering 95% of spoken language.
