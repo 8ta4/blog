@@ -1,6 +1,6 @@
 Is there a resource that can help nail down articles and noun forms based on the most frequently spoken words?
 
-Let me tell you why I'm diving deep into articles and noun forms. While working on [my always-on transcription tool](https://github.com/8ta4/say), I noticed that speaking in standard English reduces errors in transcription. Plus, my tool's hooked up with [Grammarly](https://www.grammarly.com/), which calls out my grammatical errors. It's through this integration that I've become more aware of the errors I make. So, I figure if I can nail down my article and noun usage, I'll improve my transcriptions. They say content words matter more than function words, but as a Grammar Nazi, I'll tell you: all words matter.
+Let me tell you why I'm diving deep into articles and noun forms. While working on [my always-on transcription tool](https://github.com/8ta4/say), I noticed that speaking in standard English reduces errors in transcription. Plus, my tool's hooked up with [Grammarly](https://www.grammarly.com), which calls out my grammatical errors. It's through this integration that I've become more aware of the errors I make. So, I figure if I can nail down my article and noun usage, I'll improve my transcriptions. They say content words matter more than function words, but as a Grammar Nazi, I'll tell you: all words matter.
 
 If there's already a method that works, I want to use it. And even if a resource doesn't check all the boxes but does some things well, I'm down to see how it could fit into a bigger solution I might put together.
 
@@ -58,7 +58,7 @@ There are tons of resources that talk about this stuff, but these resources don'
 
 - ['A' and 'The' Explained](https://www.goodreads.com/en/book/show/21237488): It does a great job explaining the general principles of article usage, but it doesn't have that list of words covering 95% of spoken language.
 
-- [Oxford Advanced Learner's Dictionary](https://www.oxfordlearnersdictionaries.com/):
+- [Oxford Advanced Learner's Dictionary](https://www.oxfordlearnersdictionaries.com):
 
   - Fill-in-the-Blank: It's got examples, but not in that fill-in-the-blank style.
 
