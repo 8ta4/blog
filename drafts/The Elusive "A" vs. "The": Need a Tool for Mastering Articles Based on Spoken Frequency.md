@@ -62,4 +62,4 @@ There are tons of resources out there that talk about this stuff, but a lot of t
 
   - Licensing: Using their data is a gray area, even if it's for educational purposes.
 
-- ['A' and 'The' Explained](https://www.goodreads.com/en/book/show/21237488): A Learner's Guide to Definite and Indefinite Articles: It does a great job explaining the general principles of article usage, but it doesn't have that list of words covering 95% of spoken language.
+- ['A' and 'The' Explained](https://www.goodreads.com/en/book/show/21237488): It does a great job explaining the general principles of article usage, but it doesn't have that list of words covering 95% of spoken language.
