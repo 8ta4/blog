@@ -16,7 +16,7 @@ Here's what I am looking for in a resource:
 
 - Data Format:
 
-  - Noun entry, sorted by spoken English frequency
+  - Noun entry, sorted by spoken frequency
 
   - Test (a short phrase or sentence with the noun and article hidden for a fill-in-the-blank style question)
 
@@ -60,6 +60,6 @@ There are tons of resources out there that talk about this stuff, but a lot of t
 
   - Modifiers: A lot of the examples are complex, with extra adjectives or adverbs.
 
-  - Licensing: Using their data is a legal gray area, even if it's for educational purposes.
+  - Licensing: Using their data is a gray area, even if it's for educational purposes.
 
-- ['A' and 'The' Explained](https://www.goodreads.com/en/book/show/21237488): A Learner's Guide to Definite and Indefinite Articles: It does a great job explaining the general principles of article usage, but it doesn't have that comprehensive list of words covering 95% of spoken language for targeted practice.
+- ['A' and 'The' Explained](https://www.goodreads.com/en/book/show/21237488): A Learner's Guide to Definite and Indefinite Articles: It does a great job explaining the general principles of article usage, but it doesn't have that list of words covering 95% of spoken language.
