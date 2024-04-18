@@ -1,6 +1,6 @@
 Do you know of a tool that can grade my pronunciation on any spoken word without needing typing?
 
-Here's the backstory: I developed a transcription tool that runs 24/7, and I've integrated it with Grammarly to highlight grammatical mistakes. But I've noticed that non-standard pronunciations often throw off the transcriptions. That's what got me thinking about ways to fix my pronunciation.
+Here's the backstory: I developed [a transcription tool](https://github.com/8ta4/say) that runs 24/7, and I've integrated it with [Grammarly](https://www.grammarly.com) to highlight grammatical mistakes. But I've noticed that non-standard pronunciations often throw off the transcriptions. That's what got me thinking about ways to fix my pronunciation.
 
 I want to focus on how I pronounce individual words, avoiding complications like assimilation that happen in phrases or sentences.
 
@@ -32,9 +32,9 @@ Here's what I'm looking for in this app:
 
 I've tried a couple things so far, but they didn't quite do the trick:
 
-- Elsa Speak: Makes me use a fixed lesson plan without letting me choose words
+- [Elsa Speak](https://elsaspeak.com): Makes me use a fixed lesson plan without letting me choose words
 
-- Pronounce:
+- [Pronounce](https://www.getpronounce.com):
 
    - Makes me type in words manually
 
