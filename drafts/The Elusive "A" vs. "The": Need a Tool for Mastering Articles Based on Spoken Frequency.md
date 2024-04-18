@@ -16,27 +16,33 @@ Here's what I am looking for in a resource:
 
 - Data Format:
 
-  - Noun entry, sorted by spoken frequency
+  - Noun, sorted by spoken frequency
 
-  - Test (a short phrase or sentence with the article and noun hidden for a fill-in-the-blank style question)
+  - Test:
 
-  - Answer (the correct form of the noun and article to be filled in)
+    - Phrase or sentence with the article and noun hidden for a fill-in-the-blank style question
 
-  - Explanation (the meaning of the noun and any additional context needed to determine the correct form and article usage)
+    - Keep determiners (like "some", "my", and "which") to a minimum in the test phrases, since they can mess with assessing if you understand countable and uncountable nouns. But determiners can be included if they're part of set expressions
 
-- Test:
+    - Minimize the use of adverbs and adjectives unless part of set expressions
 
-  - Minimal Use of Determiners: Keep determiners (like "some", "my", and "which") to a minimum in the test phrases, since they can mess with assessing if you understand countable and uncountable nouns. But determiners can be included if they're part of set expressions
+    - Short phrases preferred over full sentences
 
-  - Minimal Use of Modifiers: Minimize the use of adverbs and adjectives unless part of set expressions
+    - Basic, commonly understood verbs and nouns that get the point across
 
-  - Phrase Over Sentence: Short phrases preferred over full sentences
+  - Answer: The correct form of the noun and article to be filled in
 
-  - Selective Vocabulary: Basic, commonly understood verbs and nouns that get the point across
+  - Explanation:
+
+    - Identify the specific meaning of the noun used in the test
+
+    - Outline the grammatical rule determining the correct article and noun form
+
+    - Note if it is part of a set expression
 
 - Data Format Example:
 
-  - Noun Entry: time
+  - Noun: time
 
   - Test: I lived in New York for ___.
 
