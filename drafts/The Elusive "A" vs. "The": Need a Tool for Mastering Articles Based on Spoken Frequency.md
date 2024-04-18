@@ -28,7 +28,7 @@ Here's what I am looking for in a resource:
 
     - Basic, commonly understood verbs and nouns that get the point across.
 
-  - Answer: The correct form of the noun and article to be filled in.
+  - Answer: The correct article and noun form to be filled in.
 
   - Explanation:
 
