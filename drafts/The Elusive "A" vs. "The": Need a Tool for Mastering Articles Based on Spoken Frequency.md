@@ -12,8 +12,6 @@ Here's what I am looking for in a resource:
 
 - Data Source: Prefer spoken frequency data, but written frequency data can be used as a substitute if spoken data is not available.
 
-- Licensing: Open source or permissible for any purpose, including commercial use.
-
 - Data Format:
 
   - Noun, sorted by spoken frequency
@@ -53,6 +51,8 @@ Here's what I am looking for in a resource:
     - "Time" in this context refers to a phase, making "time" singular.
 
     - "For a time" is a set expression.
+
+- Licensing: Open source or permissible for any purpose, including commercial use.
 
 There are tons of resources out there that talk about this stuff, but a lot of them don't have a statistical foundation, which is important for learning it thoroughly. These resources don't cut it for me.
 
