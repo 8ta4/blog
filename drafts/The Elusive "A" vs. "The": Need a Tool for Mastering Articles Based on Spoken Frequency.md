@@ -48,7 +48,7 @@ Here's what I am looking for in a resource:
 
     - "For a time" is a set expression.
 
-There are tons of resources out there that talk about this stuff, but a lot of them don't have a statistical foundation, which is important for learning it thoroughly. These resources just don't quite cut it for me.
+There are tons of resources out there that talk about this stuff, but a lot of them don't have a statistical foundation, which is important for learning it thoroughly. These resources don't cut it for me.
 
 - [Oxford Advanced Learner's Dictionary](https://www.oxfordlearnersdictionaries.com/):
 
