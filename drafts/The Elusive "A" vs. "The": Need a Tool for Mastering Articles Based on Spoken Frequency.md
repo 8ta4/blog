@@ -18,7 +18,7 @@ Here's what I am looking for in a resource:
 
   - Noun entry, sorted by spoken frequency
 
-  - Test (a short phrase or sentence with the noun and article hidden for a fill-in-the-blank style question)
+  - Test (a short phrase or sentence with the article and noun hidden for a fill-in-the-blank style question)
 
   - Answer (the correct form of the noun and article to be filled in)
 
