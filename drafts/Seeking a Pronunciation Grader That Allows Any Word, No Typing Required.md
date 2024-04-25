@@ -42,6 +42,6 @@ I've tried a couple of things so far, but they didn't quite do the trick:
 
    - Doesn't give me a score of how close I am to the ideal pronunciation
 
-I'm using English as an example here, but this could work for any language.
+I'm using English as an example, but this could work for any language.
 
 If you have any suggestions, let me know!
