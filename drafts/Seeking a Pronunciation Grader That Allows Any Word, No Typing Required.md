@@ -12,7 +12,7 @@ Here's what I'm looking for in this app:
 
 - Web-Based: Requires no installation
 
-- Accent Support: Lets me choose a specific accent, like Standard British, for the evaluation
+- Accent Support: Lets me choose a specific accent, like Received Pronunciation, for the evaluation
 
 - Word Flexibility: Lets me practice any word I want, not just a set list
 
