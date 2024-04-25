@@ -1,4 +1,4 @@
-Do you know of a tool that can grade my pronunciation of any spoken word without needing typing?
+Do you know of a tool that can grade my pronunciation of any spoken word without needing to type?
 
 Here's the backstory: I developed [a transcription tool](https://github.com/8ta4/say) that runs 24/7, and I've integrated it with [Grammarly](https://www.grammarly.com) to highlight grammatical mistakes. But I've noticed that non-standard pronunciations often throw off the transcriptions. That's what got me thinking about ways to fix my pronunciation.
 
