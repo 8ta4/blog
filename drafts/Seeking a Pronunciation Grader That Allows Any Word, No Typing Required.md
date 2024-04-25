@@ -12,6 +12,8 @@ Here's what I'm looking for in this app:
 
 - Web-Based: Requires no installation
 
+- Accent Support: Lets me choose a specific accent, like Standard British, for the evaluation
+
 - Word Flexibility: Lets me practice any word I want, not just a set list
 
 - Multi-Word Feedback: Can evaluate an unlimited sequence of words, identifying where one word ends and the next begins, through pauses or keystrokes
@@ -19,8 +21,6 @@ Here's what I'm looking for in this app:
 - Low Latency: Evaluates my pronunciation with minimal latency like under a second after each word
 
 - Scoring: Gives me a score of how close I am to the right pronunciation
-
-- Accent Support: Lets me choose a specific accent, like Standard British, for the evaluation
 
 - User Playback: Lets me listen to how I said the word
 
