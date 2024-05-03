@@ -15,6 +15,7 @@ Here's what I'm looking for in my dream programming language. Is there some geni
 1. **Tail Recursion**: Optimizes both self-recursive and mutually recursive functions seamlessly, without any special syntax.
 1. **Flexible Standard Library**: Allows the standard library to be replaced or customized.
 1. **Automatic Currying**: I'm a fan of currying, which means no variadic functions unless it's for interop.
+1. **Null Key Absence in Maps**: Enforces that keys associated with `null` values are not present in the map, ensuring that there's only one way to represent the absence of a value.
 1. **Clear Error Messages**: Lets me know what went wrong and how to fix it.
 1. **Gradual Typing**: If the system stumbles upon code where it can't infer the type, it doesn't demand annotations.
 1. **Contract System**
