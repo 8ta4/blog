@@ -2,9 +2,9 @@ How can I consistently create humor using LLMs?
 
 I'm diving deep into how I can get Large Language Models (LLMs) to crack jokes consistently. Here's where I'm at:
 
-1. Black Comedy: I started off trying to get AI to push the envelope with some edgy humor using an uncensored model. However, these models often fell short on generating coherent text compared to censored models. This limitation led me to set aside this approach, which I talked about in a Reddit post.
+1. Black Comedy: I started off trying to get AI to push the envelope with some edgy humor using an uncensored model. However, these models often fell short on generating coherent text compared to censored models. This limitation led me to set aside this approach, which I talked about in [a Reddit post](https://old.reddit.com/r/PromptEngineering/comments/1c3e85q/seeking_an_uncensored_capable_language_model_for/).
 
-1. Wordplay: Next, I tried making jokes out of cliches and phrases. This method owes a lot to Joe Toplyn's "Comedy Writing for Late-Night TV." It's hit or miss, and picking the good stuff takes a lot of work. You can read more about it in my guide.
+1. Wordplay: Next, I tried making jokes out of cliches and phrases. This method owes a lot to "[Comedy Writing for Late-Night TV](https://www.goodreads.com/en/book/show/22350931)". It's hit or miss, and picking the good stuff takes a lot of work. You can read more about it in my guide.
 
 Here's what might make you skeptical:
 
