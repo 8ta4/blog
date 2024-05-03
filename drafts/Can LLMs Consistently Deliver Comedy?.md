@@ -10,8 +10,6 @@ Here's what might make you skeptical:
 
 - Subjectivity of Humor: While humor is subjective, if the evaluation process consistently replicates a specific human preference using LLMs, it addresses this challenge.
 
-- Creativity in Humor: Some folks think LLMs and creativity are a tough mix. Yet, my goal isn't to create the best jokes in the world but to reliably churn out decent ones, kind of like what you'd hear on late-night TV daily. This could suggest a more formulaic approach to joke generation is viable.
-
-Here's a joke from Late Night with Jimmy Fallon that showcases the level of humor I'm aiming for: "An airline in Sweden plans to host the first-ever in-flight gay wedding in December. The entire flight crew is excited for the event, although the right wing isn't happy about it."
+- Creativity in Humor: Some folks think LLMs and creativity are a tough mix. Yet, my goal isn't to create the best jokes in the world but to reliably churn out decent ones, kind of like what you'd hear on late-night TV daily. Here's a joke from Late Night with Jimmy Fallon that showcases the level of humor I'm aiming for: "An airline in Sweden plans to host the first-ever in-flight gay wedding in December. The entire flight crew is excited for the event, although the right wing isn't happy about it." This could suggest a more formulaic approach to joke generation is viable. 
 
 I appreciate any suggestions!
