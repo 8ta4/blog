@@ -1,6 +1,6 @@
-How can I consistently create humor using LLMs?
+How can I consistently create humor using Large Language Models (LLMs)?
 
-I'm diving deep into how I can get Large Language Models (LLMs) to crack jokes consistently. Here's where I'm at:
+Here's where I'm at:
 
 1. Black Comedy: I started off trying to get LLMs to push the envelope with some edgy humor using an uncensored model.
 
