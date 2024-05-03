@@ -6,10 +6,6 @@ I'm diving deep into how I can get Large Language Models (LLMs) to crack jokes c
 
 1. Wordplay: Next, I tried making jokes out of cliches and phrases. This method owes a lot to "[Comedy Writing for Late-Night TV](https://www.goodreads.com/en/book/show/22350931)". It's hit or miss, and picking the good stuff takes a lot of work. You can read more about it in [my guide](https://github.com/8ta4/gag/blob/dc2d14dd05a0c0c200afcc6fbced38fc176f99b6/README.md).
 
-Here's what might make you skeptical:
-
-- Subjectivity of Humor: While humor is subjective, if the evaluation process consistently replicates a specific human preference using LLMs, it addresses this challenge.
-
-- Creativity in Humor: Some folks think LLMs and creativity are a tough mix. Yet, my goal isn't to create the best jokes in the world but to reliably churn out decent ones, kind of like what you'd hear on late-night TV daily. Here's a joke from Late Night with Jimmy Fallon that showcases the level of humor I'm aiming for: "An airline in Sweden plans to host the first-ever in-flight gay wedding in December. The entire flight crew is excited for the event, although the right wing isn't happy about it." This could suggest a more formulaic approach to joke generation is viable. 
+Some folks think LLMs and creativity are a tough mix. Yet, my goal isn't to create the best jokes in the world but to reliably churn out decent ones, kind of like what you'd hear on late-night TV daily. Here's a joke from Late Night with Jimmy Fallon that showcases the level of humor I'm aiming for: "An airline in Sweden plans to host the first-ever in-flight gay wedding in December. The entire flight crew is excited for the event, although the right wing isn't happy about it." This could suggest a more formulaic approach to joke generation is viable. 
 
 I appreciate any suggestions!
