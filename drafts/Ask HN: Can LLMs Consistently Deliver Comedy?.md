@@ -18,4 +18,4 @@ I'd value any alternative approaches or tweaks to my strategies. All suggestions
 
 ---
 
-The content above was something I posted on a standup subreddit first, but it got taken down. I'm pretty sure it's because they didn't like the whole machine learning and comedy angle, which can be touchy for folks who do comedy the traditional way. So, I figured I'd bring it over here instead, where folks might dig into the tech side of things more and give me some solid feedback on how to make these machine-generated jokes sharper.
+The content above was [something I posted](https://old.reddit.com/r/Standup/comments/1cjnw4l/can_llms_consistently_deliver_comedy) on [r/Standup](https://old.reddit.com/r/Standup) first, but it got taken down. I'm pretty sure it's because they didn't like the whole machine learning and comedy angle, which can be touchy for folks who do comedy the traditional way. So, I figured I'd bring it over here instead, where folks might dig into the tech side of things more and give me some solid feedback on how to make these machine-generated jokes sharper.
