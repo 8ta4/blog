@@ -15,3 +15,7 @@ Here's where I'm at:
    This could streamline things but also lock me into a rigid system. Plus, there's a risk of becoming obsolete quickly with new models or better joke-making techniques popping up.
 
 I'd value any alternative approaches or tweaks to my strategies. All suggestions are welcome!
+
+---
+
+The content above was something I posted on a standup subreddit first, but it got taken down. I'm pretty sure it's because they didn't like the whole machine learning and comedy angle, which can be touchy for folks who do comedy the traditional way. So, I figured I'd bring it over here instead, where folks might dig into the tech side of things more and give me some solid feedback on how to make these machine-generated jokes sharper.
