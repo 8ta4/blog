@@ -18,6 +18,14 @@ I recently had a run-in with Hacker News. I got an email that I thought was wort
 
 Here's the email:
 
+> I am writing to seek assistance with an issue on Hacker News. It appears that my posts are not visible to other users, and this has happened on multiple occasions. This lack of visibility leads me to believe that my account may be shadow banned or that my posts are being flagged as spam.
+>
+> Could you please provide some guidance on why this might be happening?
+>
+> Here are the links to the posts in question:
+> [REDACTED]
+> [REDACTED]
+
 > Your account's not banned, but HN's software is killing your posts because it thinks you're running afoul of the rule against using the site primarily for promotion—see [REDACTED]: "Please don't use HN primarily for promotion. It's ok to submit your own stuff part of the time, but the primary use of the site should be for curiosity." Our software detects that sort of submission history and starts filtering the posts once the percentage of own-posts is too high.
 >
 > Below, I'll copy an explanation that we've sent to other users in this situation. I hope it helps explain things a bit!
