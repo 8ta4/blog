@@ -8,11 +8,11 @@ I'm looking for a service that can help automate the publication of my email cor
 
 The goal is multifaceted:
 
-- Encourage better customer service: By making interactions public, service providers may be more motivated to provide better customer service.
-
-- Increase Accountability: Public records can hold service providers accountable for their actions.
-
 - Aid in Knowledge Sharing: Publicly available correspondence can help others find answers to similar issues, reducing the need for repeated customer service interactions.
+
+- Encourage Better Customer Service: By making interactions public, service providers may be more motivated to provide better customer service.
+
+Sharing is scaring.
 
 I recently had a run-in with Hacker News. I got an email that I thought was worth sharing. That got me thinking if there’s a service for that.
 
