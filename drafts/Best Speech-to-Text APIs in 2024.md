@@ -12,7 +12,7 @@ Here's what I need from a speech-to-text API, in order of importance:
 
 1. Cross-origin resource sharing (CORS): This isn't a must-have, but it would be nice if the API supports CORS for direct use from the browser.
 
-Comparing speech-to-text API accuracy has been so fruitful just like comparing apples to oranges, as many providers claim their solution is the best. This self-serving marketing makes it hard to determine the true accuracy of each API.
+Comparing speech-to-text API accuracy has been fruitful, like comparing apples to oranges, as many providers claim their solution is the best. This self-serving marketing makes it hard to determine the true accuracy of each API.
 
 I checked out a bunch of APIs that Deepgram mentioned in their blog post "[Best Speech-to-Text APIs in 2024](https://deepgram.com/learn/best-speech-to-text-apis)." Only the [Nova-2](https://developers.deepgram.com/docs/models-languages-overview#nova-2) model from Deepgram and the [Whisper API](https://platform.openai.com/docs/guides/speech-to-text/speech-to-text) from OpenAI were able to return the API call within one second. But the Whisper API that OpenAI provides doesn't give you word-level probabilities. That's a dealbreaker.
 
@@ -22,17 +22,17 @@ Deepgram claims to be [the most accurate and fastest API](https://deepgram.com/l
 
 1. CORS: Deepgram [doesn't support CORS](https://github.com/deepgram/deepgram-js-sdk/blob/bd51da7ce06c59b3dea55e4a915e802bd43a3754/README.md?plain=1#L148), which is a bummer for browser-based apps.
 
-Most speech-to-text providers give you a couple of options like a streaming API and a prerecorded API. Take Deepgram, for example.
+Most speech-to-text providers give you options like a streaming API and a prerecorded API. Take Deepgram, for example.
 
 With [their streaming API](https://developers.deepgram.com/docs/getting-started-with-live-streaming-audio), you get low latency because it processes the audio bit by bit as it comes in. But it might end up finalizing the transcription in the middle of a sentence. When that happens, the API loses the context for the rest of what's being said, which can sacrifice accuracy.
 
-Now, if you go with [their prerecorded API](https://developers.deepgram.com/docs/getting-started-with-pre-recorded-audio), you'll probably get better accuracy since it looks at the full context of the audio. However, you're sending the whole audio file over, and that can run into TCP slow start issues.
+Now, if you go with [their prerecorded API](https://developers.deepgram.com/docs/getting-started-with-pre-recorded-audio), you'll probably get better accuracy since it looks at the full context of the audio. However, you're sending the whole audio file over, which can run into TCP slow start issues.
 
 There are a few potential solutions:
 
-- A hybrid API that captures and sends audio incrementally like streaming, but only finalizes transcriptions at logical break points like end of sentences.
+- A hybrid API that captures and sends audio incrementally like streaming, but only finalizes transcriptions at logical breakpoints like the end of sentences.
 
-- Local on-device transcription to eliminate network latency entirely.
+- Local on-device transcription to eliminate network latency.
 
 To give you a bit more context, I'm designing an app that checks pronunciation. The goal is for the whole process to take less than a second. This involves three API calls: two for speech-to-text and one for text-to-speech. The text-to-speech call takes about 0.5 seconds, so each speech-to-text call needs to be around 0.25 seconds. I'm still figuring out if this is even possible. If you want to give me some feedback on the design, here's the [link](https://github.com/8ta4/accent)!
 
