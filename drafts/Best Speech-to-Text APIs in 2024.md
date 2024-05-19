@@ -36,4 +36,6 @@ There are a few potential solutions:
 
 To give you a bit more context, I'm designing an app that checks pronunciation. The goal is for the whole process to take less than a second. This involves three API calls: two for speech-to-text and one for text-to-speech. The text-to-speech call takes about 0.5 seconds, so each speech-to-text call needs to be around 0.25 seconds. I'm still figuring out if this is even possible. If you want to give me some feedback on the design, here's the [link](https://github.com/8ta4/accent)!
 
+I want to point out that all the latency numbers in this post were tested using Google Colab. It runs on Google's infrastructure, which helps minimize network latency. This way, I can be pretty sure that the network itself isn't the bottleneck during these tests.
+
 Given all these requirements and challenges, I'm looking for recommendations for speech-to-text APIs.
