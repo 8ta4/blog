@@ -1,20 +1,22 @@
-I'm looking for a service that can help automate the publication of my email correspondence with customer service providers. Here's what I need:
+Is there a service that can automatically publish my emails with customer service, hiding all the personal info?
 
-- Automatic Redaction: The service should automatically redact sensitive information such as personal details, account numbers, etc.
+ Here's what I need:
 
-- Public Publishing: Once redacted, the emails should be automatically published to a public platform where others can view the correspondence.
+- Automatic Redaction: It would automatically remove any sensitive stuff like account numbers and personal details.
 
-- Ease of Use: Ideally, I want to include a specific email address in the CC field when contacting a service provider, and the rest of the process should be automated.
+- Public Publishing: It would publish the emails somewhere public, so other people could read them.
 
-The goal is multifaceted:
+- Ease of Use: I could just CC a special email address when I'm emailing a company, and it would handle the rest.
 
-- Aid in Knowledge Sharing: Publicly available correspondence can help others find answers to similar issues, reducing the need for repeated customer service interactions.
+I think this could be useful for a couple reasons:
 
-- Encourage Better Customer Service: By making interactions public, service providers may be more motivated to provide better customer service.
+- Aid in Knowledge Sharing: It would help people find answers to common problems, so they wouldn't have to keep bugging customer service about the same things.
+
+- Encourage Better Customer Service: It might make companies step up their customer service game, since they'd know their responses could end up public.
 
 Sharing is scaring.
 
-I recently had a run-in with Hacker News. I got an email that I thought was worth sharing. That got me thinking if there’s a service for that.
+I recently had this thing happen with Hacker News. That's what got me wondering if there's a service that could handle this kind of thing.
 
 Here's the email:
 
