@@ -12,13 +12,15 @@ Here's what I need from a speech-to-text API, in order of importance:
 
 1. Cross-origin resource sharing (CORS): This isn't a must-have, but it would be nice if the API supports CORS for direct use from the browser.
 
+Comparing speech-to-text API accuracy has been so fruitful just like comparing apples to oranges, as many providers claim their solution is the best. This self-serving marketing makes it hard to determine the true accuracy of each API.
+
+I checked out a bunch of APIs that Deepgram mentioned in their blog post "Best Speech-to-Text APIs in 2024." Only the Nova-2 model from Deepgram and the Whisper API from OpenAI were able to return the API call within one second. But the Whisper API that OpenAI provides doesn't give you word-level probabilities. That's a dealbreaker.
+
 Deepgram claims to be the most accurate, fastest, and cheapest API, but I ran into two issues:
 
 1. Latency: Deepgram usually takes about 0.5 seconds to return a transcript for a single sentence. Most of this time is spent on TCP slow start, making the network the bottleneck.
 
 1. CORS: Deepgram doesn't support CORS, which is a bummer for browser-based apps.
-
-I checked out a bunch of APIs that Deepgram mentioned in their blog post "Best Speech-to-Text APIs in 2024." Only the Nova-2 model from Deepgram and the Whisper API from OpenAI were able to return the API call within one second. But the Whisper API that OpenAI provides doesn't give you word-level probabilities. That's a dealbreaker.
 
 Most speech-to-text providers give you a couple of options like a streaming API and a prerecorded API. Take Deepgram, for example.
 
@@ -31,8 +33,6 @@ There are a few potential solutions:
 1. A hybrid API that captures and sends audio incrementally like streaming, but only finalizes transcriptions at logical break points like end of sentences.
 
 1. Local on-device transcription to eliminate network latency entirely.
-
-Comparing speech-to-text API accuracy has been so fruitful just like comparing apples to oranges, as many providers claim their solution is the best. This self-serving marketing makes it hard to determine the true accuracy of each API.
 
 To give you a bit more context, I'm designing an app that checks pronunciation. The goal is for the whole process to take less than a second. This involves three API calls: two for speech-to-text and one for text-to-speech. The text-to-speech call takes about 0.5 seconds, so each speech-to-text call needs to be around 0.25 seconds. I'm still figuring out if this is even possible. If you want to give me some feedback on the design, here's the link!
 
