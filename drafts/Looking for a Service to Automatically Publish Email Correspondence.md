@@ -8,11 +8,11 @@ Is there a service that can automatically publish my emails with customer servic
 
 - Ease of Use: I could just CC a special email address when I'm emailing a company, and it would handle the rest.
 
-I think this could be useful for a couple reasons:
+I think this could be useful for a couple of reasons:
 
 - Aid in Knowledge Sharing: It would help people find answers to common problems, so they wouldn't have to keep bugging customer service about the same things.
 
-- Encourage Better Customer Service: It might make companies step up their customer service game, since they'd know their responses could end up public.
+- Encourage Better Customer Service: It might make companies step up their customer service game since they'd know their responses could end up public.
 
 Sharing is scaring.
 
