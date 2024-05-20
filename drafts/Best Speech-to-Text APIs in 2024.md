@@ -2,7 +2,7 @@ Are there any speech-to-text APIs that can give word-level probabilities, match 
 
 Here's what I need from a speech-to-text API, in order of importance:
 
-1. Word-level confidence: I need a probability score for each word in the transcript.
+1. Word-level probability: I need a probability for each word in the transcript.
 
 1. Accuracy: The API must be accurate, especially for common words in clear audio, finalizing the transcription only after the user finishes a sentence to make sure full context is considered.
 
