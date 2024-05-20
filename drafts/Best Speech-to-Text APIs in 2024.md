@@ -32,7 +32,7 @@ There are a few potential solutions:
 
 - A hybrid API that captures audio incrementally like streaming, but only finalizes transcriptions at the end of sentences.
 
-- Local on-device transcription to eliminate network latency.
+- On-device transcription to eliminate network latency.
 
 To give you a bit more context, I'm designing an app that checks pronunciation. The goal is for the whole process to take less than a second. This involves three API calls: two for speech-to-text and one for text-to-speech. The text-to-speech call takes about 0.5 seconds, so each speech-to-text call needs to be around 0.25 seconds. I'm still figuring out if this is even possible. If you want to give me some feedback on the design, here's the [link](https://github.com/8ta4/accent)!
 
