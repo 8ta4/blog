@@ -36,6 +36,8 @@ There are a few potential solutions:
 
 To give you a bit more context, I'm designing an app that checks pronunciation. The goal is for the whole process to take less than a second. This involves three API calls: two for speech-to-text and one for text-to-speech. The text-to-speech call takes about 0.5 seconds, so each speech-to-text call needs to be around 0.25 seconds. I'm still figuring out if this is even possible.
 
+All the latency numbers in this post were tested using [Google Colab](https://colab.research.google.com). It runs on Google's infrastructure, which helps minimize network latency. This way, I can be pretty sure that the network itself isn't the bottleneck during these tests.
+
 I have a budget of $100 per month, assuming 30 hours of usage each month. That gives me:
 
 $$\frac{\$100}{30 \text{ hours}} = \$3.33 \text{ per hour}$$
@@ -44,7 +46,7 @@ I have three API calls: two for speech-to-text and one for text-to-speech. Let's
 
 $$200 \text{ words/min} \times 60 \text{ min/hour} \times 5 \text{ characters/word} = 60,000 \text{ characters/hour}$$
 
-I'll use OpenAI's text-to-speech API, which costs $15 per million characters. The cost per hour for text-to-speech is:
+I'll use OpenAI's text-to-speech API, which costs [$15 per million characters](https://openai.com/api/pricing/#:~:text=TTS-,%2415.00%20/,1M%20characters,-TTS%20HD). The cost per hour for text-to-speech is:
 
 $$60,000 \text{ characters/hour} \times \frac{\$15}{1,000,000 \text{ characters}} = \$0.90 \text{ per hour}$$
 
@@ -57,7 +59,5 @@ This $2.43 covers my two speech-to-text API calls:
 $$\frac{\$2.43}{2} = \$1.215 \text{ per hour}$$
 
 If you want to give me some feedback on the design, here's the [link](https://github.com/8ta4/accent)!
-
-All the latency numbers in this post were tested using [Google Colab](https://colab.research.google.com). It runs on Google's infrastructure, which helps minimize network latency. This way, I can be pretty sure that the network itself isn't the bottleneck during these tests.
 
 Given all these requirements and challenges, I'm looking for recommendations for speech-to-text APIs.
