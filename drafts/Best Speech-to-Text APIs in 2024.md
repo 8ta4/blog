@@ -30,7 +30,7 @@ Now, if you go with [their prerecorded API](https://developers.deepgram.com/docs
 
 There are a few potential solutions:
 
-- A hybrid API that captures and sends audio incrementally like streaming, but only finalizes transcriptions at logical breakpoints like the end of sentences.
+- A hybrid API that captures audio incrementally like streaming, but only finalizes transcriptions at the end of sentences.
 
 - Local on-device transcription to eliminate network latency.
 
