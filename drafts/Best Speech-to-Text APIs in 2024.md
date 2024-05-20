@@ -6,7 +6,7 @@ Here's what I need from a speech-to-text API, in order of importance:
 
 1. Accuracy: The API must be accurate, especially for common words in clear audio, finalizing the transcription only after the user finishes a sentence to make sure full context is considered.
 
-1. Latency: The API needs to be fast, ideally under 0.25 seconds per call, so the whole process finishes in under a second.
+1. Latency: The API needs to be fast, ideally under 0.25 seconds per call for a single sentence.
 
 1. Cost: It should be affordable, aiming for under $100 a month for heavy use.
 
