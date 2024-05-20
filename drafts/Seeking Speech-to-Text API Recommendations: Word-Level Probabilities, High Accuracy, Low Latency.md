@@ -1,6 +1,6 @@
 Are there any speech-to-text APIs that can give word-level probabilities, match or beat [Deepgram](https://deepgram.com) in accuracy, and have low latency for short audio?
 
-About a month ago, I shared [my experience](https://old.reddit.com/r/AskProgramming/comments/1btmazw/looking_for_alternatives_to_deepgrams_whisper) with Deepgram on this subreddit, and the response was incredible. Recently, u/111ewe111 asked me what specific issues I was having with Deepgram. So, I thought I'd make this new post to answer those questions and the feedback I got, since my needs have changed.
+About a month ago, I shared [my experience](https://old.reddit.com/r/AskProgramming/comments/1btmazw/looking_for_alternatives_to_deepgrams_whisper) with Deepgram on this subreddit, and the response was incredible. Recently, u/111ewe111 asked me what specific issues I was having with Deepgram. So, I thought I'd make this new post to answer those questions and the feedback I got since my needs have changed.
 
 Here's what I need from a speech-to-text API, in order of importance:
 
