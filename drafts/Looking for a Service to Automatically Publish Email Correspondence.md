@@ -1,6 +1,6 @@
 Is there a service that can automatically publish my emails with customer service, hiding all the personal info?
 
- Here's what I need:
+Here's what I need:
 
 - Automatic Redaction: It would automatically remove any sensitive stuff like account numbers and personal details.
 
