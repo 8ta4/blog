@@ -40,7 +40,7 @@ All the latency numbers in this post were tested using [Google Colab](https://co
 
 Now, let’s talk about cost. I have a budget of $100 per month, assuming 30 hours of usage each month. That gives me:
 
-$$\frac{\$100}{30 \text{ hours}} = \$3.33 \text{ per hour}$$
+$$\frac{\$100}{30 \text{ hours}} \approx \$3.33 \text{ per hour}$$
 
 I have three API calls: two for speech-to-text and one for text-to-speech. Let's estimate the number of characters processed in an hour. Assuming a fast speaker at 200 words per minute and 5 characters per word, I get:
 
