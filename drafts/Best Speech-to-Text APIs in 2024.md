@@ -8,7 +8,7 @@ Here's what I need from a speech-to-text API, in order of importance:
 
 1. Latency: The API needs to be fast, ideally under 0.25 seconds per call for a single sentence.
 
-1. Cost: It should be affordable, aiming for under $100 a month for heavy use.
+1. Cost: It should be affordable, aiming for under $1.215 per hour.
 
 1. Cross-origin resource sharing (CORS): This isn't a must-have, but it would be nice if the API supports CORS for direct use from the browser.
 
@@ -34,7 +34,29 @@ There are a few potential solutions:
 
 - Local on-device transcription to eliminate network latency.
 
-To give you a bit more context, I'm designing an app that checks pronunciation. The goal is for the whole process to take less than a second. This involves three API calls: two for speech-to-text and one for text-to-speech. The text-to-speech call takes about 0.5 seconds, so each speech-to-text call needs to be around 0.25 seconds. I'm still figuring out if this is even possible. If you want to give me some feedback on the design, here's the [link](https://github.com/8ta4/accent)!
+To give you a bit more context, I'm designing an app that checks pronunciation. The goal is for the whole process to take less than a second. This involves three API calls: two for speech-to-text and one for text-to-speech. The text-to-speech call takes about 0.5 seconds, so each speech-to-text call needs to be around 0.25 seconds. I'm still figuring out if this is even possible.
+
+I have a budget of $100 per month, assuming 30 hours of usage each month. That gives me:
+
+$$\frac{\$100}{30 \text{ hours}} = \$3.33 \text{ per hour}$$
+
+I have three API calls: two for speech-to-text and one for text-to-speech. Let's estimate the number of characters processed in an hour. Assuming a fast speaker at 200 words per minute and 5 characters per word, I get:
+
+$$200 \text{ words/min} \times 60 \text{ min/hour} \times 5 \text{ characters/word} = 60,000 \text{ characters/hour}$$
+
+I'll use OpenAI's text-to-speech API, which costs $15 per million characters. The cost per hour for text-to-speech is:
+
+$$60,000 \text{ characters/hour} \times \frac{\$15}{1,000,000 \text{ characters}} = \$0.90 \text{ per hour}$$
+
+Next, I subtract the text-to-speech cost from my total hourly budget:
+
+$$\$3.33 - \$0.90 = \$2.43 \text{ per hour}$$
+
+This $2.43 covers my two speech-to-text API calls:
+
+$$\frac{\$2.43}{2} = \$1.215 \text{ per hour}$$
+
+If you want to give me some feedback on the design, here's the [link](https://github.com/8ta4/accent)!
 
 All the latency numbers in this post were tested using [Google Colab](https://colab.research.google.com). It runs on Google's infrastructure, which helps minimize network latency. This way, I can be pretty sure that the network itself isn't the bottleneck during these tests.
 
