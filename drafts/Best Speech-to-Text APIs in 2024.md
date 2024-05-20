@@ -38,7 +38,7 @@ To give you a bit more context, I'm designing an app that checks pronunciation. 
 
 All the latency numbers in this post were tested using [Google Colab](https://colab.research.google.com). It runs on Google's infrastructure, which helps minimize network latency. This way, I can be pretty sure that the network itself isn't the bottleneck during these tests.
 
-I have a budget of $100 per month, assuming 30 hours of usage each month. That gives me:
+Now, let’s talk about cost. I have a budget of $100 per month, assuming 30 hours of usage each month. That gives me:
 
 $$\frac{\$100}{30 \text{ hours}} = \$3.33 \text{ per hour}$$
 
