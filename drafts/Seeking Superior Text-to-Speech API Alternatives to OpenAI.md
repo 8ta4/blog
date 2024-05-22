@@ -1,4 +1,4 @@
-Is there a TTS (Text-to-Speech) API out there that outshines OpenAI's TTS AI in terms of quality, latency, and cost?
+Is there a TTS (Text-to-Speech) API out there that outshines [OpenAI's TTS](https://platform.openai.com/docs/guides/text-to-speech) in terms of quality, latency, and cost?
 
 I have some specific criteria:
 
@@ -6,9 +6,9 @@ I have some specific criteria:
 
    The most important aspect is how natural the generated speech sounds. For pronunciation practice, the naturalness of the speech are paramount.
 
-   OpenAI's TTS AI has been excellent in this regard, providing clear and consistent word articulation.
+   OpenAI's TTS has been excellent in this regard, providing clear and consistent word articulation.
 
-   While Eleven Labs has speech that's full of emotion, it's pricier and isn't necessarily better for pronunciation practice.
+   While [Eleven Labs](https://elevenlabs.io/) has speech that's full of emotion, it's [pricier](https://elevenlabs.io/pricing) and isn't necessarily better for pronunciation practice.
 
    I don't rely on quality scores for TTS APIs; the proof is in putting the words together.
 
@@ -20,9 +20,9 @@ I have some specific criteria:
 
    I want to keep my total monthly cost under $100.
 
-   I prefer a pay-as-you-go model instead of a fixed-cost one with a usage cap. Big providers like Amazon Polly, Google, and Microsoft Azure offer this, as does OpenAI.
+   I prefer a pay-as-you-go model instead of a fixed-cost one with a usage cap.
 
-   For my pronunciation practice, I'm looking at using it for up to 30 hours each month. I use Deepgram for speech-to-text, which runs me $0.0043 per minute and needs two API calls for each pronunciation. Here's a quick cost breakdown:
+   For my pronunciation practice, I'm looking at using it for up to 30 hours each month. I use [Deepgram](https://deepgram.com/) for speech-to-text, which runs me [$0.0043 per minute](https://deepgram.com/pricing#:~:text=Nova%2D2-,%240.0043/min,-%240.0036/min) and needs two API calls for each pronunciation. Here's a quick cost breakdown:
 
    - Deepgram costs: 30 hours × 60 minutes/hour × 2 calls × $0.0043 per minute = $15.48
 
