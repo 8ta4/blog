@@ -8,13 +8,13 @@ I have some specific criteria:
 
    OpenAI's TTS AI has been excellent in this regard, providing clear and consistent word articulation.
 
-   While Eleven Labs offers highly emotive speech, it comes at a higher cost and isn't necessarily better for pronunciation practice.
+   While Eleven Labs has speech that's full of emotion, it's pricier and isn't necessarily better for pronunciation practice.
 
    I don't rely on quality scores for TTS APIs; the proof is in putting the words together.
 
 1. Latency
 
-   OpenAI's TTS API typically processes a sentence in about 0.5 seconds, which is decent but could be improved.
+   OpenAI's TTS API typically processes a sentence in about 0.5 seconds, which is decent. But there's room for improvement.
 
 1. Cost
 
@@ -22,10 +22,10 @@ I have some specific criteria:
 
    I prefer a pay-as-you-go model instead of a fixed-cost one with a usage cap. Big providers like Amazon Polly, Google, and Microsoft Azure offer this, as does OpenAI.
 
-   For my pronunciation practice, I expect to use it for up to 30 hours a month. I use Deepgram for speech-to-text, which costs $0.0043 per minute and requires two API calls per pronunciation. Here's a quick cost breakdown:
+   For my pronunciation practice, I'm looking at using it for up to 30 hours each month. I use Deepgram for speech-to-text, which runs me $0.0043 per minute and needs two API calls for each pronunciation. Here's a quick cost breakdown:
 
-   - Deepgram costs: 30 hours × 60 minutes/hour × 2 calls × $0.0043 per minute ≈ $15.48
+   - Deepgram costs: 30 hours × 60 minutes/hour × 2 calls × $0.0043 per minute = $15.48
 
    - Remaining budget for TTS: $100 - $15.48 = $84.52
 
-So, I'm looking for a TTS API that outperforms OpenAI's in at least one of these areas while matching it in the others.
+So, if you know of a TTS API that beats OpenAI's in at least one of these areas while matching it in the others, hit me up!
