@@ -1,3 +1,9 @@
+My recent post kept getting filtered out. So, here's what I'm doing: I post a link to the Hacker News guidelines first, and then I add my original post as a comment.
+
+Here's what my original post said:
+
+Looking for a Service to Automatically Publish Email Correspondence
+
 Is there a service that can automatically publish my emails with customer service, hiding all the personal info?
 
 Here's what I need:
