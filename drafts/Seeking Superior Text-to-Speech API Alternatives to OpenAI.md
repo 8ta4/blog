@@ -4,7 +4,7 @@ I have some specific criteria:
 
 1. Quality
 
-   The most important aspect is how natural the generated speech sounds. For pronunciation practice, the naturalness of the speech are paramount.
+   The most important aspect is how natural the generated speech sounds. For pronunciation practice, the naturalness of the speech is paramount.
 
    OpenAI's TTS has been excellent in this regard, providing clear and consistent word articulation.
 
