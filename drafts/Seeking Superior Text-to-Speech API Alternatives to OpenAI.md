@@ -28,6 +28,6 @@ I have some specific criteria:
 
    - Remaining budget for TTS: $100 - $15.48 = $84.52
 
-The reason I'm looking for these specific criteria is that my project focuses on pronunciation. You can check out [the details](https://github.com/8ta4/accent/blob/d942f4cebd657b350d5b48bbd9dc6a82a1c9e97f/DONTREADME.md) to understand why these factors are crucial.
+This project is all about instant feedback on pronunciation. You can check out [the details](https://github.com/8ta4/accent/blob/d942f4cebd657b350d5b48bbd9dc6a82a1c9e97f/DONTREADME.md) to understand why these factors are crucial.
 
 So, if you know of a TTS API that beats OpenAI's in at least one of these areas while matching it in the others, hit me up!
