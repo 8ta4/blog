@@ -1,8 +1,8 @@
 In my last app, I went through several iterations using different language stacks.
 
-1. v0.1.5: [Clojure](https://github.com/8ta4/say/blob/v0.1.5/clj/src/clj/core.clj)
-2. v0.5.0: [PureScript](https://github.com/8ta4/say/blob/v0.5.0/src/Main.purs)
-3. v0.8.1: [ClojureScript](https://github.com/8ta4/say/blob/v0.8.1/src/main.cljs)
+1. [v0.1.5](https://github.com/8ta4/say/blob/v0.1.5/clj/src/clj/core.clj): Clojure
+2. [v0.5.0](https://github.com/8ta4/say/blob/v0.5.0/src/Main.purs): PureScript
+3. [v0.8.1](https://github.com/8ta4/say/blob/v0.8.1/src/main.cljs): ClojureScript
 
 I could have avoided switching stacks midway if I'd talked to experienced developers before jumping into the code. Working alone makes it even more challenging.
 
