@@ -6,6 +6,6 @@ I went through several iterations in my last app using different language stacks
 
 I could have avoided switching stacks midway if I had talked to experienced developers before jumping into the code. Working alone makes it even more challenging.
 
-Now, I'm working on a new app and I've spent time thinking through and [documenting the problem](https://github.com/8ta4/accent/blob/c97d9ec4255778a46154612a0d0ec707defbd97c/DONTREADME.md) before writing any code. I'd love to share my approach and get some feedback to improve it. Catching potential issues early is key because, as they say, the early nerd catches the bug!
+Now, I'm working on a new app and I've spent time doing hammock-driven development and [documenting the problem](https://github.com/8ta4/accent/blob/c97d9ec4255778a46154612a0d0ec707defbd97c/DONTREADME.md) before writing any code. I'd love to get some feedback. Catching potential issues early is key because, as they say, the early nerd catches the bug!
 
 However, it has been tough to find an online community where I can dive into deep discussions about what to build and how to build it. If you know of any good ones, please share! If you have suggestions on where to find such communities, please let me know. Any tips would be appreciated!
