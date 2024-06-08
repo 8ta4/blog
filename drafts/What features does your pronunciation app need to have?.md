@@ -1,4 +1,4 @@
-What features would you want in your ideal pronunciation grading app?
+What killer features would you want in your ideal pronunciation grading app?
 
 A while back, I [asked](https://old.reddit.com/r/languagelearning/comments/1cd0b5c/seeking_a_pronunciation_grader_that_allows_any/) if anyone knew of a pronunciation grading app that could provide feedback on how close you are to a target accent. I didn't find what I was looking for, so I thought, "Why not build it myself?"
 
