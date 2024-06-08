@@ -8,6 +8,6 @@ I decided to compare different speech recognition providers, including Google's 
 
 At first, I was planning to make it a web app so it'd be easy for everyone to access. But I ended up making [a desktop version](https://github.com/8ta4/accent) for Mac because I was lazy. The tool does require a bit of technical knowledge to run, but it's at a point where it could be useful for learners if they are comfortable with technology. I wanted to share this update to wrap up the previous discussion and let you know this tool is out there.
 
-So, my accent coach asked me, "What do you hope to achieve with this app?" I said, "I want to perfect my accent so there's no room for misinterpretation when I say, 'You're fired.'"
+My accent coach asked me, "What do you hope to achieve with this app?" I said, "I want to perfect my accent so there's no room for misinterpretation when I say, 'You're fired.'"
 
 Anyway, if you have any other suggestions, I'm all ears.
