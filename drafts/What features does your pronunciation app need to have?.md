@@ -1,6 +1,6 @@
 What killer features would you want in your ideal pronunciation grading app?
 
-A while back, I [asked](https://old.reddit.com/r/languagelearning/comments/1cd0b5c/seeking_a_pronunciation_grader_that_allows_any/) if anyone knew of a pronunciation grading app that could provide feedback on how close you are to a target accent. I didn't find what I was looking for, so I thought, "Why not build it myself?"
+Over a month back, I [asked](https://old.reddit.com/r/languagelearning/comments/1cd0b5c/seeking_a_pronunciation_grader_that_allows_any/) if anyone knew of a pronunciation grading app that could provide feedback on how close you are to a target accent. I didn't find what I was looking for, so I thought, "Why not build it myself?"
 
 I got [this suggestion](https://old.reddit.com/r/languagelearning/comments/1cd0b5c/seeking_a_pronunciation_grader_that_allows_any/l19l2i1/) from u/Antoine-Antoinette in that thread. They said the app should let you evaluate multi-word phrases and sentences without having to pause or hit any keys between words. So I implemented it to encourage a more natural flow. They also mentioned that they were using Google Translate for pronunciation practice as a DIY solution, which got me thinking.
 
