@@ -46,7 +46,7 @@ Why would you want to transcribe everything you say 24/7? I'm thinking about mak
 
 - Mindfulness: Wherever you go, there you speak. I've started appreciating the little things in life.
 
-- Therapy: Time is money. Therapists charge by the hour. So, I started sending my therapist updates generated from my transcripts using large language models. But wait, I've got these models available all the time. So, I fired my therapist.
+- Therapy: Time is money. Therapists charge by the hour. So, to save some precious minutes, I started sending my therapist updates generated from my transcripts using large language models. But wait, I've got these models available all the time. So, I fired my therapist.
 
 - Observer Effect: My transcripts are my moral compass. The awareness of being constantly transcribed feels like God is watching us. I had premeditated murder, but I've stopped because my transcripts could be used as evidence against me in court.
 
