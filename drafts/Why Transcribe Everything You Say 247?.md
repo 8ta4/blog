@@ -72,7 +72,7 @@ Why would you want to transcribe everything you say 24/7? I'm thinking about mak
 
 - Icebreaker: I'm the life of the party. When I walk into a room with my headset on, everyone wants to know why. That's when I get to show off my quantified self project.
 
-- Personal Space: If you want more personal space on a crowded subway, this tool is your secret weapon. People avoid sitting next to me, the crazy person talking to themselves. I guess the next step is to get an [Apple Vision Pro](https://www.apple.com/apple-vision-pro/) and watch even more people steer clear!
+- Personal Space: People avoid me. If you want more personal space on a crowded subway, this tool is your secret weapon. I guess the next step is to get an [Apple Vision Pro](https://www.apple.com/apple-vision-pro/) and watch even more people steer clear!
 
 - Digital Clone: Digital clones are the future. But they need more than just code. They need our thoughts. I'm preserving my transcripts in preparation for the day. You may say I'm a dreamer. But I'm not the only one.
 
