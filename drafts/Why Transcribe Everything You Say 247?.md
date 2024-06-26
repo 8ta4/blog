@@ -1,4 +1,4 @@
-Why would you want to transcribe everything you say 24/7? I'm thinking about making a video to spread the word, but first, I want your input. To kick off the discussion, I'll share my insights from using [the open-source tool](https://github.com/8ta4/say) I made since last year. Whether you've used similar approaches or this is the first you're hearing of it, your ideas are welcome. If you can think of any other potential advantages, I'm all ears!
+Why would you want to transcribe everything you say 24/7? I'm thinking about making a video to spread the word, but first, I want your input. To kick off the discussion, I'll share my insights from using [my open-source tool](https://github.com/8ta4/say) daily since last year. Whether you've used similar approaches or this is the first you're hearing of it, your ideas are welcome. If you can think of any other potential advantages, I'm all ears!
 
 - Memory: I speak my mind anytime, anywhere, and bam! I whisper my genius ideas in the pitch-black night without fumbling for a pen.
 
