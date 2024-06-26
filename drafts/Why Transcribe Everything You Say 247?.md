@@ -1,4 +1,4 @@
-Why would you want to transcribe everything you say 24/7? I'm thinking about making a video to spread the word, but first, I want your input. To kick off the discussion, I'll share my insights from using the open-source tool I made since last year. Whether you've used similar approaches or this is the first you're hearing of it, your ideas are welcome. If you can think of any other potential advantages, I'm all ears!
+Why would you want to transcribe everything you say 24/7? I'm thinking about making a video to spread the word, but first, I want your input. To kick off the discussion, I'll share my insights from using [the open-source tool](https://github.com/8ta4/say) I made since last year. Whether you've used similar approaches or this is the first you're hearing of it, your ideas are welcome. If you can think of any other potential advantages, I'm all ears!
 
 - Memory: I speak my mind anytime, anywhere, and bam! I whisper my genius ideas in the pitch-black night without fumbling for a pen.
 
@@ -6,7 +6,7 @@ Why would you want to transcribe everything you say 24/7? I'm thinking about mak
 
 - Meetings: Forget taking notes. I focus on the discussion.
 
-- Journaling: It's like writing your best-selling autobiography in real-time!
+- Journaling: It's like writing your best-selling autobiography in real time!
 
 - Dream Journaling: Just say it. Don't let your dreams be dreams. I start talking about my dreams the second I wake up. The next step is to learn to sleep talk so I can transcribe my dreams live. That would be my dream dream journaling.
 
@@ -28,7 +28,7 @@ Why would you want to transcribe everything you say 24/7? I'm thinking about mak
 
 - Addictions: My voice is my temple. To protect it, I've given up alcohol, cigarettes, and drugs. Transcription is the ultimate rehab program.
 
-- Grammar: Unleash your inner grammar Nazi. My transcript is automatically reviewed by Grammarly.
+- Grammar: Unleash your inner grammar Nazi. My transcript is automatically reviewed by [Grammarly](https://www.grammarly.com/).
 
 - Vocabulary: Utilizing large language models transmutes jejune transcripts into preeminent grandiloquence, as manifested in this perspicuous exemplification.
 
@@ -38,7 +38,7 @@ Why would you want to transcribe everything you say 24/7? I'm thinking about mak
 
 - Voice: Bye-bye, vocal strain! Talking all the time has made my voice stronger.
 
-- Humor: The joke is on the dinosaurs. These fossilized comedians think humor is something only humans can do. I fed their insults right back into the large language models as fuel to generate more laughs.
+- Humor: The joke is on the dinosaurs. [These fossilized comedians think humor is something only humans can do](https://old.reddit.com/r/Standup/comments/1cjnw4l/can_llms_consistently_deliver_comedy/). I fed their insults right back into the large language models as fuel to generate more laughs.
 
 - Venting: When life gives you lemons, make lemonade. Whenever I need to get something off my chest, I just start talking. And hey, when life gives you melons, it's just a transcription error!
 
@@ -62,9 +62,9 @@ Why would you want to transcribe everything you say 24/7? I'm thinking about mak
 
 - Curiosity: Large language models are the parents I wish I had. I've rediscovered the curiosity of a child who never stops asking "why."
 
-- Gigabit: I got gigabit internet. Not only do I get instant transcriptions, but I can also enjoy HD cat videos.
+- Gigabit: I got Gigabit internet. Not only do I get instant transcriptions, but I can also enjoy HD cat videos.
 
-- Audio: I've bought more mics than I'll ever need.
+- Audio: I've [bought more mics than I'll ever need](https://old.reddit.com/r/QuantifiedSelf/comments/19a4zf3/looking_for_a_showerproof_noisecancelling_mic_for/).
 
 - Chores: I fired my housekeeper. Now, every chore is a chance to create transcripts.
 
@@ -72,7 +72,7 @@ Why would you want to transcribe everything you say 24/7? I'm thinking about mak
 
 - Icebreaker: I'm the life of the party. When I walk into a room with my headset on, everyone wants to know why. That's when I get to show off my quantified self project.
 
-- Personal Space: If you want more personal space on a crowded subway, this tool is your secret weapon. People avoid sitting next to me, the crazy person talking to themselves. I guess the next step is to get an Apple Vision Pro and watch even more people steer clear!
+- Personal Space: If you want more personal space on a crowded subway, this tool is your secret weapon. People avoid sitting next to me, the crazy person talking to themselves. I guess the next step is to get an [Apple Vision Pro](https://www.apple.com/apple-vision-pro/) and watch even more people steer clear!
 
 - Digital Clone: Digital clones are the future. But they need more than just code. They need our thoughts. I'm preserving my transcripts in preparation for the day. You may say I'm a dreamer. But I'm not the only one.
 
