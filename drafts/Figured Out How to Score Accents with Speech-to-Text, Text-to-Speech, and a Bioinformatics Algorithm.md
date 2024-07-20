@@ -1,4 +1,4 @@
-I've stumbled upon a method for evaluating pronunciation, and I'm excited to share it with you. This method gives you a word-by-word breakdown of understandability against a target accent. I'd love to hear what you think about this approach!
+I've stumbled upon a method for evaluating pronunciation, and I'm excited to share it with you. This method gives you a word-by-word breakdown of understandability against a target accent.
 
 1. Use a speech-to-text API to turn the user's speech into text, complete with word-level probabilities.
 
