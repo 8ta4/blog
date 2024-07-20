@@ -10,7 +10,7 @@ I've stumbled upon a method for evaluating pronunciation, and I'm excited to sha
 
 5. Check out the differences in word probabilities to spot where your pronunciation might be tricky for listeners of the target accent.
 
-If you've got a Mac, you can give it a whirl.
+If you've got a Mac, you can [give it a whirl](https://github.com/8ta4/accent).
 
 While working on this, I told a friend I was looking for a speech pathologist to consult. He said, "Oh, you want to get your tongue checked?" I said, "No, but you might want to get your brain checked. It could be empty."
 
