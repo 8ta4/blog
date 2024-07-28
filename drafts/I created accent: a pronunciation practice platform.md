@@ -13,3 +13,5 @@ Here is [a complete overview](https://github.com/8ta4/accent/blob/baada6f52f9a36
 It's still early in development, and I wanted to show it to the community and gather some feedback. There are many features I'm considering implementing, and I'm looking forward to seeing how it evolves based on user input.
 
 I appreciate any thoughts on the project.
+
+I'm just a shameless copycat. This post is basically a knockoff of [the wildly successful LinguaCafe announcement](https://old.reddit.com/r/selfhosted/comments/191gcwb/i_created_linguacafe_a_free_foreign_language/).
