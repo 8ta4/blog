@@ -8,7 +8,7 @@ And I said, "No, it's to avoid talking to you."
 
 I'm not sure if many people will find it useful on /r/selfhosted, but I thought I'd share it here as well.
 
-Here is a complete overview of accent and a GitHub link. The source code is open, but it relies on paid API services.
+Here is [a complete overview](https://github.com/8ta4/accent/blob/baada6f52f9a36219fb981457977cb6316e40d8b/README.md#usage) of `accent` and a [GitHub link](https://github.com/8ta4/accent). The source code is open, but it relies on paid API services.
 
 It's still early in development, and I wanted to show it to the community and gather some feedback. There are many features I'm considering implementing, and I'm looking forward to seeing how it evolves based on user input.
 
