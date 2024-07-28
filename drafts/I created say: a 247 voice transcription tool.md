@@ -1,6 +1,6 @@
 Hi!
 
-I've been working on a software that transcribes your voice 24/7, and I've been using it myself for the past couple of months. There were multiple similar platforms like this, but I found them lacking in features I personally wanted, so I started working on my own.
+I've been working on software that transcribes your voice 24/7, and I've been using it myself for the past couple of months. There were multiple similar platforms like this, but I found them lacking in features I personally wanted, so I started working on my own.
 
 When I explained this to my girlfriend, she asked, "Is your memory getting even worse?" And I said, "Must be, since I don't remember asking for your opinion."
 
