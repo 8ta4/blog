@@ -61,3 +61,9 @@ I'm reposting the original content here in r/EnglishLearning to maintain a recor
 As the comments on the original post showed, [people have been arguing over the definition and evolution of RP for over a century](https://en.wikipedia.org/w/index.php?title=Received_Pronunciation&oldid=1236941098#:~:text=For%20over%20a%20century%2C%20there%20has%20been%20argument%20over%20such%20questions%20as%20the%20definition%20of%20RP%2C%20whether%20it%20is%20geographically%20neutral%2C%20how%20many%20speakers%20there%20are%2C%20the%20nature%20and%20classification%20of%20its%20sub%2Dvarieties%2C%20how%20appropriate%20a%20choice%20it%20is%20as%20a%20standard%2C%20and%20how%20the%20accent%20has%20changed%20over%20time.).
 
 So here's another reason to learn RP: you'll have a surefire way to push some people's buttons!
+
+---
+
+After posting this content to r/EnglishLearning as suggested, the post was removed for reasons that are not clear to me.
+
+I'm now sharing this content here in r/accents.
