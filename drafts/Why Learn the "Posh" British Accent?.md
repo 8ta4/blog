@@ -64,6 +64,6 @@ So here's another reason to learn RP: you'll have a surefire way to push some pe
 
 ---
 
-After posting this content to r/EnglishLearning as suggested, the post was removed for reasons that are not clear to me.
+After posting this content to r/EnglishLearning as suggested, [the post was removed](https://old.reddit.com/r/EnglishLearning/comments/1eem8f2/why_learn_the_posh_british_accent/) for reasons that are not clear to me.
 
 I'm now sharing this content here in r/accents.
