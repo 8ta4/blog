@@ -12,4 +12,4 @@ If you're interested, feel free to check out [my repository](https://github.com/
 
 I attempt to [livestream every single code commit I make on my open-source projects](https://www.youtube.com/@8ta4/streams). So if you're curious, you can actually see this whole setup in action!
 
-How do you set up your Mac? I’d love to hear your thoughts!
+How do you set up your Mac? I'd love to hear your thoughts!
