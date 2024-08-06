@@ -1,0 +1,11 @@
+Setting up a new Mac can be a real hassle. I put together this script that does a bunch of stuff for me. Here's the gist:
+
+- Homebrew: I've got a Brewfile that lists all the apps I install using Homebrew. They say there's an app for everything. If you need to research, there's an app for that. If you need to recharge, there's a nap for that!
+
+- Chrome: I have a file that lists all my favorite Chrome extensions, and I've developed a custom tool that automatically installs and configures them for me.
+
+- Visual Studio Code: I've also got a separate file that lists all the Visual Studio Code extensions I use.
+
+- PlistBuddy: For most macOS customizations, I use PlistBuddy. I have a file that contains all the PlistBuddy commands needed for my customizations. I also created a monitoring tool. When I adjust settings via the GUI, this tool generates the exact PlistBuddy commands that match those changes.
+
+If you're interested, feel free to check out my repository and use whatever you find useful. I attempt to livestream every single commit I make on my open-source projects. So if you're curious, you can actually see this whole setup in action! If you have any suggestions or questions, I'd love to hear from you!
