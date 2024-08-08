@@ -20,4 +20,4 @@ Does any of this ring a bell? I'd prefer to use an existing tool if it's out the
 
 This all started about a year ago when I was slogging through a really dense document. My buddy walked by and was like, "Do you need someone to hold your hand while you read?" And I was like, "Nah, but I'd love someone to hold your mouth while I read."
 
-When I couldn't find what I was looking for, I even started planning how to build it. I got as far as writing [the documentation](https://github.com/8ta4/quest) but never started the coding. I figured I'd check one more time to see if something like this already exists before I go and reinvent the wheel.
+When I couldn't find what I was looking for, I even started planning how to build it. I got as far as writing [the documentation](https://github.com/8ta4/quest) and [asked](https://old.reddit.com/r/chrome_extensions/comments/1649r0k/seeking_feedback_for_quest_a_chrome_extension_for/) for feedback but never started the coding. I figured I'd check one more time to see if something like this already exists before I go and reinvent the wheel.
