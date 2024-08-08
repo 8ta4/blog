@@ -24,4 +24,4 @@ When I couldn't find what I was looking for, I even started planning how to buil
 
 ---
 
-I actually posted this in r/EdTech first. But u/DistinctAssumption64 suggested that I share it in a more generalized AI forum. That's how I ended up here in r/artificial.
+I actually [posted](https://old.reddit.com/r/edtech/comments/1emv6e4/looking_for_a_chrome_extension_for_interactive/) this in r/EdTech first. But u/DistinctAssumption64 [suggested](https://old.reddit.com/r/edtech/comments/1emv6e4/looking_for_a_chrome_extension_for_interactive/lh1v244/) that I share it in a more generalized AI forum. That's how I ended up here in r/artificial.
