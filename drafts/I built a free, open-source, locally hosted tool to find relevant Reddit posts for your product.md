@@ -1,4 +1,4 @@
-The open-source tool indexes Reddit posts based on their content and similarity to your product's use case, making it easy to find relevant discussions. Mark example posts and get notified about new similar ones to engage with potential customers.
+The open-source tool indexes Reddit posts based on their content, making it easy to find relevant discussions. Mark example posts and get notified about new similar ones to engage with potential customers.
 
 See the app and walkthrough here 👉 https://github.com/8ta4/reddit
 
