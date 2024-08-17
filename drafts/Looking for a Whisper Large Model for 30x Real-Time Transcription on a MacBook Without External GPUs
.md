@@ -14,6 +14,6 @@ For more context about my project, you can check out the documentation here:
 
 - [End-user documentation](https://github.com/8ta4/say)
 
-- [Developer documentation](https://github.com/8ta4/say/blob/main/DONTREADME.md)
+- [Developer documentation](https://github.com/8ta4/say/blob/6b649fb21978102d3ab9d6399aecb92768c90ef6/DONTREADME.md)
 
 I'd really appreciate any insights, suggestions, or pointers to relevant resources. Thanks!
