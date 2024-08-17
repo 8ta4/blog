@@ -1,4 +1,4 @@
-I'm working on a project where I need to transcribe 30 seconds of audio in less than a second. I [mentioned](https://old.reddit.com/r/ADHD_Programmers/comments/1ernxsc/created_an_alwayson_transcription_app_to_capture/li7kdjd/) some challenges with running Whisper locally, and u/Enough-Meringue4745 [responded](https://old.reddit.com/r/ADHD_Programmers/comments/1ernxsc/created_an_alwayson_transcription_app_to_capture/li8trw4/), "Please research before you spout excuses 😂". So, here I am, doing my research.
+I'm working on a project where I need to transcribe 30 seconds of audio in less than a second. I [mentioned](https://old.reddit.com/r/ADHD_Programmers/comments/1ernxsc/created_an_alwayson_transcription_app_to_capture/li7kdjd/) some challenges with running Whisper locally, and u/Enough-Meringue4745 responded, "[Please research before you spout excuses 😂](https://old.reddit.com/r/ADHD_Programmers/comments/1ernxsc/created_an_alwayson_transcription_app_to_capture/li8trw4/)". So, here I am, doing my research.
 
 Specifically, I'm looking for a Whisper model that:
 
@@ -16,4 +16,4 @@ For more context about my project, you can check out the documentation here:
 
 - [Developer documentation](https://github.com/8ta4/say/blob/6b649fb21978102d3ab9d6399aecb92768c90ef6/DONTREADME.md)
 
-I'd really appreciate any insights, suggestions, or pointers to relevant resources. Thanks!
+I'd really appreciate any insights, suggestions, or pointers to relevant resources.
