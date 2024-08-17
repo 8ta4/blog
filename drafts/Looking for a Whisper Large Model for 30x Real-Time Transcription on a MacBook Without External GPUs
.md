@@ -1,4 +1,4 @@
-I'm working on a project where I need to transcribe 30 seconds of audio in less than a second. I mentioned some challenges with running Whisper locally, and u/Enough-Meringue4745 responded, "Please research before you spout excuses 😂". So, here I am, doing my research.
+I'm working on a project where I need to transcribe 30 seconds of audio in less than a second. I [mentioned](https://old.reddit.com/r/ADHD_Programmers/comments/1ernxsc/created_an_alwayson_transcription_app_to_capture/li7kdjd/) some challenges with running Whisper locally, and u/Enough-Meringue4745 [responded](https://old.reddit.com/r/ADHD_Programmers/comments/1ernxsc/created_an_alwayson_transcription_app_to_capture/li8trw4/), "Please research before you spout excuses 😂". So, here I am, doing my research.
 
 Specifically, I'm looking for a Whisper model that:
 
@@ -12,8 +12,8 @@ I know someone might be thinking, "Do you always ask the Internet to do your thi
 
 For more context about my project, you can check out the documentation here:
 
-- End-user documentation
+- [End-user documentation](https://github.com/8ta4/say)
 
-- Developer documentation
+- [Developer documentation](https://github.com/8ta4/say/blob/main/DONTREADME.md)
 
 I'd really appreciate any insights, suggestions, or pointers to relevant resources. Thanks!
