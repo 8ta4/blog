@@ -12,4 +12,4 @@ The backend is built using these great open-source components:
 
 - [devenv](https://github.com/cachix/devenv): A development environment tool
 
-After seeing how well [the meme search engine post](https://old.reddit.com/r/selfhosted/comments/1e3x6l0/i_built_a_free_open_source_locally_hosted_search/) did, I asked, "[Can I copy your homework?](https://knowyourmeme.com/memes/can-i-copy-your-homework)" It said, "Yeah, just change it up a bit so it doesn't look obvious you copied." So here we are! 😄
+After seeing how well [the meme search engine post](https://old.reddit.com/r/selfhosted/comments/1e3x6l0/i_built_a_free_open_source_locally_hosted_search) did, I asked, "[Can I copy your homework?](https://knowyourmeme.com/memes/can-i-copy-your-homework)" It said, "Yeah, just change it up a bit so it doesn't look obvious you copied." So here we are! 😄
