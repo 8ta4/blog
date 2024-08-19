@@ -1,6 +1,6 @@
-I'm working on a project that aims to track relevant Reddit discussions in real-time. I'm hoping to get some insights from you all.
+I'm working on [a project](https://github.com/8ta4/reddit) that aims to track relevant Reddit discussions in real-time. I'm hoping to get some insights from you all.
 
-Here's the situation: I got some feedback from u/EndlessHiway that made me rethink my approach. They suggested just doing a Google search, and when I explained how my idea is different, their response was, "So you don't know how to use a search engine is what you're saying."
+Here's the situation: I got some feedback from u/EndlessHiway that made me rethink my approach. They [suggested](https://old.reddit.com/r/selfhosted/comments/1eutath/i_built_a_free_opensource_locally_hosted_tool_to/limwjvl/) just doing a Google search, and when I [explained](https://old.reddit.com/r/selfhosted/comments/1eutath/i_built_a_free_opensource_locally_hosted_tool_to/liohlb3/) how my idea is different, their response was, "[So you don't know how to use a search engine is what you're saying.](https://old.reddit.com/r/selfhosted/comments/1eutath/i_built_a_free_opensource_locally_hosted_tool_to/lipf2x5/)"
 
 I wanted to fire back with, "So you don't know how to use a brain is what you're saying."
 
