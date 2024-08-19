@@ -4,7 +4,7 @@ Here's the situation: I got some feedback from u/EndlessHiway that made me rethi
 
 I wanted to fire back with, "So you don't know how to use a brain is what you're saying."
 
-But it got me thinking. There might be advanced search engine techniques I'm not aware of. So, I'm turning to r/datascience to see if there's a better way to achieve what I'm trying to do.
+But it got me thinking. There might be advanced search engine techniques I'm not aware of. So, I'm turning to r/LanguageTechnology to see if there's a better way to achieve what I'm trying to do.
 
 Here's where I'm at: Traditional search engines seem to fall short for this particular task, and here's why:
 
