@@ -10,5 +10,5 @@ You'll need [a Deepgram account](https://console.deepgram.com/signup) for the tr
 
 I'd love to hear your feedback!
 
-This post was inspired by [a popular post](https://old.reddit.com/r/SideProject/comments/1ewqg6q/last_year_i_built_a_voice_notetaking_app_that) I saw recently about RambleFix here on the subreddit. Their transcription app, which launched around the same time as mine, is now pulling in $2,380 in monthly recurring revenue, while mine is still at $0. I figured I might learn something by taking a page out of their book. In fact, I used [their year-old launch
+This post was inspired by [a popular post](https://old.reddit.com/r/SideProject/comments/1ewqg6q/last_year_i_built_a_voice_notetaking_app_that) I saw recently about RambleFix here on the subreddit. Their transcription app, which launched around the same time as mine, is now pulling in $2,380 in monthly recurring revenue, while mine is still at $0. I figured I might learn something by taking a page out of their book. I used [their year-old launch
 post](https://old.reddit.com/r/SideProject/comments/14kops5/i_built_a_voice_recorder_that_uses_ai_to_convert) as a template for this one. To describe this approach, [I just invented a new word: plagiarism.](https://old.reddit.com/r/Jokes/comments/277604/i_just_invented_a_new_word)
