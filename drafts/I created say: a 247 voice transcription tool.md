@@ -11,3 +11,11 @@ Here is a complete overview of [say](https://github.com/8ta4/say/blob/e7fa58ba0b
 It's still early in development, and I wanted to show it to the community and gather some feedback. There are many features I'm considering implementing, and I'm looking forward to seeing how it evolves based on user input.
 
 Now, you might be thinking, "Wait a minute, this post structure looks familiar..." I recently [posted](https://old.reddit.com/r/selfhosted/comments/1eeo860/i_created_accent_a_pronunciation_practice_platform) about another app using the same style as [the LinguaCafe announcement](https://old.reddit.com/r/selfhosted/comments/191gcwb/i_created_linguacafe_a_free_foreign_language). u/LinguaCafe even [encouraged it](https://old.reddit.com/r/selfhosted/comments/1eeo860/i_created_accent_a_pronunciation_practice_platform/lfj7q8m)! So here I am, a shameless one-trick pony.
+
+---
+
+This post originally lived on r/selfhosted, but it got removed for some reason. So, I figured I'd give it a new home here on r/QuantifiedSelf.
+
+I posted here before about why I'm into this whole 24/7 transcription thing, listing various use cases, and you folks seemed pretty cool with the idea. This time around, I'm focusing more on the software itself.
+
+If you've got thoughts, questions, or just want to tell me I'm crazy, fire away in the comments.
