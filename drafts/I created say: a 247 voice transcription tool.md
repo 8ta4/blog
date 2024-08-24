@@ -14,8 +14,8 @@ Now, you might be thinking, "Wait a minute, this post structure looks familiar..
 
 ---
 
-This post originally lived on r/selfhosted, but it got removed for some reason. So, I figured I'd give it a new home here on r/QuantifiedSelf.
+This post originally lived on r/selfhosted, but it got [removed](https://old.reddit.com/r/selfhosted/comments/1efk5a7/i_created_say_a_247_voice_transcription_tool) for some reason. So, I figured I'd give it a new home here on r/QuantifiedSelf.
 
-I posted here before about why I'm into this whole 24/7 transcription thing, listing various use cases, and you folks seemed pretty cool with the idea. This time around, I'm focusing more on the software itself.
+I [posted](https://old.reddit.com/r/QuantifiedSelf/comments/1dpavqa/why_transcribe_everything_you_say_247) here before about why I'm into this whole 24/7 transcription thing, listing various use cases, and you folks seemed pretty cool with the idea. This time around, I'm focusing more on the software itself.
 
 If you've got thoughts, questions, or just want to tell me I'm crazy, fire away in the comments.
