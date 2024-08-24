@@ -18,4 +18,4 @@ This post originally lived on r/selfhosted, but it got [removed](https://old.red
 
 I [posted](https://old.reddit.com/r/QuantifiedSelf/comments/1dpavqa/why_transcribe_everything_you_say_247) here before about why I'm into this whole 24/7 transcription thing, listing various use cases, and you folks seemed pretty cool with the idea. This time around, I'm focusing more on the software itself.
 
-If you've got thoughts, questions, or just want to tell me I'm crazy, fire away in the comments.
+If you have questions or just want to tell me I'm crazy, fire away in the comments.
