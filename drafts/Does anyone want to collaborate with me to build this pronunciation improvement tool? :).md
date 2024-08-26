@@ -10,4 +10,4 @@ What are your thoughts about this project?
 
 Have a good day :)
 
-I straight-up stole this post's format from [another language learning tool post](https://old.reddit.com/r/LanguageTechnology/comments/1f0tcpk/does_anyone_want_to_collaborate_with_me_to_build/) I spotted earlier. Two users, u/Jake_Bluuse and u/Business_Society_333, showed interest in that project. So I figured, if they're into collaborating on language apps, maybe they or other cool folks like them might want to join forces on this pronunciation tool too. If collaborating isn't your thing, you can still use the app to pronounce "no thanks" perfectly!
+I straight-up stole this post's format from [another language learning tool post](https://old.reddit.com/r/LanguageTechnology/comments/1f0tcpk/does_anyone_want_to_collaborate_with_me_to_build/) I spotted earlier. Two users, u/Jake_Bluuse and u/Business_Society_333, showed interest in that project. So if they're into collaborating on language apps, maybe they or other cool folks like them might want to join forces on this pronunciation tool too. If collaborating isn't your thing, you can still use the app to pronounce "no thanks" perfectly!
