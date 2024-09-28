@@ -8,11 +8,11 @@ Now, there are a few caveats:
 
 - REPL: The REPL works fine in content scripts, but not in the background scripts.
 
-- Custom formatters: Custom formatters for ClojureScript don't work in Firefox.
+- Custom formatters: [Custom formatters for ClojureScript don't work](https://github.com/binaryage/cljs-devtools/issues/71) in Firefox.
 
-I've set up a development environment that automates the workflow in Firefox. I used `web-ext` to tweak Firefox's configuration for REPL compatibility and to launch the web extension. I've put all this in an open-source repo.
+I've set up a development environment that automates the workflow in Firefox. I used `web-ext` to tweak Firefox's configuration for REPL compatibility and to launch the web extension. I've put all this in [an open-source repo](https://github.com/8ta4/quest).
 
-Some folks have even gone as far as building their own modified versions of Chromium to get around this issue. It would be amazing if someone released a version of Chromium with REPL support built in and updated automatically with each new release.
+Some folks have even gone as far as [building their own modified versions of Chromium](https://github.com/thheller/shadow-cljs/issues/902) to get around this issue. It would be amazing if someone released a version of Chromium with REPL support built in and updated automatically with each new release.
 
 When I explained this setup to my girlfriend, she just rolled her eyes and said, "Do you enjoy making life complicated, or is using ClojureScript just some kind of hobby?"
 
