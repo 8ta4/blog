@@ -1,4 +1,4 @@
-If you're developing a Chrome extension and trying to use the REPL, you might have noticed... it just doesn't work in Chrome because of the new Manifest V3 restrictions.
+If you're developing a Chrome extension and trying to use the REPL, you might have noticed... [it just doesn't work in Chrome because of the new Manifest V3 restrictions](https://github.com/thheller/shadow-cljs/issues/902).
 
 But here's a trick I found: Firefox doesn't have this restriction! You can actually develop your Chrome extension in Firefox and use the REPL.
 
@@ -12,7 +12,7 @@ Now, there are a few caveats:
 
 - Custom formatters: [Custom formatters for ClojureScript don't work](https://github.com/binaryage/cljs-devtools/issues/71) in Firefox.
 
-Some folks have even gone as far as [building their own modified versions of Chromium](https://github.com/thheller/shadow-cljs/issues/902) to get around this issue. It would be amazing if someone released a version of Chromium with REPL support built in and updated automatically with each new release.
+Some folks have even gone as far as [building their own modified versions of Chromium](https://github.com/thheller/shadow-cljs/issues/902#issuecomment-1726334026) to get around this issue. It would be amazing if someone released a version of Chromium with REPL support built in and updated automatically with each new release.
 
 When I explained this setup to my girlfriend, she just rolled her eyes and said, "Do you enjoy making life complicated, or is using ClojureScript just some kind of hobby?"
 
