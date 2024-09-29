@@ -1,4 +1,4 @@
-If you're developing a Chrome extension and trying to use the REPL, you might have noticed... it just doesn't work in Chrome.
+If you're developing a Chrome extension and trying to use the REPL, you might have noticed... it just doesn't work in Chrome because of the new Manifest V3 restrictions.
 
 But here's a trick I found: Firefox doesn't have this restriction! You can actually develop your Chrome extension in Firefox and use the REPL.
 
