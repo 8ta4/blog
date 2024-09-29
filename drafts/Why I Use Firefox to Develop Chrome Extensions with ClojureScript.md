@@ -2,6 +2,8 @@ If you're developing a Chrome extension and trying to use the REPL, you might ha
 
 But here's a trick I found: Firefox doesn't have this restriction! You can actually develop your Chrome extension in Firefox and use the REPL.
 
+I've set up a development environment that automates the workflow. I used [`web-ext`](https://github.com/mozilla/web-ext) to tweak Firefox's configuration for REPL compatibility and to launch the web extension. You can check it out in [my repo](https://github.com/8ta4/quest).
+
 Now, there are a few caveats:
 
 - Chrome vs. Firefox: The APIs are similar, but there are differences between the two browsers.
@@ -9,8 +11,6 @@ Now, there are a few caveats:
 - REPL: The REPL works fine in content scripts, but not in the background scripts.
 
 - Custom formatters: [Custom formatters for ClojureScript don't work](https://github.com/binaryage/cljs-devtools/issues/71) in Firefox.
-
-I've set up a development environment that automates the workflow in Firefox. I used [`web-ext`](https://github.com/mozilla/web-ext) to tweak Firefox's configuration for REPL compatibility and to launch the web extension. You can check it out in [my repo](https://github.com/8ta4/quest).
 
 Some folks have even gone as far as [building their own modified versions of Chromium](https://github.com/thheller/shadow-cljs/issues/902) to get around this issue. It would be amazing if someone released a version of Chromium with REPL support built in and updated automatically with each new release.
 
