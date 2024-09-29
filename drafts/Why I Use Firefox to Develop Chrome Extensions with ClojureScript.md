@@ -8,7 +8,7 @@ Now, there are a few caveats:
 
 - Chrome vs. Firefox: The APIs are similar, but there are differences between the two browsers.
 
-- REPL: The REPL works fine in content scripts, but not in the background scripts.
+- REPL: The REPL works fine in content scripts, but it's a no-go in background scripts.
 
 - Custom formatters: [Custom formatters for ClojureScript don't work](https://github.com/binaryage/cljs-devtools/issues/71) in Firefox.
 
