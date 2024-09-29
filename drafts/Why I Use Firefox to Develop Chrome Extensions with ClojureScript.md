@@ -2,7 +2,7 @@ If you're developing a Chrome extension and trying to use the REPL, you might ha
 
 But here's a trick I found: Firefox doesn't have this restriction! You can actually develop your Chrome extension in Firefox and use the REPL.
 
-I've set up a development environment that automates the workflow. I used [`web-ext`](https://github.com/mozilla/web-ext) to tweak Firefox's configuration for REPL compatibility and to launch the web extension. You can check it out in [my repo](https://github.com/8ta4/quest).
+I've set up a development environment that automates the workflow. I used [`web-ext`](https://github.com/mozilla/web-ext) to [tweak Firefox's configuration for REPL compatibility](https://github.com/8ta4/quest/blob/93c063ed1cc02ca7687cc1dd8cc97fc313479780/devenv.nix#L34) and to launch the web extension. You can check it out in [my repo](https://github.com/8ta4/quest).
 
 Now, there are a few caveats:
 
