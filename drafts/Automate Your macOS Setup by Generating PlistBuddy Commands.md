@@ -3,6 +3,7 @@ I have a [demo](https://youtu.be/-gOFmlQP9IA)!
 Here's what the tool does:
 
 - Tracks changes made to system or app preferences.
+
 - Generates `PlistBuddy` commands.
 
 With this, you can script your macOS setup and recreate your environment on new machines.
