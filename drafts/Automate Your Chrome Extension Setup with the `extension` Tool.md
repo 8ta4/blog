@@ -6,7 +6,7 @@ Here's what this tool does:
 
 - Supports JavaScript-based configuration files to set custom preferences.
 
-With `extension`, you can script your browser environment to install and customize the exact extensions you need.
+With `extension`, you can script your browser environment to install and customize the extensions you need.
 
 It's built for Chrome, but by extension, it also works with Edge and Arc since they're Chromium-based. (No pun extended.)
 
