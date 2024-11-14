@@ -8,6 +8,6 @@ Here's what this tool does:
 
 With `extension`, you can script your browser environment to install and customize the extensions you need.
 
-It's built for Chrome, but by extension, it also works with Edge and [Arc](https://arc.net) since they're Chromium-based. (No pun extended.)
+It's built for Chrome, but it also works with Edge and [Arc](https://arc.net) by extension. (No pun extended.)
 
 [Setup and usage instructions](https://github.com/8ta4/extension) are on GitHub. It's free, open-source, and currently for macOS only. Let me know if you have feedback or ideas!
