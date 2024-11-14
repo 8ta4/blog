@@ -1,4 +1,4 @@
-Check out the [demo](https://youtu.be/eOWOEvO5uys)!
+Check out the [demo video](https://youtu.be/eOWOEvO5uys)!
 
 Here's what this tool does:
 
