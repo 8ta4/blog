@@ -1,5 +1,3 @@
-I turned "Founding Sales" into an Interactive Q&A
-
 I've been reading the book [Founding Sales](https://www.foundingsales.com). I decided to turn the first chapter into an interactive Q&A format using a Chrome extension I built. This extension will prompt you with yes/no questions as you read the actual text—revealing the answers only after you answer.
 
 Here's a sample of the Q&A style:
