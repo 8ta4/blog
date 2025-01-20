@@ -1,4 +1,4 @@
-I'm a cereal entrepreneur, because I'm so broke I can only afford cereals. After a few failed attempts at building the next unicorn, I figured it was time to learn from the best. So I started studying Paul Graham's essay "How to Start a Startup."
+I'm a cereal entrepreneur because I'm so broke I can only afford cereals. After a few failed attempts at building the next unicorn, I figured it was time to learn from the best. So I started studying Paul Graham's essay "How to Start a Startup."
 
 But then I went one step further and built a Chrome extension called `quest`. It turns a web page into yes/no questions that reveal the answers directly in the original text. You can check your understanding immediately and hopefully avoid dozing off in the middle of a paragraph.
 
