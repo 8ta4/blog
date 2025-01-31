@@ -1,15 +1,25 @@
 I'm looking for a language-learning app that lets me have conversations in Chinese while showing me the transcript as I go.
 
 Here's what I'm looking for:
+
 - Lets me speak in Chinese
+
 - Shows Chinese characters and Pinyin as I speak and as the app responds
+
 - Keeps replies short
+
 - Ends each response with a question
+
 - Uses a physical headset button to signal it's their turn instead of guessing when I'm done talking
+
 - Can handle hour-long conversations without losing context
+
 - Uses standard pronunciation
+
 - Responds in under 10 seconds
+
 - Costs less than $1 per hour of conversation
+
 - Works on iOS
 
 OpenAI's advanced voice mode is close but doesn't show Chinese characters and pinyin in real-time, has annoying silence detection instead of button controls, and is unreliable even with the $200/month plan.
