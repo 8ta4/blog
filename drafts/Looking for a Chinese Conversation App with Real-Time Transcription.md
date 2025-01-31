@@ -3,7 +3,7 @@ I'm looking for a language-learning app that lets me have conversations in Chine
 Here's what I'm looking for:
 - Lets me chat in Chinese
 - Shows Chinese characters and Pinyin as I speak and as the app responds
-- Keeps replies short and to the point
+- Keeps replies short
 - Ends each response with a question
 - Uses a physical headset button to signal it's their turn instead of guessing when I'm done talking
 - Can handle hour-long conversations without losing context
