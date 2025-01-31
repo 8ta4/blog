@@ -6,7 +6,7 @@ Here's what I'm looking for:
 - Keeps replies short and to the point
 - Ends each response with a question
 - Uses a physical headset button to signal it's their turn instead of guessing when I'm done talking
-- Can handle hour-long conversations with context
+- Can handle hour-long conversations without losing context
 - Uses standard pronunciation
 - Responds in under 10 seconds
 - Costs less than $1 per hour of conversation
