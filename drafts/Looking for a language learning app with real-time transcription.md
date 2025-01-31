@@ -10,7 +10,7 @@ Here's what I'm looking for:
 - Uses standard pronunciation
 - Responds in under 10 seconds
 - Keeps replies short and to the point
-- Ends each response with a question to keep the convo going
+- Ends each response with a question
 
 The idea is to practice Chinese while seeing the transcript and picking up new vocab. And instead of the app trying to guess when you're done talking, you'd just tap a button or use your headphones to let the app know it's their turn.
 
