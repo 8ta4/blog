@@ -14,6 +14,6 @@ Here's what I'm looking for:
 
 The idea is to practice Chinese while seeing the transcript and picking up new vocab. And instead of the app trying to guess when you're done talking, you'd just tap a button or use your headphones to let the app know it's their turn.
 
-The perfect Chinese language learning app would be just like living in China. You can't complain.
+The perfect Chinese language learning app would be just like living in China. You [can't complain](https://old.reddit.com/r/Jokes/comments/dfd1iv/i_asked_my_chinese_friend_what_its_like_living_in/#:~:text=He%20says%20he-,can%27t%20complain,-.).
 
 Have you come across anything like this?
