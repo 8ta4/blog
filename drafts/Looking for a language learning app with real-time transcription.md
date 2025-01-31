@@ -1,4 +1,4 @@
-I'm trying to find a language learning app that lets me have conversations in Chinese while showing me the transcript as I go.
+I'm looking for a language-learning app that lets me have conversations in Chinese while showing me the transcript as I go.
 
 Here's what I'm looking for:
 - Lets me chat in Chinese
@@ -8,7 +8,7 @@ Here's what I'm looking for:
 - Costs less than $1 per hour of conversation
 - Can handle hour-long conversations with context
 - Uses standard pronunciation
-- Responds under 10 seconds
+- Responds in under 10 seconds
 - Keeps replies short and to the point
 - Ends each response with a question to keep the convo going
 
