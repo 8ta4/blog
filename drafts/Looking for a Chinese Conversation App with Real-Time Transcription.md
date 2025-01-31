@@ -5,7 +5,7 @@ Here's what I'm looking for:
 - Shows Chinese characters and Pinyin as I speak and as the app responds
 - Keeps replies short and to the point
 - Ends each response with a question
-- Uses a physical headset button to let the app know it's their turn instead of guessing when they're done talking
+- Uses a physical headset button to signal it's their turn instead of guessing when I'm done talking
 - Can handle hour-long conversations with context
 - Uses standard pronunciation
 - Responds in under 10 seconds
