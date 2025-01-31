@@ -12,6 +12,6 @@ Here's what I'm looking for:
 - Costs less than $1 per hour of conversation
 - Works on iOS
 
-The idea is to practice Chinese while seeing the transcript and picking up new vocab. The perfect Chinese language learning app would be just like living in China. You [can't complain](https://old.reddit.com/r/Jokes/comments/dfd1iv/i_asked_my_chinese_friend_what_its_like_living_in/#:~:text=He%20says%20he-,can%27t%20complain,-.).
+The idea is to practice Chinese while seeing the transcript and picking up new vocab. It'd be so immersive, it would feel like you're actually living in China. You [can't complain](https://old.reddit.com/r/Jokes/comments/dfd1iv/i_asked_my_chinese_friend_what_its_like_living_in/#:~:text=He%20says%20he-,can%27t%20complain,-.).
 
 Have you come across anything like this?
