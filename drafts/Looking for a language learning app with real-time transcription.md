@@ -1,4 +1,4 @@
-I'm trying to find a language learning app that lets me have conversations in Chinese while showing me the transcript as I go. Before I start building something myself, I wanted to see if anything like this already exists.
+I'm trying to find a language learning app that lets me have conversations in Chinese while showing me the transcript as I go.
 
 Here's what I'm looking for:
 - Lets me chat in Chinese
@@ -16,4 +16,4 @@ The idea is to practice Chinese while seeing the transcript and picking up new v
 
 The perfect Chinese language learning app would be just like living in China. You can't complain.
 
-Have you come across anything like this? I'd love to hear if something like this already exists so I don't have to reinvent the wheel!
+Have you come across anything like this?
