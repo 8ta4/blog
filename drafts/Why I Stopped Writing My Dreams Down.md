@@ -10,8 +10,8 @@ I've noticed:
 
 - You don't have to worry about making perfect sense. Large language models can help reconstruct the narrative later.
 
-Here's a video showing how this works:
+Here's a video showing how this works: https://youtu.be/Yemn1UAKx0M
 
-The code for the voice capture setup I use is here:
+The code for the voice capture setup I use is here: https://github.com/8ta4/say
 
 If you've tried voice dream journaling, I'd love to hear about your experience. Do you have any tips to make it even better?
