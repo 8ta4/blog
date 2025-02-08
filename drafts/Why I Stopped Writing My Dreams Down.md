@@ -1,4 +1,4 @@
-I wanted to share my dream journaling approach that's been working like a dream for me. The usual way of writing down dreams wasn't working great. By the time I grab a pen, the dream details start getting fuzzy. So I started talking about my dreams out loud right when I wake up.
+Lots of folks use dream journaling for lucid dreaming. Well, the usual way of writing down dreams wasn't cutting it for me. By the time I grab a pen, the dream details start getting fuzzy. So I started talking about my dreams out loud right when I wake up. This voice dream journaling method has been working like a dream for me. 
 
 I've noticed:
 
