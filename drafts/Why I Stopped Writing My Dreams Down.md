@@ -8,7 +8,7 @@ Loads of folks on this subreddit are into dream journaling for lucid dreaming. P
 
 - [Dream journaling does more than you think](https://old.reddit.com/r/LucidDreaming/comments/vacm1i/dream_journaling_does_more_than_you_think])
 
-Well, the usual way of writing down dreams wasn't cutting it for me. By the time I grab a pen, the dream details start getting fuzzy. So I started talking about my dreams out loud right when I wake up. This voice dream journaling method has been working like a dream for me. 
+Well, the usual way of writing down dreams wasn't cutting it for me. By the time I grab a pen, the dream details start getting fuzzy. So I switched to using always-on transcription to talk about my dreams right when I wake up. This voice dream journaling method has been working like a dream for me. 
 
 I've noticed:
 
