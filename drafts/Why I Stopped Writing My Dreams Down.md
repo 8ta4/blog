@@ -14,9 +14,9 @@ I've noticed:
 
 - Talking is faster than writing. Every second counts when dream memories are fading quickly.
 
-- Keeping your eyes closed helps maintain connection with the dream state. You're not confronted with your bedroom reality.
+- Keeping your eyes closed helps maintain a connection with the dream state. You're not confronted with your bedroom reality.
 
-- Talking quietly is key. Your own voice can wake you up if too loud.
+- Talking quietly is key. Your own voice can wake you up if it is too loud.
 
 - You don't have to worry about making perfect sense. Large language models can help reconstruct the narrative later.
 
