@@ -1,5 +1,3 @@
-Divide Horizontally, Unite Vertically: What I Learned About Prompting After Reasoning Models Changed the Game
-
 You've heard this advice: [Split complex tasks into simpler subtasks](https://platform.openai.com/docs/guides/prompt-engineering#split-complex-tasks-into-simpler-subtasks).
 
 This made sense when I started working with joke generation last year.
@@ -13,4 +11,3 @@ But then there's vertical breakdown, where tasks are interdependent. You might s
 So now, instead of breaking everything down, I ask myself whether the subtasks are independent or interdependent. For independent tasks, I divide horizontally. For interdependent tasks, I unite vertically.
 
 I might sound like I've got this all figured out with my fancy "horizontal versus vertical" analysis, but the joke's on me. My generated jokes are still terrible! I'd love to hear about your approach to prompt structure. What's working for you?
-
