@@ -32,6 +32,6 @@ Regular frequency lists just don't cut it:
 
 - With single words, it's doable but complicated. You need to count across all forms like "knock," "knocks," "knocked," "knocking."
 
-- Phrases are trickier. With the phrase "knock up", you need to count across all the different objects like "knock my flatmate up," "knock her up."  She has a pun in the oven.
+- Phrases are trickier. With the phrase "knock up", you need to count across all the different objects like "knock my flatmate up," "knock her up." She has a pun in the oven.
 
 I'm curious if there's a smarter way to do it. Hit me with your feedback or any advice you've got! Have you seen anything like this?
