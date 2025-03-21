@@ -1,6 +1,6 @@
 They say puns are the lowest form of humor. When I say I'm building a tool to automatically generate puns, they make pun of me!
 
-My goal is straightforward: create word-swapping puns that are easy to understood and relevant to the input. This isn't about making a general joke machine.
+My goal is straightforward: create word-swapping puns that are easy to understood and relevant to the input.
 
 Let me walk through a quick example. Say I wanted to create puns for this Reddit post:
 
