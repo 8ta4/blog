@@ -1,4 +1,4 @@
-I'm thinking of building a command-line tool that generates puns based on text input. There are plenty of pun generators out there, but I've got some reasons for making yet another one:
+I'm thinking of building [a command-line tool](https://github.com/8ta4/pun) that generates puns based on text input. There are plenty of pun generators out there, but I've got some reasons for making yet another one:
 
 - Most pun generators I’ve seen are web-based. But, for my workflow, a simple CLI tool is just faster.
 
