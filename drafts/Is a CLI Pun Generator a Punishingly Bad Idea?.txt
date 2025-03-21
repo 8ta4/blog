@@ -1,6 +1,6 @@
-I'm thinking of building a command-line tool that generates puns based on text input.
+I'm thinking of building a command-line tool that generates puns based on text input. There are plenty of pun generators out there, but I've got some reasons for making yet another one:
 
-- I've seen plenty of web-based pun generators. But, for my workflow, a simple CLI tool is just faster.
+- Most pun generators I’ve seen are web-based. But, for my workflow, a simple CLI tool is just faster.
 
 - Some tools generate puns based on obscure terms. I'm aiming for things people would generally understand and hopefully find at least mildly amusing.
 
