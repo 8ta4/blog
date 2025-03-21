@@ -1,6 +1,6 @@
 They say puns are the lowest form of humor. When I say I'm building a tool to automatically generate puns, they make pun of me!
 
-My goal is straightforward: create word-swapping puns that are easy to understood and relevant to the input.
+My goal is straightforward: create word-swapping puns that are easy to understood and relevant to the input. u/thepartners's [idealy](https://idealy.app) is the closest thing to what I'm aiming for, but it's not for me.
 
 Let me walk through a quick example. Say I wanted to create puns for this Reddit post:
 
