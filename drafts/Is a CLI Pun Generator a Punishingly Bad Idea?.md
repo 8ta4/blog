@@ -4,6 +4,6 @@ I'm thinking of building [a command-line tool](https://github.com/8ta4/pun) that
 
 - Some tools generate puns based on obscure terms. I'm aiming for things people would generally understand and hopefully find at least mildly amusing.
 
-- Context is King or Queen. Most existing tools I've found don't really generate puns that are relevant to the specific text you give them.
+- Context is King or Queen. Most existing tools I've found don't generate puns relevant to the specific text you give them.
 
 I haven't dived into writing production-level code yet. I want to make sure I'm not duplicating some random GitHub repo that's already nailed this. Are there any features you'd want in a tool like this? I'd love to get your take on the concept.
