@@ -6,4 +6,8 @@ I'm thinking of building [a command-line tool](https://github.com/8ta4/pun) that
 
 - Context is King or Queen. Most existing tools I've found don't generate puns relevant to the specific text you give them.
 
-I haven't dived into writing production-level code yet. I want to make sure I'm not duplicating some random GitHub repo that's already nailed this. Are there any features you'd want in a tool like this? I'd love to get your take on the concept.
+I haven't dived into writing production-level code yet.
+
+When I posted about this before, u/thepartners mentioned their tool [idealy](https://idealy.app), which isn't CLI. But it still gave me loads of inspiration.
+
+Are there any features you'd want in a tool like this? I'd love to get your take on the concept.
