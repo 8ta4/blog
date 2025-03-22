@@ -4,10 +4,10 @@ My goal is straightforward: create word-swapping puns that are easy to understan
 
 Let me walk through a quick example. Say I wanted to create puns for this Reddit post:
 
-1. [Relevant Word Identification](https://github.com/8ta4/pun/blob/1ddf70b8b355e5ed3f7f142fc67340238c461837/DONTREADME.md?plain=1#L189-L211): Based on cosine similarity between input text and each word in [the vocabulary](https://github.com/8ta4/pun/blob/1ddf70b8b355e5ed3f7f142fc67340238c461837/DONTREADME.md?plain=1#L37-L187), words like "pun", "phonetic", or "similarity" might pop up as relevant.
+1. [Relevant Word Identification](https://github.com/8ta4/pun/blob/e11d663b987880c94b3165e55d42bd1545fb178d/DONTREADME.md?plain=1#L197-L267): Based on cosine similarity between input text and each word in [the vocabulary](https://github.com/8ta4/pun/blob/e11d663b987880c94b3165e55d42bd1545fb178d/DONTREADME.md?plain=1#L45-L195), words like "pun", "phonetic", or "similarity" might pop up as relevant.
 
-2. [Phonetic Similarity Analysis](https://github.com/8ta4/pun/blob/1ddf70b8b355e5ed3f7f142fc67340238c461837/DONTREADME.md?plain=1#L213-L235): "pun" would match as phonetically similar to "fun" using Levenshtein distance between IPA representations.
+2. [Phonetic Similarity Analysis](https://github.com/8ta4/pun/blob/e11d663b987880c94b3165e55d42bd1545fb178d/DONTREADME.md?plain=1#L221-L267): "pun" would match as phonetically similar to "fun" using Levenshtein distance between IPA representations.
 
-3. [Substitution](https://github.com/8ta4/pun/blob/1ddf70b8b355e5ed3f7f142fc67340238c461837/DONTREADME.md?plain=1#L237-L261): The word "fun" is swapped out for "pun" within the phrase "make fun of", resulting in "make pun of".
+3. [Substitution](https://github.com/8ta4/pun/blob/e11d663b987880c94b3165e55d42bd1545fb178d/DONTREADME.md?plain=1#L269-L293): The word "fun" is swapped out for "pun" within the phrase "make fun of", resulting in "make pun of".
 
 Are there any major flaws I'm missing? I haven't started writing the production code yet. I'm looking for feedback before diving in.
