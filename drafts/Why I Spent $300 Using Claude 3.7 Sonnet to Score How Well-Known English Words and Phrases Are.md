@@ -1,4 +1,4 @@
-I needed a way to measure how familiar or well-known English words and phrases actually are. I was trying to nail down a score estimating the percentage of Americans aged 10+ who would know the most common meaning of each word or phrase.
+I needed a way to measure how well-known English words and phrases actually are. I was trying to nail down a score estimating the percentage of Americans aged 10+ who would know the most common meaning of each word or phrase.
 
 So, I threw a bunch of the top models from the Chatbot Arena Leaderboard at the problem. Claude 3.7 Sonnet consistently gave me the most believable scores. It was better than the others at telling the difference between everyday words and niche jargon.
 
