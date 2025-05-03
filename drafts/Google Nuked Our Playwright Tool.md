@@ -10,6 +10,6 @@ I said, "Because there's no place like Chrome."
 
 I managed to find a partial fix. I [took out the code that needed the CDP connection](https://github.com/8ta4/extension/blob/a5140b48494443a63189761f6cdfb0266ee2b27b/src/Extension.purs#L27-L67). Now the tool just [copies the extension files into the profile directory](https://github.com/8ta4/extension/blob/a5140b48494443a63189761f6cdfb0266ee2b27b/src/Extension.purs#L69-L86). This gets the extension installed, sort of. But the extension starts disabled. It is definitely not the ideal solution.
 
-Has anyone found a better way to programmatically manage or configure extensions?
+Has anyone found a better way to manage or configure extensions programmatically?
 
-I am open to any any suggestions or collaboration. Please let me know if you figured something out.
+I am open to any suggestions or collaboration. Please let me know if you figured something out.
