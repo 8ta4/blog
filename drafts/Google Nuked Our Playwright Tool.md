@@ -1,6 +1,6 @@
 We built [this command-line tool](https://github.com/8ta4/extension) to install and configure extensions automatically. The tool used Playwright and the Chrome DevTools Protocol (CDP) connection to do its job. It was handy for setting up new environments.
 
-Then a Chrome update killed that connection. It looks like Google [disabled connecting over CDP for the default Chrome data directory](https://developer.chrome.com/blog/remote-debugging-port).
+Then a Chrome update killed that connection. It looks like Google [disabled connecting over CDP for the default Chrome data directory](https://developer.chrome.com/blog/remote-debugging-port), which seems to be part of the same update that was messing with u/ppp258 in this thread the other day.
 
 I almost gave up on the tool.
 
