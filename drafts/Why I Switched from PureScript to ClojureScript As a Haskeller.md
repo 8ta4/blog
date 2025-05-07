@@ -4,7 +4,7 @@ Imagine a chain: PureScript calls JavaScript, which calls PureScript, which call
 
 I chose PureScript to avoid writing JavaScript, but then the FFI had me writing JavaScript anyway!
 
-If JavaScript wasn't in the picture, I'd enjoy PureScript. But if JavaScript wasn't in the picture, I'd just reach for Haskell.
+If JavaScript weren't in the picture, I'd enjoy PureScript. But if JavaScript weren't in the picture, I'd reach for Haskell.
 
 But this tool is designed to install and configure Chrome extensions programmatically. Playwright permeates the core logic. For this, the ease of interop in ClojureScript wins out for me.
 
