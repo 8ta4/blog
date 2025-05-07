@@ -8,7 +8,7 @@ If JavaScript wasn't in the picture, I'd enjoy PureScript. But if JavaScript was
 
 But this tool is designed to install and configure Chrome extensions programmatically. Playwright permeates the core logic. For this, the ease of interop in ClojureScript wins out for me.
 
-You can see the PureScript version here and the ongoing ClojureScript rewrite here though it's nowhere near feature parity yet.
+You can see [the PureScript version](https://github.com/8ta4/extension/tree/a5140b48494443a63189761f6cdfb0266ee2b27b) and [the ongoing ClojureScript rewrite](https://github.com/8ta4/extension/tree/adf06f1f090e264daa0f2242b301671a3acafca8) though it's nowhere near feature parity yet.
 
 What does your ideal interop experience look like?
 
