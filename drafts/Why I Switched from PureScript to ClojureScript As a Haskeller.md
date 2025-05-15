@@ -1,6 +1,6 @@
 Blame the Foreign Friction Interface (FFI).
 
-Imagine a chain: PureScript calls JavaScript, which calls PureScript, which calls JavaScript... Not only do these PureScript and JavaScript functions live in separate files, but the JavaScript function's implementation and its FFI type signature also live in separate files! There's a special place in callback hell for PureScript.
+Imagine a chain: PureScript calls JavaScript, which calls PureScript, which calls JavaScript... Not only do these PureScript and JavaScript functions live in separate files, but the JavaScript functions' implementations and their FFI type signatures also live in separate files! There's a special place in callback hell for PureScript.
 
 I chose PureScript to avoid writing JavaScript, but then the FFI had me writing JavaScript anyway!
 
