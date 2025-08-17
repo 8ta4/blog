@@ -1,6 +1,6 @@
 I need help solving a problem that's causing burnout.
 
-My manual cold outreach process gets a >10% reply rate, but it's so time-consuming I burn out before 100 sends. I have blueprinted a solution that requires two capabilities.
+My manual cold outreach process gets a >10% reply rate, but it's so time-consuming that I burn out before 100 sends. I have blueprinted a solution that requires two capabilities.
 
 First, a scraper. The approach is a CLI tool communicating with a companion browser extension via native messaging. This makes requests appear as real human activity.
 
