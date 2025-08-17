@@ -8,9 +8,9 @@ Second, a multi-stage pipeline to automate my judgment calls. It works in three 
 
 1. An agent generates multiple drafts. A separate agent, acting as the prospect and blind to my internal goals, evaluates them to find the most persuasive one. This process loops until the output can't be improved.
 
-1. The winning draft is passed to another agent for a single pass to check facts and fix formatting, while preserving the core creative substance.
+1. The winning draft is passed to another agent for a single pass to check facts and fix formatting, while preserving the substance.
 
-1. A final agent reviews the polished draft and makes a strategic call, outputting one of three decisions: `GO`, `DEFER`, or `DISQUALIFY`.
+1. A final agent reviews the polished draft and makes a strategic call, outputting one of `go`, `defer`, or `disqualify`.
 
 I know this blueprint is a Rube Goldberg machine, and I've fallen in love with a technical problem.
 
