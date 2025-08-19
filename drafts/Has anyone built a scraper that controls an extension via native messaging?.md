@@ -22,7 +22,7 @@ Now, I can already hear the objections:
 
 And for most use cases, you'd be right.
 
-But here's the context. The goal is to feed webpage context into an LLM pipeline to automate personalized outreach. That requires programmatic access, which is why I've opted for a CLI. This also explains the other choices: it's a low-frequency task, so the behavioral fingerprint is less of a risk; the extension's scope is just returning the title and `innerText` for the LLM, limiting the security surface; and I already work in VMs with separate browser instances, so it doesn't tie up my machine.
+But here's the context. The goal is to feed webpage context into an LLM pipeline to automate personalized outreach. That requires programmatic access, which is why I've opted for a CLI. It's a low-frequency task. The extension's scope is just returning the title and `innerText` for the LLM. I already work in VMs with separate browser instances.
 
 With a scope this narrow, you might not even call it "scraping," and maybe this is the wrong sub.
 
