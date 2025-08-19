@@ -10,7 +10,7 @@ They communicate using Chrome's native messaging.
 
 "Why not just use Playwright Stealth?" "Why not CDP?" "This will never scale!" And for 99% of scraping tasks, you'd be 100% right.
 
-I've detailed my thought process and the limitations in this write-up: https://github.com/8ta4/see/blob/d0ee7bfb693bf520d565bd38f3f68fff9abbc99b/DONTREADME.md
+I've detailed my thought process and the limitations in this write-up: https://github.com/8ta4/see/blob/e1f9b88d171e56cf86b8be44ccd82084b8abb58e/DONTREADME.md
 
 I'm posting to find out if a tool with this architecture already exists. The closest I've found is `single-file-cli`. But it relies on CDP and gets flagged by Cloudflare. I'd much rather use an existing open-source project than reinvent this.
 
