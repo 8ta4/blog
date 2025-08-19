@@ -20,9 +20,9 @@ Now, I can already hear the objections:
 
 - "The behavioral fingerprint will be your giveaway!"
 
-And for most use cases, you'd be 100% right.
+And for most use cases, you'd be right.
 
-But here's the context for the trade-offs I'm willing to make. This is for low-frequency, low-volume tasks. The bet is that the natural browser fingerprint is enough to fly under the radar when requests are sparse. The extension's job is just returning the page title and innerText, not running arbitrary logic. I also work within VMs and use separate Chrome instances for different tasks, so my primary work isn't tied up.
+But here's the context. The goal is to feed webpage context into an LLM pipeline to automate personalized outreach. That requires programmatic access, which is why I've opted for a CLI. This also explains the other choices: it's a low-frequency task, so the behavioral fingerprint is less of a risk; the extension's scope is just returning the title and `innerText` for the LLM, limiting the security surface; and I already work in VMs with separate browser instances, so it doesn't tie up my machine.
 
 With a scope this narrow, you might not even call it "scraping," and maybe this is the wrong sub.
 
