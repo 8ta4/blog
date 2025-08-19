@@ -20,7 +20,11 @@ Now, I can already hear the objections:
 
 - "The behavioral fingerprint will be your giveaway!"
 
-And for the vast majority of scraping tasks, you'd be right.
+And for most use cases, you'd be 100% right.
+
+But here's the context for the trade-offs I'm willing to make. This is for low-frequency, low-volume tasks. The bet is that the natural browser fingerprint is enough to fly under the radar when requests are sparse. The extension's job is just returning the page title and innerText, not running arbitrary logic. I also work within VMs and use separate Chrome instances for different tasks, so my primary work isn't tied up.
+
+With a scope this narrow, you might not even call it "scraping," and maybe this is the wrong sub.
 
 I've detailed my thought process and the limitations in this write-up: https://github.com/8ta4/see/blob/e1f9b88d171e56cf86b8be44ccd82084b8abb58e/DONTREADME.md
 
