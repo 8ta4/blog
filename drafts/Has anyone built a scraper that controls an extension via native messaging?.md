@@ -10,7 +10,7 @@ They communicate using Chrome's native messaging.
 
 Now, I can already hear the objections:
 
-- "Why not just use Playwright Stealth?"
+- "Why not just use Playwright?"
 
 - "Why not CDP?"
 
