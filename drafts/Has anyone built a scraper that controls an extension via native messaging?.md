@@ -28,6 +28,6 @@ With a scope this narrow, you might not even call it "scraping," and maybe this 
 
 I've detailed my thought process and the limitations in [this write-up](https://github.com/8ta4/see/blob/f774b36f2b3404c8e111fdf3559d8cb4d3d01d13/DONTREADME.md).
 
-I'm posting to find out if a tool with this architecture already exists. The closest I've found is `single-file-cli`. But it relies on CDP and gets flagged by Cloudflare. I'd much rather use an existing open-source project than reinvent this.
+I'm posting to find out if a tool with this architecture already exists. The closest I've found is [`single-file-cli`](https://github.com/gildas-lormeau/single-file-cli). But it relies on CDP and gets flagged by Cloudflare. I'd much rather use an existing open-source project than reinvent this.
 
 If you know of one, may I have your extension, please?
