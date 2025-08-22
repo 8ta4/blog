@@ -26,7 +26,7 @@ But here's the context. The goal is to feed webpage context into the LLM pipelin
 
 With a scope this narrow, you might not even call it "scraping," and maybe this is the wrong sub.
 
-I've detailed my thought process and the limitations in [this write-up](https://github.com/8ta4/see/blob/97a4a85c2b788ae7f0e971ccec5abb70fbe7ad36/DONTREADME.md).
+I've detailed my thought process and the limitations in [this write-up](https://github.com/8ta4/see/blob/ab62aef8a880f3b823e2a45833613922e40553fd/DONTREADME.md).
 
 I'm posting to find out if a tool with this architecture already exists. The closest I've found is [`single-file-cli`](https://github.com/gildas-lormeau/single-file-cli). But it relies on CDP and gets flagged by Cloudflare. I'd much rather use an existing open-source project than reinvent this.
 
