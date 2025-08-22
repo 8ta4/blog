@@ -1,16 +1,16 @@
 I'm exploring a scraping idea that sacrifices scalability to leverage my day-to-day browser's fingerprint.
 
-My working hypothesis for this niche is to skip automation frameworks entirely. The architecture connects two parts:
+My hypothesis is to skip automation frameworks. The architecture connects two parts:
 
 - A CLI tool on my local machine.
 
-- A companion browser extension running in my day-to-day browser.
+- A companion Chrome extension running in my day-to-day browser.
 
 They communicate using Chrome's native messaging.
 
 Now, I can already hear the objections:
 
-- "Why not just use Playwright?"
+- "Why not use Playwright?"
 
 - "Why not CDP?"
 
