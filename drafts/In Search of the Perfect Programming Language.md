@@ -9,6 +9,7 @@ Language
 1. Impurity: Lets me mix pure and impure code.
 1. S-Expressions: Enables structural editing.
 1. Immutable Data Structures
+1. Type Classes
 1. Forward Reference: Lets me use constants and functions before they are defined.
 1. Automatic Promise Handling: If a function returns a promise, the runtime system automatically treats it as a dataflow variable and schedules a continuation, effectively awaiting its resolution, without any special syntax.
 1. Tail Recursion: Optimizes both self-recursive and mutually recursive functions seamlessly, without any special syntax.
