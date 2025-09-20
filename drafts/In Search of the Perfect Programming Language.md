@@ -18,7 +18,6 @@ Language
 1. Clear Error Messages: Lets me know what went wrong and how to fix it.
 1. Gradual Typing: If the system stumbles upon code where it can't infer the type, it doesn't demand annotations.
 1. Contract System
-1. Flexible Evaluation Strategy: Supports both strict and lazy evaluation.
 
 IDE
 
