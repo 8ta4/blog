@@ -26,7 +26,7 @@ IDE
 1. Code Formatting
     - Indentation
     - Sorting: Automatically alphabetizes imports and dictionary keys.
-    - Logical Code Ordering: Automatically organizes code starting with high-level definitions.
+    - Call-Graph Ordering: Automatically sorts definitions by traversing the call graph depth-first from the entry point.
 1. Auto Complete
     - Type-Aware: Offers suggestions that are type-compatible.
     - Automatic Import: Imports the things I select automatically, if they are not already imported.
