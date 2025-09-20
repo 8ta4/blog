@@ -39,7 +39,6 @@ IDE
     - Unused Entity Detection: Finds unused definitions, imports, etc.
     - Consistency: Ensures consistent aliasing, naming conventions, etc.
     - Idiomatic Code Suggestions
-1. Generative Testing: Identifies pure function composition and conducts generative testing automatically.
 1. Structural Editing: Manipulates S-expressions.
 1. REPL
     - Contextual Code Evaluation: Supports evaluating the current form where the cursor is located.
