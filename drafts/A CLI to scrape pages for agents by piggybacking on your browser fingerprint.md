@@ -1,4 +1,4 @@
-I keep hitting a wall with bot detection trying to get live web data for agents.
+I keep hitting a wall with bot detection when trying to get live web data for agents.
 
 So I built [a CLI](https://github.com/8ta4/see) that tells a companion extension to fetch a page. The whole idea was to control my day-to-day browser to piggyback on its static fingerprint.
 
