@@ -1,6 +1,6 @@
 I keep hitting a wall with bot detection trying to get live web data for a local agent.
 
-So I built a CLI that tells a companion extension to fetch a page. The whole idea was to control my day-to-day browser to piggyback on its static fingerprint.
+So I built [a CLI](https://github.com/8ta4/see) that tells a companion extension to fetch a page. The whole idea was to control my day-to-day browser to piggyback on its static fingerprint.
 
 This isn't for serious scraping. Forget residential proxies or Clay. I designed this for developers who are just scraping by.
 
