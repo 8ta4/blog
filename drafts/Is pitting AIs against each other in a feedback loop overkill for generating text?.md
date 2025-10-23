@@ -12,6 +12,8 @@ My core idea is a refinement loop where AIs compete to improve a piece of text. 
 
 This process repeats until the baseline draft wins a round, which signals that the rewritten version is no longer an improvement.
 
+I've documented my thinking on GitHub [here](https://github.com/8ta4/spam).
+
 The success hinges on the subjective call of the AI that picks the winner. Beauty is in the AI of the beholder.
 
 There are probably practical reasons why this isn't a more common approach.
