@@ -1,21 +1,19 @@
-I'm trying to design a system for text generation.
+I'm sketching out a system for text generation and wanted to get your take on the architecture.
 
-My idea is a refinement loop where AIs compete to improve a piece of text. Here's the process:
+The idea is an iterative refinement loop. You have two AIs competing to improve a draft. The process goes like this:
 
-1. The process starts with a baseline draft.
+1. You start with a baseline text.
 
-1. One AI rewrites that draft to improve it.
+1. One AI takes a pass at rewriting it.
 
-1. A different AI compares the new version to the original and picks the winner.
+1. Then, a completely different AI compares the new version to the original and just picks the better one.
 
-1. The winning draft becomes the new baseline for the next round.
+1. Whichever version wins becomes the new baseline for the next round.
 
-This process repeats until the baseline draft wins a round, which signals that the rewritten version is no longer an improvement.
+You just keep running that loop until the baseline draft wins, which means the latest rewrite wasn't an improvement.
 
-I've documented my thinking on GitHub [here](https://github.com/8ta4/spam).
+I dumped my thoughts into a repo [here](https://github.com/8ta4/spam).
 
-The success hinges on the subjective call of the AI that picks the winner. Beauty is in the AI of the beholder.
+The effectiveness hinges on the subjective call of the AI that picks the winner. Beauty is in the AI of the beholder.
 
-There are probably practical reasons why this isn't a more common approach.
-
-What are the superior alternatives to this approach?
+There are probably practical reasons why this isn't a more common setup. What are the superior alternatives I'm not thinking of?
