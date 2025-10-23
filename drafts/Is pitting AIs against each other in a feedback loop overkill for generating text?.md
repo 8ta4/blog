@@ -16,4 +16,4 @@ The success hinges on the subjective call of the AI that picks the winner. Beaut
 
 There are probably practical reasons why this isn't a more common approach.
 
-What are the superior alternatives to this approach that I'm overlooking?
+What are the superior alternatives to this approach?
