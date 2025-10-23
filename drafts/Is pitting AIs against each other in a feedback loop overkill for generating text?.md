@@ -1,6 +1,6 @@
 I'm trying to design a system for text generation.
 
-My core idea is a refinement loop where AIs compete to improve a piece of text. Here's the process:
+My idea is a refinement loop where AIs compete to improve a piece of text. Here's the process:
 
 1. The process starts with a baseline draft.
 
