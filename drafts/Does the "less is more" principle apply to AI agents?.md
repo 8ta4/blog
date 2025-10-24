@@ -14,4 +14,4 @@ I feel like this will make the whole system more predictable.
 
 But then I can't shake the feeling that this is a shortsighted move. I worry I'm building something that's going to be obsolete the moment a smarter model drops.
 
-With how fast everything is moving, is this constrained approach to agent design a form of premature optimization?
+With how fast everything is moving, is this constrained approach a form of premature optimization?
