@@ -1,4 +1,4 @@
-So I'm sketching out an idea for a project. I'm wrestling with this idea: whether "less is more" applies to AI agents.
+I'm sketching out an idea for a project. I'm wrestling with this idea: whether "less is more" applies to AI agents.
 
 You see all these demos with agents that can browse the web, use tools, call functions, and all that. But my gut reaction is that it's all function and games until an agent decides to call some tool it doesn't need, poisons its context with irrelevant info, and makes the final output worse.
 
