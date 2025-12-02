@@ -1,6 +1,6 @@
 The part of building a business I dread most is sales outreach. It's a repetitive grind that can take the wind out of your sales.
 
-So I built a CLI tool to automate it.
+So I built [a CLI tool](https://github.com/8ta4/spam) to automate it.
 
 You point it at a Google Sheet of contacts, run one command, and get personalized drafts written back into the sheet.
 
