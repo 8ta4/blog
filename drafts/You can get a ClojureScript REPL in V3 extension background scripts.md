@@ -14,4 +14,4 @@ The solution is [one line](https://github.com/8ta4/see/blob/81137f1139d5451cc3a2
 
 I put a working example up in [my new project repo](https://github.com/8ta4/see).
 
-Hopefully this helps get a few more people building extensions with ClojureScript. And who knows, maybe this is finally the Year of Firefox. That would be the REPL effect.
+Hopefully, this helps get a few more people building extensions with ClojureScript. And who knows, maybe this is finally the Year of Firefox. That would be the REPL effect.
