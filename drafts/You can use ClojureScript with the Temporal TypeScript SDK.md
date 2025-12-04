@@ -1,8 +1,8 @@
-I wanted to use Temporal with Clojure.
+I wanted to use [Temporal](https://github.com/temporalio/temporal) with Clojure.
 
-The community Clojure SDK was the obvious choice. But a requirement forced me to use the `google-spreadsheet` Node.js library. Thinking outside the box, I looked into using GraalVM to run the Clojure SDK and call the Node library from there, but Temporal doesn't officially support GraalVM.
+[The community Clojure SDK](https://github.com/manetu/temporal-clojure-sdk) was the obvious choice. But a requirement forced me to use the [`google-spreadsheet`](https://github.com/theoephraim/node-google-spreadsheet) Node.js library. Thinking outside the box, I looked into using GraalVM to run the Clojure SDK and call the Node library from there, but [Temporal doesn't officially support GraalVM](https://community.temporal.io/t/support-for-graalvm/9159/5#:~:text=I%20am%20afraid%20we%20don%E2%80%99t%20have%20official%20support%20for%20GraalVM%20at%20the%20moment.).
 
-This left one option: ClojureScript and the official TypeScript SDK.
+This left one option: ClojureScript and [the official TypeScript SDK](https://docs.temporal.io/develop/typescript).
 
 There appeared to be no prior art for this combination. Using a development build from shadow-cljs resulted in critical dependency warnings, making the workflows incompatible with Temporal's sandbox.
 
@@ -26,6 +26,6 @@ I made this setup workable with a couple of strategies:
 
 - I used `promesa` to make the asynchronous orchestration of activities cleaner.
 
-The code for this setup is public.
+[The code](https://github.com/8ta4/spam) for this setup is public.
 
 I hope this saves someone else the headache of figuring this out from scratch.
