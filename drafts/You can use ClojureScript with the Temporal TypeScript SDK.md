@@ -26,6 +26,6 @@ I made this setup workable with a couple of strategies:
 
 - I used `promesa` to make the asynchronous orchestration of activities cleaner.
 
-[The code](https://github.com/8ta4/spam) for this setup is public.
+[The code](https://github.com/8ta4/spam/tree/8319eb00fb03796ea88683492454c45af5dd2aec) for this setup is public.
 
 I hope this saves someone else the headache of figuring this out from scratch.
