@@ -24,7 +24,7 @@ I made this setup workable with a couple of strategies:
 
 - I kept workflows minimal and moved logic into activities. Since activities are not sandboxed, I could use a REPL-driven process for them.
 
-- I used `promesa` to make the asynchronous orchestration of activities cleaner.
+- I used [`promesa`](https://github.com/funcool/promesa) to make the asynchronous orchestration of activities cleaner.
 
 [The code](https://github.com/8ta4/spam/tree/8319eb00fb03796ea88683492454c45af5dd2aec) for this setup is public.
 
