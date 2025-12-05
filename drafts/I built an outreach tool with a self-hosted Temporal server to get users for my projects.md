@@ -4,4 +4,6 @@ Relying on SaaS for this felt like I'd be doing myself a disservice, and that wo
 
 A local Temporal server orchestrates the message generation workflow. The [`config.cljs`](https://github.com/8ta4/spam/blob/8319eb00fb03796ea88683492454c45af5dd2aec/src/config.cljs) file lets me define the prompts as code. The workflow reads from and writes to a Google Sheet. It's a compromise.
 
-I'm curious if anyone else is using workflow engines like Temporal in a self-hosted capacity. What has your experience been?
+I'm sure many of us have been there: you have a specific need, you check the market, and nothing quite fits the way you think.
+
+What use case has you so frustrated with existing SaaS options that you've decided to build your self-hosted solution?
