@@ -10,7 +10,7 @@ Then I tried `shadow-cljs release`.
 
 It worked.
 
-Development builds from shadow-cljs inject `fs`, `path`, and `vm` modules, but the release build omits them. These modules violate Temporal's sandbox rules. The experience taught me a lesson: it's all about thinking inside the sandbox.
+Development builds from shadow-cljs inject `fs`, `path`, and `vm`, but the release build omits them. These modules violate Temporal's sandbox rules. The experience taught me a lesson: it's all about thinking inside the sandbox.
 
 This solution comes with some costs:
 
