@@ -8,7 +8,7 @@ This is likely for a few reasons:
 
 An open-source sales tool is probably a doomed idea.
 
-So I built a CLI that generates outreach messages called `spam`. It runs a tournament between language models to find the best draft.
+So I built a CLI that generates outreach messages called [`spam`](https://github.com/8ta4/spam). It runs a tournament between language models to find the best draft.
 
 I'm so sure it's dead on arrival that I haven't bothered adding a `LICENSE` file.
 
