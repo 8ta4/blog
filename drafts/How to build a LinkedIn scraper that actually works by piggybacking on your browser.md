@@ -1,4 +1,4 @@
-u/itsalidoe's post laid out a checklist for building scrapers.
+u/itsalidoe laid out [a checklist](https://old.reddit.com/r/SaaS/comments/1mibl3u/how_to_build_a_linkedin_scraper_that_actually) for building scrapers.
 
 Here's the setup I've been using: a CLI that controls my daily browser through a companion extension. Let's see how it stacks up against the original rules.
 
