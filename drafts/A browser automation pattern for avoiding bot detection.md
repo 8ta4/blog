@@ -4,7 +4,7 @@ Browser automation feels like an arms race. A framework like Playwright can leav
 
 But this approach has its downsides.
 
-- It relies on a companion extension, which adds setup friction. I yak-shaved a tool to automate installing extensions, so this is a solvable problem.
+- It relies on a companion extension, which adds setup friction. I yak-shaved [a tool](https://github.com/8ta4/extension) to automate installing extensions, so this is a solvable problem.
 
 - It's not built to run at a massive scale. You could spin up a bunch of browsers, but that's not a feature out of the box.
 
