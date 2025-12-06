@@ -26,4 +26,4 @@ The extension uses the same user agent and headers I use for my daily browsing.
 
 This approach sidesteps parsing the DOM. The extension grabs `innerText`. Then, an LLM extracts the data. Feeding an LLM the full DOM burns tokens. You can't see the text for the trees.
 
-The code for the CLI using this approach is on GitHub. Let me know what you think in the comments.
+[The code](https://github.com/8ta4/see) for the CLI using this approach is on GitHub. Let me know what you think in the comments.

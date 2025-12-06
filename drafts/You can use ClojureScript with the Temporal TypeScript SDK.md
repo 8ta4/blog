@@ -26,14 +26,16 @@ I made this setup workable with a couple of strategies:
 
 - I used [`promesa`](https://github.com/funcool/promesa) to make the asynchronous orchestration of activities cleaner.
 
-[The code](https://github.com/8ta4/spam/tree/8319eb00fb03796ea88683492454c45af5dd2aec) for this setup is public.
+[The code](https://github.com/8ta4/spam) for this setup is public.
 
 I hope this saves someone else the headache of figuring this out from scratch.
 
 You might wonder why I went through this trouble. My use case is orchestrating LLM calls. The Gemini API errors out frequently. I chose Temporal for its built-in support for:
 
 - Automatic retries
+
 - Observability through its web UI
+
 - The ability to replay an execution history
 
 Given these requirements, what other tools or libraries would you have reached for?
