@@ -1,3 +1,5 @@
+The original was removed for not being open source. I've since added the license. The original post is unedited below.
+
 There's a stark contrast. Developer tools thrive in open source. Sales tools are almost exclusively closed-source SaaS.
 
 This is likely for a few reasons:
