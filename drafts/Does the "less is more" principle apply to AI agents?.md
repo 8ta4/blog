@@ -2,7 +2,7 @@ I'm sketching out an idea for a project. I'm wrestling with this idea: whether "
 
 You see all these demos with agents that can browse the web, use tools, call functions, and all that. But my gut reaction is that it's all function and games until an agent decides to call some tool it doesn't need, poisons its context with irrelevant info, and makes the final output worse.
 
-This is making me lean into constraining the agents for my project. I'm documenting my thinking [here](https://github.com/8ta4/spam/blob/68dec24c6096a4c2b4070131827e10f65f6ed09e/DONTREADME.md):
+This is making me lean into constraining the agents for my project. I'm documenting my thinking [here](https://github.com/8ta4/spam/blob/8319eb00fb03796ea88683492454c45af5dd2aec/DONTREADME.md):
 
 - They don't search the web.
 
