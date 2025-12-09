@@ -1,6 +1,6 @@
-u/sirlifehacker posted [a similar title](https://old.reddit.com/r/automation/comments/1l5tipu/i_just_built_my_dream_b2b_sales_team_with_no/). The top comment from u/loztb nailed the skepticism:
+u/sirlifehacker posted [a similar title](https://old.reddit.com/r/automation/comments/1l5tipu/i_just_built_my_dream_b2b_sales_team_with_no). The top comment from u/loztb nailed the skepticism:
 
-> [A ChatGPT-written salespitch for tech that doesn't exist, and the suckers are already begging for DM's.](https://old.reddit.com/r/automation/comments/1l5tipu/i_just_built_my_dream_b2b_sales_team_with_no/mwjulcl/)
+> [A ChatGPT-written salespitch for tech that doesn't exist, and the suckers are already begging for DM's.](https://old.reddit.com/r/automation/comments/1l5tipu/i_just_built_my_dream_b2b_sales_team_with_no/mwjulcl)
 
 You do not need to DM me for the code because it's on GitHub.
 
