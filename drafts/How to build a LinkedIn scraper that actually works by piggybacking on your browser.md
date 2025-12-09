@@ -12,7 +12,7 @@ Since it's a CLI, I can add sleep calls between scrapes to control the pace. The
 
 > act human.
 
-This approach avoids faking clicks. Bot detectors can check the `event.isTrusted` property, which is `false` for synthetic clicks.
+This approach avoids faking clicks. Bot detectors can check the `isTrusted` property, which is `false` for synthetic clicks.
 
 > rotate proxies often.
 
