@@ -1,6 +1,6 @@
 I've been working on [extension](https://github.com/8ta4/extension), a command-line tool to make your browser extension setup as scriptable as your dotfiles. It lets you install and configure extensions for Chrome, Edge, and Arc from the terminal.
 
-A Chrome update broke it. The update killed the Chrome DevTools Protocol connection.
+[A Chrome update](https://developer.chrome.com/blog/remote-debugging-port) broke it. The update killed the Chrome DevTools Protocol connection.
 
 My first thought was to change the debugging port. I figured any port in a storm would do. But that did nothing.
 
