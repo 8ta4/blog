@@ -1,4 +1,4 @@
-I spend a lot of time in the refinement phase of my writing. I'm frustrated by the inefficiency of writing assistants, which force disruptions like copy-pasting, using a mouse, or shifting focus between windows.
+I'm frustrated by the inefficiency of writing assistants, which force disruptions like copy-pasting, using a mouse, or shifting focus between windows.
 
 I get my initial drafts using my transcription system. The hard work starts next: going through every sentence until I've made it as good as I reasonably can. You might wonder why this post is bad. You didn't see the first draft.
 
