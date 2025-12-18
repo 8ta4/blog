@@ -1,8 +1,8 @@
 I spend a lot of time in the refinement phase of my writing. I'm frustrated by the inefficiency of writing assistants, which force disruptions like copy-pasting, using a mouse, or shifting focus between windows.
 
-I get my initial drafts using my [transcription system](). The hard work starts next: going through every single sentence until I'm confident I've made it as good as I reasonably can. You might wonder why this post is bad. You didn't see the first draft.
+I get my initial drafts using my transcription system. The hard work starts next: going through every single sentence until I'm confident I've made it as good as I reasonably can. You might wonder why this post is bad. You didn't see the first draft.
 
-Voice input becomes inefficient for precise edits. Any web-based solution is out because it pulls me out of Neovim. Plugins like [`avante.nvim`]() are focused on code editing. [`dante.nvim`]() seems to offer only a single rephrasing option.
+Voice input becomes inefficient for precise edits. Any web-based solution is out because it pulls me out of Neovim. Plugins like [`avante.nvim`](https://github.com/yetone/avante.nvim) are focused on code editing. [`dante.nvim`](https://github.com/S1M0N38/dante.nvim) seems to offer only a single rephrasing option.
 
 I've come up with my ideal requirements:
 
