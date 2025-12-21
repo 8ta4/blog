@@ -14,10 +14,10 @@ Here is the breakdown.
 
 **Phase 1: Building My Sales Research Team**
 
-First, I needed context. I built [a scraping tool](https://github.com/8ta4/see) in Haskell that communicates with a ClojureScript browser extension. It uses my browser session to retrieve page content, which makes it more reliable than anonymous bots.
+First, I needed context. I built a scraping tool (available on GitHub at 8ta4/see) in Haskell that communicates with a ClojureScript browser extension. It uses my browser session to retrieve page content, which makes it more reliable than anonymous bots.
 
 **Phase 2: CRM Integration & Outreach Generation**
 
-Leads go into my CRM, which is Google Sheets, because who needs SalesFarce? [My outreach tool](https://github.com/8ta4/spam) feeds unstructured data to the LLM. From there, a Temporal server runs a tournament between multiple agents. They refine the draft until the quality plateaus, and the result is written back to the sheet.
+Leads go into my CRM, which is Google Sheets, because who needs SalesFarce? My outreach tool (available on GitHub at 8ta4/spam) feeds unstructured data to the LLM. From there, a Temporal server runs a tournament between multiple agents. They refine the draft until the quality plateaus, and the result is written back to the sheet.
 
 I'm happy to answer any questions in the comments.
