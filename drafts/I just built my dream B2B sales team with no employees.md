@@ -1,8 +1,8 @@
 u/sirlifehacker posted a similar title. The top comment from u/loztb nailed the skepticism:
 
-> A ChatGPT-written salespitch for tech that doesn't exist, and the suckers are already begging for DM's.
+> A ChatGPT-written salespitch for tech that doesn't exist, and the suckers are already begging...
 
-You do not need to DM me for the code because it's on GitHub.
+You do not need to message me for the code because it's on GitHub.
 
 I hate writing text so much that I built a system to automate it. Naturally, I'm too lazy to write a Reddit post, so I copy-pasted u/sirlifehacker's format to present it.
 
