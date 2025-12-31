@@ -11,4 +11,3 @@ u/AngledLuffa was worried about the tool trying to replace function words like "
 I used Claude 3.7 Sonnet to calculate recognizability scores for the vocabulary ahead of time based on how familiar each phrase is to a general audience. You might wonder why I used such an old model. It was the latest model at the time. I put these pre-computed scores in the [pun-data](https://github.com/8ta4/pun-data) repository. They might be useful for other NLP tasks.
 
 I built this with Clojure because I find it easier to handle data processing there than in Python. I'm calling Python libraries like Epitran through [libpython-clj](https://github.com/clj-python/libpython-clj). Since Clojure's JVM startup is slow, I used Haskell for the CLI to make the tool feel responsive.
-
