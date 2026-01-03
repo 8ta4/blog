@@ -1,6 +1,6 @@
 I asked on r/datasets about frequency-based datasets for small talk questions but didn't get anywhere. I'm still looking for a resource like this, though I've refined what I'm after.
 
-I want this data because I want to treat social skills training like test prep. I want to practice with the questions most likely to appear in a conversation.
+I want this data because I treat social skills training like test prep. I want to practice with the questions most likely to appear in a conversation.
 
 I have a few requirements for the data:
 
