@@ -1,6 +1,6 @@
 I've hit a wall with Neovim's sentence text object.
 
-I checked out `vim-textobj-sentence`. While it's great for stuff like `Mr.` and `Dr.`, it shares the same flaws:
+I checked out [`vim-textobj-sentence`](https://github.com/preservim/vim-textobj-sentence). While it's great for stuff like `Mr.` and `Dr.`, it shares the same flaws:
 
 - When I'm trying to jump between sentences with `(` or `)`, it keeps stopping at empty lines.
 
