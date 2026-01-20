@@ -1,6 +1,6 @@
 I've hit a wall with Neovim's sentence text object.
 
-I checked out [`vim-textobj-sentence`](https://github.com/preservim/vim-textobj-sentence). While it's great for stuff like `Mr.` and `Dr.`, it shares the same flaws:
+I checked out [`vim-textobj-sentence`](https://github.com/preservim/vim-textobj-sentence). While it's great for stuff like `Mr.` and `Dr.`, it shares the same flaws as the defaults::
 
 - When I'm trying to jump between sentences with `(` or `)`, it keeps stopping at empty lines.
 
@@ -12,7 +12,7 @@ I checked out [`vim-textobj-sentence`](https://github.com/preservim/vim-textobj-
 
 So, I wanted to ask if a plugin exists that works like the following specification.
 
-First off, it'd have to treat any line with just whitespace on it as a "gap." Basically:
+First off, it'd have to treat any line with just whitespace as a gap:
 
 - Jumping with `(` and `)` should skip over those gaps.
 
