@@ -28,7 +28,9 @@ And it needs a Lua API. I'm thinking of a function, something like `get({opts})`
 
 - If `offset` is `0`, it'd check the current spot. If the cursor's in a gap, it'd return `nil`.
 
-- If `offset` is something else (like `1` or `-1`), it'd find the next or previous sentence, only returning `nil` if it goes off the edge of the file.
+- If `offset` is `1`, it'd find the next sentence, only returning `nil` if it goes off the edge of the file.
+
+- If `offset` is `-1`, it'd find the previous sentence, only returning `nil` if it goes off the edge of the file.
 
 The `opts` table for this function would look something like this:
 
