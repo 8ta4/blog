@@ -1,4 +1,4 @@
-I've hit a wall with Neovim's sentence text object.
+I've hit a wall with Neovim's sentence text objects.
 
 I checked out [`vim-textobj-sentence`](https://github.com/preservim/vim-textobj-sentence). While it's great for stuff like `Mr.` and `Dr.`, it shares the same flaws as the defaults:
 
@@ -12,7 +12,7 @@ I checked out [`vim-textobj-sentence`](https://github.com/preservim/vim-textobj-
 
 So, I wanted to ask if a plugin exists that meets the following requirements.
 
-First off, it'd have to treat any line with just whitespace as a gap:
+First, it needs to treat all blank lines as gaps:
 
 - Jumping with `(` and `)` should skip over those gaps.
 
@@ -28,9 +28,9 @@ And it needs a Lua API. I'm thinking of a function, something like `get({opts})`
 
 - If `offset` is `0`, it'd check the current spot. If the cursor's in a gap, it'd return `nil`.
 
-- If `offset` is `1`, it'd find the next sentence, only returning `nil` if it goes off the edge of the file.
+- If `offset` is `1`, it'd find the next sentence, only returning `nil` if it goes off the start of the buffer.
 
-- If `offset` is `-1`, it'd find the previous sentence, only returning `nil` if it goes off the edge of the file.
+- If `offset` is `-1`, it'd find the previous sentence, only returning `nil` if it goes off end of the buffer.
 
 The `opts` table for this function would look something like this:
 
