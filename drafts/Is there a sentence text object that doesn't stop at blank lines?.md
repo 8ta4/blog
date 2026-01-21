@@ -10,7 +10,7 @@ I checked out [`vim-textobj-sentence`](https://github.com/preservim/vim-textobj-
 
 - There's no clean Lua function to get the sentence boundaries.
 
-So, I wanted to ask if a plugin exists that works like the following specification.
+So, I wanted to ask if a plugin exists that meets the following requirements.
 
 First off, it'd have to treat any line with just whitespace as a gap:
 
