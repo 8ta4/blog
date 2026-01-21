@@ -20,7 +20,7 @@ First, it needs to treat all blank lines as gaps:
 
 Also, the sentence detection needs to be smarter:
 
-- It shouldn't get confused by numeric list markers like `1. ` or `2. `.
+- It shouldn't get confused by numbered list markers like `1. ` or `2. `.
 
 - It should know that common abbreviations like `Mr.`, `Dr.`, `Mrs.`, and `Ms.` aren't the end of a sentence.
 
