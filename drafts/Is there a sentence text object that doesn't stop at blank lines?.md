@@ -26,11 +26,11 @@ Also, the sentence detection needs to be smarter:
 
 And it needs a Lua API. I'm thinking of a function, something like `get({opts})`, that returns the start and end coordinates of a sentence or `nil`. The behavior would depend on the offset:
 
-- If `offset` is `0`, it'd check the current spot. If the cursor's in a gap, it'd return `nil`.
+- If `offset` is `0`, it'd find the current sentence, only returning `nil` if the cursor's in a gap.
 
-- If `offset` is `1`, it'd find the next sentence, only returning `nil` if it goes off the start of the buffer.
+- If `offset` is `1`, it'd find the next sentence, only returning `nil` if it goes off the end of the buffer.
 
-- If `offset` is `-1`, it'd find the previous sentence, only returning `nil` if it goes off end of the buffer.
+- If `offset` is `-1`, it'd find the previous sentence, only returning `nil` if it goes off the start of the buffer.
 
 The `opts` table for this function would look something like this:
 
