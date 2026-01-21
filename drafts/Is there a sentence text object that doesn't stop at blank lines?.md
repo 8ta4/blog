@@ -40,6 +40,6 @@ The `opts` table for this function would look something like this:
 
 - `offset` (integer): `0` for the current sentence, `1` for the next, `-1` for the previous, etc. Defaults to `0`.
 
-So, does anything like this exist out there?
+So, does anything like this exist?
 
 If not, it looks like I've got a project to work on. Thanks for any pointers.
