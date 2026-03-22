@@ -12,7 +12,7 @@ A precomputed ranking of likely conversational sentences seemed like it could fi
 
 I couldn't find anything like that. So I built it myself.
 
-This wasn't a matter of sampling a bunch of outputs and keeping the good ones. Instead, it was closer to an exhaustive search over one-sentence conversational completions above a likelihood threshold. If a sentence had conditional probability greater than 1 in 100 million, it was in scope.
+This wasn't a matter of sampling a bunch of outputs and keeping the good ones. Instead, it was closer to an exhaustive search over one-sentence conversational completions above a likelihood threshold. If a sentence had a conditional probability greater than 1 in 100 million, it was in scope.
 
 Even with that setup, the run on [Qwen3.5-35B-A3B-Base](https://huggingface.co/Qwen/Qwen3.5-35B-A3B-Base) finished in under 10 hours. The model fit on [an H100](https://www.nvidia.com/en-us/data-center/h100/) until I ran out of GPU memory after getting too ambitious with the batch size. Son of a batch. So I switched to [an H200](https://www.nvidia.com/en-us/data-center/h200/) for more headroom. I ran it on [Nebius](https://nebius.com/), where it cost [a few dollars per hour](https://nebius.com/prices#:~:text=200-,%243.50,-NVIDIA%20HGX%20H100).
 
