@@ -9,11 +9,17 @@ Even with that setup, the run on [Qwen3.5-35B-A3B-Base](https://huggingface.co/Q
 The result was [a gzipped CSV](https://github.com/8ta4/cues/blob/8914d9815a706950528d5512a931ec9e253b3e1e/cues.csv.gz) with 1M+ candidate sentences. To give a feel for the output, here are a few examples from different parts of the ranking:
 
 1: "No."
+
 10: "Why?"
+
 100: "Why not?"
+
 1,000: "You don't know."
+
 10,000: "What do I get?"
+
 100,000: "You should not do that."
+
 1,000,000: "I'm not calling 911."
 
 [The docs](https://github.com/8ta4/cue/blob/main/DONTREADME.md) already explain the implementation, so I'll leave that part out.
