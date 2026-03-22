@@ -32,6 +32,6 @@ The result was [a gzipped CSV](https://github.com/8ta4/cues/blob/8914d9815a70695
 
 1,000,000: I'm not calling 911.
 
-[The docs](https://github.com/8ta4/cue/blob/main/DONTREADME.md) already explain the implementation. So I'll leave that part out.
+[The docs](https://github.com/8ta4/cue/blob/668cc50c80e651307278a7bee1b94fee411f749f/DONTREADME.md) already explain the implementation. So I'll leave that part out.
 
 This doesn't feel like a typical use of a base model. Open models make this kind of thing possible. I'm curious what other unconventional uses people have found.
