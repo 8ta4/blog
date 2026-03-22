@@ -1,4 +1,14 @@
-I [posted](https://old.reddit.com/r/LanguageTechnology/comments/1q3g3tx/looking_for_a_systematically_built_dataset_of/) on r/LanguageTechnology looking for a frequency-ranked dataset for small talk. What I wanted was something like test prep for conversation.
+I [posted](https://old.reddit.com/r/LanguageTechnology/comments/1q3g3tx/looking_for_a_systematically_built_dataset_of/) on r/LanguageTechnology looking for a frequency-ranked dataset for small talk. What I wanted was something like test prep for conversation. A lot of conversations feel like pattern recognition to me. If common sentence patterns can be ranked by likelihood, I can focus on the ones worth preparing for.
+
+It also seemed useful beyond my own use case.
+
+- Phrasebooks are supposed to teach common expressions, but the choice of what goes in them is usually editorial rather than frequency-based.
+
+- Dictionary example sentences can be oddly specific instead of representative.
+
+- Google Ngram Viewer only gets me so far, since it tops out at 5-grams.
+
+A precomputed ranking of likely conversational sentences seemed like it could fill some of that gap.
 
 I couldn't find anything like that, so I built it myself.
 
