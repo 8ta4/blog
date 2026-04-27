@@ -10,7 +10,7 @@ But the friction started with the standard library. I was using [`nfnl`](https:/
 
 So I switched to a ClojureScript remote plugin. But I traded the macro REPL issues of Fennel for a different kind of REPL headache in ClojureScript.
 
-Specifically, I'm having a bizarre issue where [`println`](https://clojuredocs.org/clojure.core/println) fails inside my async code. It feels nondeterministic. Sometimes the output prints perfectly fine. But other times, `println` disappears into the void. To see the value, I resort to a hack: I create a fake atom and [`reset!`](https://clojuredocs.org/clojure.core/reset!) the value into it. That works. But if I try to [add a watch](https://clojuredocs.org/clojure.core/add-watch) to that fake atom to print the updated value, that doesn't print either!
+Specifically, I'm having a bizarre issue where [`println`](https://clojuredocs.org/clojure.core/println) fails inside my async code. It feels nondeterministic. Sometimes the output prints perfectly fine. But other times, `println` disappears into the void. To see the value, I resort to a hack: I create a fake atom and [`reset!`](https://clojuredocs.org/clojure.core/reset!) the value into it. That works. But if I try to [add a watch](https://clojuredocs.org/clojure.core/add-watch) to that atom to print the updated value, that doesn't print either!
 
 Does anyone have any idea why `println` is getting swallowed in this async Neovim context?
 
