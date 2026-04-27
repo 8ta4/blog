@@ -1,0 +1,17 @@
+I built a Neovim plugin that provides text motions designed for prose. My goal was to bypass blank lines and handle punctuation edge cases. Because it's Neovim, the default Lisp path is Fennel. I started there, but rewrote it as a ClojureScript Node.js remote plugin using `shadow-cljs`.
+
+To be fair, Fennel has upsides:
+
+- There's almost zero ceremony between Fennel and Lua.
+
+- You avoid the async overhead of remote plugins.
+
+But the friction started with the standard library. I was using `nfnl`, which comes with its own Clojure-inspired functions. The problem is they are not comprehensive enough. I found myself manually implementing things like `take-while` just to process text bounds. Since Fennel's `fn` doesn't support variable arity the way Clojure does, I decided to write some macros to implement it myself. Naturally, this devolved into yak shaving. The dealbreaker hit when I ran into a bug in Conjure. When the REPL failed on the macros I was trying to build just to make the language usable, that was the straw that broke the yak's back.
+
+So I switched to a ClojureScript remote plugin. But I traded the macro REPL issues of Fennel for a different kind of REPL headache in ClojureScript.
+
+Specifically, I'm having a bizarre issue where `println` fails inside my async code. It feels nondeterministic. Sometimes the output prints perfectly fine. But other times, `println` disappears into the void. To see the value, I resort to a hack: I create a fake atom and `reset!` the value into it. That works. But if I try to add a watch to that fake atom to print the updated value, that doesn't print either!
+
+Does anyone have any idea why `println` is getting swallowed in this async Neovim context?
+
+If anyone has any other feedback, I'd be happy to hear it.
