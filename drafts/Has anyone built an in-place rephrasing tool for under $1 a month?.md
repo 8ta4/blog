@@ -4,4 +4,8 @@ By using Groq, I can pull suggestions from a model fast enough to keep the whole
 
 I haven't built the tool yet. But I've documented the design in two files:
 
+- https://github.com/8ta4/word/blob/9a1d26f5a42602dc6338961027d547a43ddae472/README.md
+
+- https://github.com/8ta4/word/blob/9a1d26f5a42602dc6338961027d547a43ddae472/DONTREADME.md
+
 Has anyone here worked on something like this? I'd love to see how other people have tackled latency and caching before I commit to the implementation.
