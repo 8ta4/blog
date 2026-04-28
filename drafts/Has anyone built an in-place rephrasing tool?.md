@@ -8,4 +8,4 @@ I haven't built the tool yet. But I've documented the design:
 
 By using [Groq](https://groq.com), I can pull suggestions from a model fast enough to keep the whole thing feeling snappy. I want to hit a keybind inside a sentence, check two alternatives in a bottom overlay, and hit another key to swap the text.
 
-Has anyone here worked on something like this? I'd love to see how other people have tackled latency and caching before I commit to the implementation.
+Has anyone here worked on something like this? I'd love to see how other people have tackled [latency](https://github.com/8ta4/word/blob/9a1d26f5a42602dc6338961027d547a43ddae472/DONTREADME.md#latency) and [caching](https://github.com/8ta4/word/blob/9a1d26f5a42602dc6338961027d547a43ddae472/DONTREADME.md#caching) before I commit to the implementation.
