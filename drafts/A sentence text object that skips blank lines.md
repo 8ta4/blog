@@ -1,4 +1,4 @@
-I posted here a while back asking if there was a sentence text object that didn't stop at blank lines. Who needs to read between the lines?
+I [posted](https://old.reddit.com/r/neovim/comments/1qim6dt/is_there_a_sentence_text_object_that_doesnt_stop) here a while back asking if there was a sentence text object that didn't stop at blank lines. Who needs to read between the lines?
 
 u/Biggybi told me, "[[Y]ou can write your own. It's not too complex.](https://old.reddit.com/r/neovim/comments/1qim6dt/is_there_a_sentence_text_object_that_doesnt_stop/o0vae02)" So I went ahead and built it.
 
