@@ -1,4 +1,4 @@
-I'm done with leaving my editor just to fix one sentence. I'm just trying to keep my prose clean without ever moving my cursor or switching contexts.
+I'm done with leaving my editor just to fix one sentence. I'm just trying to keep my prose clean without moving my cursor or switching contexts.
 
 I haven't built the tool yet. But I've documented the design:
 
