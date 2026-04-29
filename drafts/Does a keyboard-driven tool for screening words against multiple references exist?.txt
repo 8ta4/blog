@@ -1,0 +1,29 @@
+I hate that feeling where everyone else in the room knows a word. It's brutal when you're a comedian and a heckler drops a term you've never heard. To fix that, I built a dataset of about 100k words and 100k phrases that a large language model identifies as recognizable by 50% of Americans.
+
+Reviewing these in a spreadsheet is a nightmare because clicking links to Wiktionary 10k times is a recipe for carpal tunnel. I started dreaming of a tool that would let me fly through the list using only my keyboard. That was my light bulb moment: the light at the end of the carpal tunnel.
+
+This process is for bulk filtering, not learning. Since I already know most of these words, I don't even have to look them up most of the time. I only need the references when I run into a word I'm shaky on, to verify I know at least one sense of the word.
+
+Before I go off and build a solution, I want to see if something already exists. The requirements are:
+
+- Keyboard navigation: I want to use keys like `j` or `k` to move through the list with no mouse involved. My hands are hardwired for Neovim keybindings.
+
+- Bulk operation: The UI needs to be a list format so I can scan a whole screen of rows at once. Since I’m already familiar with most of the list, I want to select a block of items and mark them all as known.
+
+- Multi-reference trigger: I need a shortcut that fires off multiple URLs simultaneously into specific, reusable windows, so my tabs don't explode into a mess. I use `yabai` and `skhd` to arrange windows in a fixed layout and switch between them.
+
+- Browser extensions: The browser windows have to play nice with extensions like uBlock Origin and Vimium.
+
+- Reference configuration: I want to be able to configure the specific set of URLs that opens for every word I check. I prefer Cambridge Dictionary for clear definitions. But I need Wiktionary because I built the dataset from it. Google Images is my go-to for anything physical.
+
+I've anticipated a few questions about my approach:
+
+- I could try to pick up these words in the wild. But I want to go through this list systematically. It's about the psychological confidence that comes from knowing I haven't missed common words.
+
+- Frequency lists can work for words. But they're a disaster for phrases because they often pick up non-idiomatic noise. Because Wiktionary entries are curated for idiomatic use, it's a more reliable source for a phrase dataset.
+
+- I built this dataset for a pun generator I'm working on. You can check [the documentation]() for how I generated the dataset.
+
+- I can definitely trim down the 100k figure. I plan on using Wiktionary categories to filter by English lemmas to make the actual screening task a lot more manageable.
+
+I'm willing to compromise on the specifics. Has anyone seen a tool that handles this?
