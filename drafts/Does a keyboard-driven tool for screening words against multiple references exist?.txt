@@ -24,6 +24,6 @@ I've anticipated a few questions about my approach:
 
 - I built this dataset for [a pun generator](https://github.com/8ta4/pun) I'm working on. You can check [the documentation](https://github.com/8ta4/cue/blob/668cc50c80e651307278a7bee1b94fee411f749f/DONTREADME.md) for how I generated the dataset.
 
-- I can definitely trim down the 100k figure. I plan on using Wiktionary categories to filter by English lemmas to make the actual screening task a lot more manageable.
+- I can trim down the 100k figure. I plan on using Wiktionary categories to filter by [English lemmas](https://en.wiktionary.org/wiki/Category:English_lemmas) to make the screening task more manageable.
 
 I'm willing to compromise on the specifics. Has anyone seen a tool that handles this?
