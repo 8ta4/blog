@@ -1,4 +1,4 @@
-I hate that feeling where everyone else in the room knows a word. It's brutal when you're a comedian and a heckler drops a term you've never heard. To fix that, I built [a dataset](https://github.com/8ta4/pun-data/blob/4b5a2c1eeb992d2c1b8faea2488768eaac6be9dc/normalized.edn.gz) of about 100k words and 100k phrases that a large language model identifies as recognizable by 50% of Americans.
+I hate that feeling when everyone else in the room knows a word. It's brutal when you're a comedian and a heckler drops a term you've never heard. To fix that, I built [a dataset](https://github.com/8ta4/pun-data/blob/4b5a2c1eeb992d2c1b8faea2488768eaac6be9dc/normalized.edn.gz) of about 100k words and 100k phrases that a large language model identifies as recognizable by 50% of Americans.
 
 Reviewing these in a spreadsheet is a nightmare because clicking links to Wiktionary 10k times is a recipe for carpal tunnel. I started dreaming of a tool that would let me fly through the list using only my keyboard. That was my light bulb moment: the light at the end of the carpal tunnel.
 
