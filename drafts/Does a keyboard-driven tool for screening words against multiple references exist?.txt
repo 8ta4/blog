@@ -12,7 +12,7 @@ Before I go off and build a solution, I want to see if something already exists.
 
 - Multi-reference trigger: I need a shortcut that fires off multiple URLs simultaneously into specific, reusable windows, so my tabs don't explode into a mess. I use [`yabai`](https://github.com/asmvik/yabai) and [`skhd`](https://github.com/asmvik/skhd) to arrange windows in a fixed layout and switch between them.
 
-- Browser extensions: The browser windows have to play nice with extensions like [uBlock Origin](https://github.com/uBlockOrigin/uBOL-home) and [Vimium](https://github.com/philc/vimium).
+- Browser extensions: The browser windows have to play nice with extensions like [uBO Lite](https://github.com/uBlockOrigin/uBOL-home) and [Vimium](https://github.com/philc/vimium).
 
 - Reference configuration: I want to be able to configure the specific set of URLs that opens for every word I check. I prefer Cambridge Dictionary for clear definitions. But I need Wiktionary because I built the dataset from it. Google Images is my go-to for anything physical.
 
