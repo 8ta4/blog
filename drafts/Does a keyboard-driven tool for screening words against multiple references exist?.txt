@@ -14,7 +14,7 @@ Before I go off and build a solution, I want to see if something already exists.
 
 - Browser extensions: The browser windows have to play nice with extensions like [uBO Lite](https://github.com/uBlockOrigin/uBOL-home) and [Vimium](https://github.com/philc/vimium).
 
-- Reference configuration: I want to be able to configure the set of URLs that opens for every word I check. I prefer Cambridge Dictionary for clear definitions. But I need Wiktionary because I built the dataset from it. Google Images is my go-to for anything physical.
+- Reference configuration: I want to be able to configure the set of URLs that open for every word I check. I prefer Cambridge Dictionary for clear definitions. But I need Wiktionary because I built the dataset from it. Google Images is my go-to for anything physical.
 
 I've anticipated a few questions about my approach:
 
