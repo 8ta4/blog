@@ -10,9 +10,9 @@ Before I go off and build a solution, I want to see if something already exists.
 
 - Bulk operation: The UI needs to be a list format so I can scan a whole screen of rows at once. Since I’m already familiar with most of the list, I want to select a block of items and mark them all as known.
 
-- Multi-reference trigger: I need a shortcut that fires off multiple URLs simultaneously into specific, reusable windows, so my tabs don't explode into a mess. I use `yabai` and `skhd` to arrange windows in a fixed layout and switch between them.
+- Multi-reference trigger: I need a shortcut that fires off multiple URLs simultaneously into specific, reusable windows, so my tabs don't explode into a mess. I use [`yabai`](https://github.com/asmvik/yabai) and [`skhd`](https://github.com/asmvik/skhd) to arrange windows in a fixed layout and switch between them.
 
-- Browser extensions: The browser windows have to play nice with extensions like uBlock Origin and Vimium.
+- Browser extensions: The browser windows have to play nice with extensions like [uBlock Origin](https://github.com/uBlockOrigin/uBOL-home) and [Vimium](https://github.com/philc/vimium).
 
 - Reference configuration: I want to be able to configure the specific set of URLs that opens for every word I check. I prefer Cambridge Dictionary for clear definitions. But I need Wiktionary because I built the dataset from it. Google Images is my go-to for anything physical.
 
@@ -22,7 +22,7 @@ I've anticipated a few questions about my approach:
 
 - Frequency lists can work for words. But they're a disaster for phrases because they often pick up non-idiomatic noise. Because Wiktionary entries are curated for idiomatic use, it's a more reliable source for a phrase dataset.
 
-- I built this dataset for a pun generator I'm working on. You can check [the documentation]() for how I generated the dataset.
+- I built this dataset for a pun generator I'm working on. You can check [the documentation](https://github.com/8ta4/cue/blob/668cc50c80e651307278a7bee1b94fee411f749f/DONTREADME.md) for how I generated the dataset.
 
 - I can definitely trim down the 100k figure. I plan on using Wiktionary categories to filter by English lemmas to make the actual screening task a lot more manageable.
 
