@@ -2,27 +2,27 @@ I hate that feeling where everyone else in the room knows a word. It's brutal wh
 
 Reviewing these in a spreadsheet is a nightmare because clicking links to Wiktionary 10k times is a recipe for carpal tunnel. I started dreaming of a tool that would let me fly through the list using only my keyboard. That was my light bulb moment: the light at the end of the carpal tunnel.
 
-This process is for bulk filtering, not learning. Since I already know most of these words, I don't even have to look them up most of the time. I only need the references when I run into a word I'm shaky on, to verify I know at least one sense of the word.
+This process is for filtering, not learning. Since I already know most of these words, I don't even have to look them up most of the time. I only need the references when I run into a word I'm shaky on, to verify I know at least one sense of the word.
 
 Before I go off and build a solution, I want to see if something already exists. The requirements are:
 
 - Keyboard navigation: I want to use keys like `j` or `k` to move through the list with no mouse involved. My hands are hardwired for Neovim keybindings.
 
-- Bulk operation: The UI needs to be a list format so I can scan a whole screen of rows at once. Since I’m already familiar with most of the list, I want to select a block of items and mark them all as known.
+- Bulk operation: The UI needs to be a list format so I can scan a screen of rows at once. Since I'm already familiar with most of the list, I want to select a block of items and mark them all as known.
 
 - Multi-reference trigger: I need a shortcut that fires off multiple URLs simultaneously into specific, reusable windows, so my tabs don't explode into a mess. I use [`yabai`](https://github.com/asmvik/yabai) and [`skhd`](https://github.com/asmvik/skhd) to arrange windows in a fixed layout and switch between them.
 
 - Browser extensions: The browser windows have to play nice with extensions like [uBO Lite](https://github.com/uBlockOrigin/uBOL-home) and [Vimium](https://github.com/philc/vimium).
 
-- Reference configuration: I want to be able to configure the specific set of URLs that opens for every word I check. I prefer Cambridge Dictionary for clear definitions. But I need Wiktionary because I built the dataset from it. Google Images is my go-to for anything physical.
+- Reference configuration: I want to be able to configure the set of URLs that opens for every word I check. I prefer Cambridge Dictionary for clear definitions. But I need Wiktionary because I built the dataset from it. Google Images is my go-to for anything physical.
 
 I've anticipated a few questions about my approach:
 
-- I could try to pick up these words in the wild. But I want to go through this list systematically. It's about the psychological confidence that comes from knowing I haven't missed common words.
+- I could try to pick up these words in the wild. But I want to go through this list systematically. It's about the confidence that comes from knowing I haven't missed words.
 
-- Frequency lists can work for words. But they're a disaster for phrases because they often pick up non-idiomatic noise. Because Wiktionary entries are curated for idiomatic use, it's a more reliable source for a phrase dataset.
+- Frequency lists can work for words. But they're a disaster for phrases because they often pick up unidiomatic noise. Because Wiktionary entries are curated for idiomatic use, it's a more reliable source for a phrase dataset.
 
-- I built this dataset for [a pun generator](https://github.com/8ta4/pun) I'm working on. You can check [the documentation](https://github.com/8ta4/cue/blob/668cc50c80e651307278a7bee1b94fee411f749f/DONTREADME.md) for how I generated the dataset.
+- I built this dataset for [a pun generator](https://github.com/8ta4/pun). You can check [the documentation](https://github.com/8ta4/cue/blob/668cc50c80e651307278a7bee1b94fee411f749f/DONTREADME.md) for how I generated the dataset.
 
 - I can trim down the 100k figure. I plan on using Wiktionary categories to filter by [English lemmas](https://en.wiktionary.org/wiki/Category:English_lemmas) to make the screening task more manageable.
 
