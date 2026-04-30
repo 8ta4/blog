@@ -18,7 +18,7 @@ Before I go off and build a solution, I want to see if something already exists.
 
 I've anticipated a few questions about my approach:
 
-- I could try to pick up these words in the wild. But I want to go through this list systematically. It's about the confidence that comes from knowing I haven't missed words.
+- I could try to pick up these words in the wild. But I want to go through this list systematically. It's about the confidence that comes from knowing I haven't missed any words.
 
 - Frequency lists can work for words. But they're a disaster for phrases because they often pick up unidiomatic noise. Because Wiktionary entries are curated for idiomatic use, it's a more reliable source for a phrase dataset.
 
