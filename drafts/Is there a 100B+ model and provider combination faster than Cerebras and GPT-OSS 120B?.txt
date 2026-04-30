@@ -1,5 +1,5 @@
 I'm building an in-place, sentence-by-sentence rephraser and need the full response back in the buffer in under one second.
 
-Cerebras hosts GPT-OSS 120B at ~3000 tokens/s. Is there another production-ready model and provider combination that beats this setup for end-to-end response time while maintaining a similar level of reasoning?
+Cerebras hosts GPT-OSS 120B at ~3000 tokens/s. But things can change once the buffer hits the load. Is there another production-ready model and provider combination that beats this setup for end-to-end response time while maintaining a similar level of reasoning?
 
 Any other feedback on the design is also welcome.
