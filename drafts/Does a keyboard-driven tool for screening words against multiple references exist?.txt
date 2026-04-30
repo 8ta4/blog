@@ -27,3 +27,5 @@ I've anticipated a few questions about my approach:
 - I can trim down the 100k figure. I plan on using Wiktionary categories to filter by [English lemmas](https://en.wiktionary.org/wiki/Category:English_lemmas) to make the screening task more manageable.
 
 I'm willing to compromise on the specifics. Has anyone seen a tool that handles this?
+
+I originally [posted](https://old.reddit.com/r/Anki/comments/1szhvc1/does_a_keyboarddriven_tool_for_screening_words) this in r/Anki. But someone told me, "[This has nothing to do with Anki.](https://old.reddit.com/r/Anki/comments/1szhvc1/does_a_keyboarddriven_tool_for_screening_words/oj2oi6r)"
