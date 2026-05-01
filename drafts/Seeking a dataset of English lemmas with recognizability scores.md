@@ -1,6 +1,6 @@
-I have scored over a million English entries from Wiktionary for recognizability. I built this for a pun tool. But I want to use the data for a new language project.
+I have scored over a million English entries from Wiktionary for recognizability. I built this for [a pun tool](https://github.com/8ta4/pun). But I want to use [the data](https://github.com/8ta4/pun-data/blob/4b5a2c1eeb992d2c1b8faea2488768eaac6be9dc/normalized.edn.gz) for a new language project.
 
-The dataset is way too bloated right now because it's full of inflected forms. Even if I set the recognizability threshold at 50 percent, I'm still looking at 100K words and 100K phrases. Going through a list that size is a waste of time. I need to filter the data through the English lemmas category from Wiktionary and split the single words from the multi-word phrases into separate lists.
+The dataset is way too bloated right now because it's full of inflected forms. Even if I set the recognizability threshold at 50 percent, I'm still looking at 100K words and 100K phrases. Going through a list that size is a waste of time. I need to filter the data through [the English lemmas category](https://en.wiktionary.org/wiki/Category:English_lemmas) from Wiktionary and split the single words from the multi-word phrases into separate lists.
 
 Since the hard part of scoring is done, the rest should be easy peasy lemma squeezy. I just want to avoid reinventing the wheel if I can.
 
