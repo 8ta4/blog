@@ -12,4 +12,4 @@ Here are the features I'm looking for:
 
 - 1-row input bar: The UI is a 1-row floating bar that pops up when a filter is active. It stays open while I swap focus between the bar and the buffer. If I clear the filter, the bar goes away.
 
-Does anyone know of an existing plugin that handles this type of interactive masking?
+Does anyone know of an existing plugin that handles this type of masking?
