@@ -1,4 +1,4 @@
-I checked out the word prevalence dataset of 62,000 lemmas. But it has some limitations:
+I checked out [the word prevalence dataset](https://link.springer.com/article/10.3758/s13428-018-1077-9) of 62,000 lemmas. But it has some limitations:
 
 - It hasn't been updated since 2019.
 
