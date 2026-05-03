@@ -1,4 +1,4 @@
-I'm thinking about building a tool to discover backronyms for initialisms, like Married But Available for MBA. Since the potential search space for these word combinations follows a V^n, where V is the vocabulary size, finding funny sequences is a discovery challenge.
+I'm thinking about building a tool to discover backronyms for initialisms, like Married But Available for MBA. Since the potential search space for these word combinations follows V^n, where V is the vocabulary size, finding funny sequences is a discovery challenge.
 
 I've mapped out a workflow:
 
