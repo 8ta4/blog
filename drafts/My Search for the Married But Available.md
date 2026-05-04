@@ -4,7 +4,7 @@ I've mapped out a workflow:
 
 1. Seeding. Extract over 10,000 English initialisms from Wiktionary.
 
-2. Filtering. Use a recognizability dataset to reduce the list to a subset that most people would know.
+2. Filtering. Use a recognizability dataset to reduce the list to a subset most people would know.
 
 3. Mining. Match these seeds against the Google Ngram dataset for 2- to 5-gram sequences.
 
