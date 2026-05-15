@@ -10,6 +10,4 @@ I'm particularly interested in suggestions on how to:
 
 - Provide an agent with access to Neovim documentation.
 
-- Determine the right depth for an initial specification.
-
-I've laid out the project details in [README.md](https://github.com/8ta4/sift) and [DONTREADME.md](https://github.com/8ta4/sift/blob/6843cacaf3bdebb5a7d14eddef54019f0141454f/DONTREADME.md).
+- Determine the right depth for an initial specification. I've laid out the project details in [README.md](https://github.com/8ta4/sift) and [DONTREADME.md](https://github.com/8ta4/sift/blob/6843cacaf3bdebb5a7d14eddef54019f0141454f/DONTREADME.md).
