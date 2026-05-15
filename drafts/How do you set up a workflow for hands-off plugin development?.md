@@ -1,6 +1,6 @@
-My last plugin was a pain. I began with Fennel but ended up switching over to ClojureScript. Dealing with the friction between the remote plugin's async model and REPL glitches was exhausting.
+My last plugin was a pain. I began with Fennel but ended up switching over to ClojureScript. The remote plugin's async model kept fighting me.
 
-u/velrok7 suggested I try using an LLM to build a plugin. Using models like Claude 4.7 Opus or Gemini 3.1 Pro as pair programmers hasn't worked out for me yet. I find myself micromanaging them. So for this next plugin, I want to treat the agent as an abstraction layer and just let it play fast and Lua.
+u/velrok7 suggested using an LLM to build a plugin. Claude 4.7 Opus or Gemini 3.1 Pro as pair programmers hasn't worked out for me. I find myself micromanaging them. So for this next plugin, I want to treat the agent as an abstraction layer and just let it play fast and Lua.
 
 Does anyone have a solid setup for this kind of automated development?
 
