@@ -1,6 +1,6 @@
 I keep running into the same issue. I need to build these super-niche tools.
 
-Take what I'm working on right now. I need a way to fly through 100k words using Neovim keybindings, bulk-tag them, and fire off reference URLs in my browser.
+Take [what I'm working on](https://github.com/8ta4/sift) right now. I need a way to fly through 100k words using Neovim keybindings, bulk-tag them, and fire off reference URLs in my browser.
 
 I'm looking at a few different ways to handle this:
 
