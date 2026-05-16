@@ -1,0 +1,15 @@
+I keep running into the same issue. I need to build these super-niche tools.
+
+Take what I'm working on right now. I need a way to fly through 100k words using Neovim keybindings, bulk-tag them, and fire off reference URLs in my browser.
+
+I'm looking at a few different ways to handle this:
+
+- DIY. I’m picky about the UX and how the code is implemented. Doing it myself usually gets me the result I want. I usually make the tools open source. But hardly anyone uses them. Plus, I end up feeling guilty for yak shaving instead of doing the actual work. I'm posting this on Reddit, which is a fourth layer of procrastination.
+
+- Vibe code. Agents are amazing if I just need a simple data transformation. But once a project gets complex, I end up micromanaging the agents.
+
+- Hire. It'd be great to just hand off the work so I can focus on actually using the tool. If I hire someone from a lower-cost-of-living area, it's pretty affordable. My hang-up is that it feels like a total dead-end job for the dev since there are zero business prospects. I'd be leaving them hired and dry.
+
+How do you handle it when you need to get a personal tool built?
+
+I'm especially curious to hear from anyone who keeps a personal developer on retainer for this kind of work.
