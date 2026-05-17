@@ -8,7 +8,7 @@ I'm looking at a few different ways to handle this:
 
 - Vibe code. Agents are amazing if I just need a simple data transformation. But once a project gets complex, I end up micromanaging the agents.
 
-- Hire. If I hire someone from a lower-cost-of-living area, it's affordable. My hang-up is that it feels like a total dead-end job since there are zero business prospects. I'd be leaving them hired and dry.
+- Hire. If I hire someone from a lower-cost-of-living area, it's affordable. My hang-up is that it feels like a dead-end job since there are zero business prospects. I'd be leaving them hired and dry.
 
 How do you handle it when you need to get a personal tool built?
 
