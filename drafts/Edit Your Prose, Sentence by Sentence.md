@@ -2,7 +2,7 @@ I made a plugin that helps you edit prose one sentence at a time.
 
 Here's what's included:
 
-- It uses [Groq](https://groq.com/) to fetch suggestions quickly.
+- It uses [Groq](https://groq.com) to fetch suggestions quickly.
 
 - It uses highlight groups to display whether sentences pass or fail.
 
