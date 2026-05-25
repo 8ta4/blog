@@ -10,4 +10,4 @@ Here's what's included:
 
 You can check out the repo [here](https://github.com/8ta4/word).
 
-It's still rough around the edges. I figured I'd release it because it's ready for all sentences and purposes. Feel free to share any feedback or questions.
+It's still rough around the edges. But it's ready for all sentences and purposes. Feel free to share any feedback or questions.
