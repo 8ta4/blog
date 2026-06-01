@@ -1,0 +1,7 @@
+First, `println` sometimes gets swallowed by your ClojureScript REPL. I work around this issue by configuring Neovim's Node client to write to a log file using the `NVIM_NODE_LOG_FILE` environment variable. I tail this file in a split terminal. I'd have gone insane without a REPL. Thankfuly, REPL a day keeps the doctor away.
+
+Second, a Neovim client instance gets passed to your entry point function. I store the instance inside an atom during initialization. This reference lets me evaluate forms in the REPL with a live editor.
+
+Third, it's tedious to run `:UpdateRemotePlugins` by hand. I set up a hook in `shadow-cljs.edn`. After `shadow-cljs` finishes compiling, it invokes Neovim in headless mode to update the remote plugin registration.
+
+I set up this repo using the tricks I talked about. Do you have any other tips? Feel free to share your thoughts!
