@@ -1,0 +1,13 @@
+I need an NLP pipeline to help me with wordplay. I'm after a tool that scans vocabulary to find words or phrases with a double meaning linked to a target theme for joke angles.
+
+To illustrate the mechanic, consider this joke:
+
+When I was told I was bipolar, I didn't know whether to laugh or cry.
+
+Here, the phrase "whether to laugh or cry" has two meanings: the idiomatic one shows mixed feelings, and the literal one points to manic and depressive symptoms. This example leans on a split between figurative and literal meanings. But I'm just trying to find any double meanings that could be used in a joke.
+
+If I put in bipolar disorder as the theme, I'd want the system to pull up phrases like "whether to laugh or cry". Ideally, the tool would let me import my list of words and phrases. I've got a vocab list of roughly 100k English words and phrases. I ran Wiktionary through large language models and grabbed just the terms that most folks are likely to know.
+
+Is there any NLP tool that already does this?
+
+I'd love to hear how you'd build it.
