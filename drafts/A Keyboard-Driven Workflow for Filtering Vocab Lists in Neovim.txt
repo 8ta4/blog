@@ -1,13 +1,13 @@
-Going through a list of thousands of vocab words to decide what to study is such a drag. Filtering these words in spreadsheet software or flashcard apps like Anki is a pain.
+Going through a list of thousands of vocab words to decide what to study is a drag. Filtering these words in a spreadsheet or Anki is a pain.
 
-I built `sift` so cleaning up vocab lists in Neovim is a breeze. You can quickly skim through a heap of vocab, drop the words you already know, and compile a list of what you still need to learn.
+I built this plugin so that cleaning up vocab lists in Neovim is a breeze. You can scroll through a pile of vocab, ditch the words you know, and make a list of what you need to learn.
 
-Instead of manually copying, press `s` (see) to open the word under your cursor in multiple browser windows at once. You can see various reference sources, like dictionary definitions and Google Images, side by side.
+Instead of manually copying, press `s` (see) to open the word under your cursor in multiple Chrome windows at once. You can see various reference sources, like dictionary definitions and Google Images, side by side.
 
 Even though the browser opens these windows, the focus stays inside Neovim. You can mark the word as known with `d` (done), flag it for review with `a` (again) or remove it with `x` (x‑out).
 
-Getting Neovim to talk to your browser through a UNIX socket can sound tricky. But using `sift` isn't socket science.
+This plugin talks to Chrome via a Unix socket behind the scenes. But using this plugin isn't socket science.
 
 The code is [here](https://github.com/8ta4/sift).
 
-I'd appreciate any feedback on the workflow.
+I'd love any feedback!
