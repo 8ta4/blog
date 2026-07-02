@@ -4,9 +4,9 @@ To illustrate the mechanism, consider this Jimmy Carr joke:
 
 The first few weeks of joining Weight Watchers: you're just finding your feet.
 
-Here, the phrase "finding your feet" actually has two meanings. Figuratively, it's about getting used to a new situation. Literally, it's about being able to look down and see your feet. This example leans on a split between figurative and literal meanings. But I'm just trying to find any double meanings that could be used in a joke.
+Here, "finding your feet" can mean two different things. Figuratively, it's about getting used to a new situation. Literally, it's about being able to look down and see your feet. This example leans on a split between figurative and literal meanings. But I'm just trying to find any double meanings that could be used in a joke.
 
-If I put in Weight Watchers as the theme, I'd want the system to pull up phrases like "find one's feet". Ideally, the tool would let me import my list of words and phrases. I've got a vocab list of roughly 100k English words and phrases. I ran Wiktionary through large language models and grabbed just the terms that most folks are likely to know.
+If I put in Weight Watchers as the theme, I'd want the system to pull up phrases like "find one's feet". Ideally, the tool would let me import my list of words and phrases. I've got a vocab list of roughly 100k English words and phrases. I ran Wiktionary through large language models and grabbed the terms that most folks are likely to know.
 
 Is there any NLP tool that already does this?
 
