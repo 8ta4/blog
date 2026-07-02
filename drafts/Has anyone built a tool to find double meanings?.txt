@@ -1,6 +1,6 @@
 I need an NLP pipeline to help me with wordplay. I'm after a tool that scans vocabulary to find words or phrases with a double meaning linked to a target theme for joke angles.
 
-To illustrate the mechanic, consider this joke:
+To illustrate the mechanism, consider this Jimmy Carr joke:
 
 The first few weeks of joining Weight Watchers: you're just finding your feet.
 
