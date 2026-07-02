@@ -2,11 +2,11 @@ I need an NLP pipeline to help me with wordplay. I'm after a tool that scans voc
 
 To illustrate the mechanic, consider this joke:
 
-When I was told I was bipolar, I didn't know whether to laugh or cry.
+The first few weeks of joining Weight Watchers: you're just finding your feet.
 
-Here, the phrase "whether to laugh or cry" has two meanings: the idiomatic one shows mixed feelings, and the literal one points to manic and depressive symptoms. This example leans on a split between figurative and literal meanings. But I'm just trying to find any double meanings that could be used in a joke.
+Here, the phrase "finding your feet" actually has two meanings: figuratively, it's about getting used to a new situation, and literally, it's about being able to look down and see your feet. This example leans on a split between figurative and literal meanings. But I'm just trying to find any double meanings that could be used in a joke.
 
-If I put in bipolar disorder as the theme, I'd want the system to pull up phrases like "whether to laugh or cry". Ideally, the tool would let me import my list of words and phrases. I've got a vocab list of roughly 100k English words and phrases. I ran Wiktionary through large language models and grabbed just the terms that most folks are likely to know.
+If I put in Weight Watchers as the theme, I'd want the system to pull up phrases like "find one's feet". Ideally, the tool would let me import my list of words and phrases. I've got a vocab list of roughly 100k English words and phrases. I ran Wiktionary through large language models and grabbed just the terms that most folks are likely to know.
 
 Is there any NLP tool that already does this?
 
