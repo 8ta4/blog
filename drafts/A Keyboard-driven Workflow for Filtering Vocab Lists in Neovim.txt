@@ -8,6 +8,6 @@ Even though the browser opens these windows, the focus stays inside Neovim. You 
 
 Getting Neovim to talk to your browser through a UNIX socket can sound tricky. But using `sift` isn't socket science.
 
-The code is [here]().
+The code is [here](https://github.com/8ta4/sift).
 
 I'd appreciate any feedback on the workflow.
