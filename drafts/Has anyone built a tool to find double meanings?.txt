@@ -8,6 +8,6 @@ Here, "finding your feet" can mean two different things. Figuratively, it's abou
 
 If I put in Weight Watchers as the theme, I'd want the system to pull up phrases like "find one's feet". Ideally, the tool would let me import my list of words and phrases. I've got a vocab list of roughly 100k English words and phrases. I ran Wiktionary through large language models and grabbed the terms that most folks are likely to know.
 
-Is there any NLP tool that already does this?
+Is there an NLP tool that can spot double meanings?
 
-I'd love to hear how you'd build it.
+Also, I'm curious about how you'd go about building it.
