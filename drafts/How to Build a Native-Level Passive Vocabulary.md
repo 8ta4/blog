@@ -1,6 +1,6 @@
 If you want to understand English at a native level, you don't need to memorize every obscure word in the dictionary. You just need a way to target the vocabulary that most native speakers know.
 
-That's where the `wiktionary.tsv` dataset comes into play. The file was built by running a large language model on more than a million Wiktionary entries.
+That's where the [`wiktionary.tsv`](https://github.com/8ta4/prevalence-data/raw/c79fd1ee936a5b05ad4fecc99b5232d2b9f14b4d/wiktionary.tsv) dataset comes into play. The file was built by running a large language model on more than a million Wiktionary entries.
 
 Check out a sample of the `wiktionary.tsv` data:
 
