@@ -4,6 +4,16 @@ That's where the `wiktionary.tsv` dataset comes into play. The file was built by
 
 Check out a sample of the `wiktionary.tsv` data:
 
+| entry         | prevalence        | lemma | space |
+| ---           | ---               | ---   | ---   |
+| 1             | 100.0             | true  | false |
+| stop sign     | 99.66468861406302 | true  | true  |
+| I love you    | 99.37727885468848 | true  | true  |
+| potatoes      | 99.27349199713656 | false | false |
+| single parent | 97.50911541875394 | true  | true  |
+| humvee        | 83.65356993557272 | true  | false |
+| heterodontid  | 4.700793319016159 | true  | false |
+
 This dataset helps fill the gaps left by language textbooks and frequency lists.
 
 - Textbooks usually skip brand names. You don't normally hear about brand names such as Kleenex in English textbooks. But pretty much every American knows them.
