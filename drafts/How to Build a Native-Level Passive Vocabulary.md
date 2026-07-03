@@ -20,11 +20,11 @@ This dataset helps fill the gaps left by textbooks and frequency lists.
 
 - Frequency lists tend to underrepresent phrasal verbs. Phrases that break up to include objects, like "took him for a ride", can get missed.
 
-The columns in `wiktionary.tsv` are set up to make it easy for you to customize your lists.
+The columns in `wiktionary.tsv` are set up to make it easy to customize your lists.
 
 The `lemma` column shows whether an entry is a lemma in Wiktionary. By filtering where `lemma` is true, you can focus on low-hanging roots of the language.
 
-The `space` column spots entries with spaces so you can tell single words apart from multiword phrases. You can use this to study words and multiword phrases in separate sessions.
+The `space` column spots entries with spaces so you can tell single words apart from multiword phrases. You can study words and multiword phrases in separate sessions.
 
 You can find the code that built this dataset [here](https://github.com/8ta4/prevalence).
 
