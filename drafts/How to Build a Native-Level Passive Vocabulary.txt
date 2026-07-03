@@ -1,0 +1,17 @@
+If you want to understand English at a native level, you don't need to memorize every obscure word in the dictionary. You just need a way to target the vocabulary that most native speakers know.
+
+That's where the `wiktionary.tsv` dataset comes into play. The file was built by running a large language model on more than a million Wiktionary entries.
+
+Check out a sample of the `wiktionary.tsv` data:
+
+This dataset helps fill the gaps left by language textbooks and frequency lists.
+
+- Textbooks usually skip brand names. You don't normally hear about brand names such as Kleenex in English textbooks. But pretty much every American knows them.
+
+- Frequency lists tend to underrepresent phrasal verbs. Phrases that break up to include objects, like "took him for a ride", can get missed.
+
+The columns in `wiktionary.tsv` are set up to make it easy for you to customize your lists.
+
+The `lemma` column shows whether an entry is a lemma in Wiktionary. By filtering where `lemma` is true, you can focus on low-hanging roots of the language.
+
+The `space` column spots entries with spaces, so you can tell single words apart from multi-word phrases. You can use this to study single vocabulary words and multi-word phrases in separate sessions.
