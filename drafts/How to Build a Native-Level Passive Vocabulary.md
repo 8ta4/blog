@@ -25,3 +25,7 @@ The columns in `wiktionary.tsv` are set up to make it easy for you to customize 
 The `lemma` column shows whether an entry is a lemma in Wiktionary. By filtering where `lemma` is true, you can focus on low-hanging roots of the language.
 
 The `space` column spots entries with spaces so you can tell single words apart from multi-word phrases. You can use this to study single vocabulary words and multi-word phrases in separate sessions.
+
+The code used to build this dataset is linked here.
+
+Feel free to share any feedback.
