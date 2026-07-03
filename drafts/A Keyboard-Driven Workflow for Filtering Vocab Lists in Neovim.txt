@@ -1,6 +1,6 @@
 Going through a list of thousands of vocab words to decide what to study is a drag. Filtering these words in a spreadsheet or Anki is a pain.
 
-I built this plugin so that cleaning up vocab lists in Neovim is a breeze. You can scroll through a pile of vocab, ditch the words you know, and make a list of what you need to learn.
+I built this plugin so that cleaning up vocab lists in Neovim is a breeze. You can scroll through a pile of vocab, ditch the words you know and make a list of what you need to learn.
 
 You can press `s` (see) to open the word under your cursor in multiple Chrome windows at once. This lets you see various reference sources, like dictionary definitions and Google Images, side by side.
 
