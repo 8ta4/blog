@@ -26,6 +26,6 @@ The `lemma` column shows whether an entry is a lemma in Wiktionary. By filtering
 
 The `space` column spots entries with spaces so you can tell single words apart from multiword phrases. You can use this to study words and multiword phrases in separate sessions.
 
-The code used to build this dataset is [here](https://github.com/8ta4/prevalence).
+You can find the code that built this dataset [here](https://github.com/8ta4/prevalence).
 
 Feel free to share any feedback.
