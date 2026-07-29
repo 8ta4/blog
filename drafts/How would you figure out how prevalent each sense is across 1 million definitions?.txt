@@ -1,0 +1,33 @@
+I posted here, asking for tools that find double meanings to help generate joke angles. Since then, I've built a proof of concept. I hit a snag in the pipeline.
+
+Take a look at this joke:
+
+If you're not part of the solution, you're a solid or a gas.
+
+These jokes hinge on these conditions:
+
+Condition 1: The word has multiple senses.
+
+Condition 2: Most folks already know both senses.
+
+Condition 3: One sense is linked to the target theme, while the other isn't.
+
+Here's how I picture the pipeline working. First, I filter the dictionary definitions using a prevalence threshold. If a word has multiple definitions that meet this threshold, the word satisfies Conditions 1 and 2.
+
+Next up, I evaluate Condition 3 only for these prevalent senses of the word. I use an LLM as a judge to see how strongly each sense lines up with the target theme. When one sense fits the theme well and another sense of the same word doesn't, that creates a double‑meaning pivot.
+
+The missing piece in this pipeline is a dataset that shows sense prevalence.
+
+Ideally, this dataset would:
+
+- cover more than 1 million definitions to match Wiktionary's scale.
+
+- include slang and vulgar usage.
+
+- give high scores to common sense and low scores to obscure ones.
+
+- make the data open so that it can be freely integrated into open-source projects.
+
+Before I fire up a batch job to build this dataset myself, I want to check if something similar already exists so I don't have to reinvent the wheel. If there isn't a dataset like that, how would you estimate sense prevalence on a dataset this big?
+
+I'd love to hear your thoughts!
