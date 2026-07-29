@@ -28,6 +28,8 @@ Ideally, this dataset would:
 
 - make the data open so that it can be integrated into open-source projects.
 
+I'm not trying to run statistical evaluations against psycholinguistic benchmarks. It's cool as long as synthetic scores can act as a practical proxy for spotting joke angles.
+
 Before I fire up a batch job to build this dataset myself, I want to check if something similar already exists. If there's no dataset like that, how would you figure out sense prevalence at scale?
 
 I'd love to hear your thoughts!
